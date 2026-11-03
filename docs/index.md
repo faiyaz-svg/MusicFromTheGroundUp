@@ -33,11 +33,9 @@ The bass clef and the grand staff, playing with both hands, your first open chor
 
 <span class="mf-stage__number">Stage 3</span>
 
-### The major scale and keys
+### [The major scale and keys](03-the-major-scale-and-keys/index.md)
 
 Sharps and flats, how a major scale is built, key signatures and the circle of fifths, scales on piano, the C, G and D minor chords on guitar, and your first classical piece.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

@@ -1,0 +1,55 @@
+id	front	back	tags
+s3-half-steps-01	What is a half step?	The distance from one key to the very next key on the piano (black or white), or from one fret to the next.	stage3 theory
+s3-half-steps-02	Which two pairs of neighbouring white keys are a half step apart?	E to F, and B to C.	stage3 theory
+s3-half-steps-03	What does a sharp do? A flat? A natural sign?	A sharp raises a note by a half step, a flat lowers it by a half step, and a natural sign cancels a sharp or flat.	stage3 theory
+s3-half-steps-04	How long does an accidental last?	Until the end of the bar. The bar line cancels it.	stage3 theory
+s3-half-steps-05	What does enharmonic mean?	Two names for the same pitch, such as F# and Gb.	stage3 theory
+s3-major-scale-01	What is the major scale pattern?	W W H W W W H (whole, whole, half, whole, whole, whole, half).	stage3 theory
+s3-major-scale-02	Between which scale degrees are the half steps in a major scale?	Between 3 and 4, and between 7 and 8.	stage3 theory
+s3-major-scale-03	What is the tonic?	The first note of a scale, the note it is named after (scale degree 1).	stage3 theory
+s3-major-scale-04	Spell the G major scale.	G, A, B, C, D, E, F#, G.	stage3 theory
+s3-major-scale-05	Spell the D major scale.	D, E, F#, G, A, B, C#, D.	stage3 theory
+s3-major-scale-06	Spell the F major scale.	F, G, A, Bb, C, D, E, F.	stage3 theory
+s3-c-scale-01	What is the right-hand fingering for a one-octave major scale going up (C, G, D)?	1 2 3 1 2 3 4 5.	stage3 piano
+s3-c-scale-02	What is the left-hand fingering for a one-octave major scale going up (C, G, D)?	5 4 3 2 1 3 2 1.	stage3 piano
+s3-c-scale-03	What is thumb-under?	Passing the thumb under the hand to play the next scale note, while the wrist stays level.	stage3 piano
+s3-c-scale-04	What is finger-over?	Passing a finger over the thumb to play the next scale note.	stage3 piano
+s3-sing-01	What is a drone?	A note held steadily under other music.	stage3 ear
+s3-sing-02	Which scale degrees sound stable and restful?	1, 3, 5 and 8.	stage3 ear
+s3-sing-03	Which note does 7 lean toward?	8, the tonic an octave above.	stage3 ear
+s3-sing-04	Sing Twinkle Twinkle by number (first phrase).	1 1 5 5 6 6 5.	stage3 ear
+s3-strings65-01	Name the natural notes on string 6 from fret 0 to 12.	E F G A B C D E at frets 0, 1, 3, 5, 7, 8, 10, 12.	stage3 guitar
+s3-strings65-02	Name the natural notes on string 5 from fret 0 to 12.	A B C D E F G A at frets 0, 2, 3, 5, 7, 8, 10, 12.	stage3 guitar
+s3-strings65-03	What note is at fret 12 of any string?	The open string's note, one octave higher.	stage3 guitar
+s3-strings65-04	What is the 5th-fret rule?	Fret 5 of a string sounds the same as the open string next to it (fret 4 of string 3 for string 2).	stage3 guitar
+s3-strings65-05	Which fret on string 6 plays C?	Fret 8.	stage3 guitar
+s3-chords-01	Which notes are in a C major chord?	C major: C, E, G.	stage3 guitar chords
+s3-chords-02	Which notes are in a G major chord?	G major: G, B, D.	stage3 guitar chords
+s3-chords-03	Which notes are in a D minor chord?	D minor: D, F, A.	stage3 guitar chords
+s3-chords-04	C chord fingering (strings 5 to 1)?	x 3 2 0 1 0: finger 3 on string 5 fret 3, finger 2 on string 4 fret 2, finger 1 on string 2 fret 1.	stage3 guitar chords
+s3-chords-05	G chord fingering (strings 6 to 1) in this book?	3 2 0 0 0 3: finger 3 on string 6 fret 3, finger 2 on string 5 fret 2, finger 4 on string 1 fret 3.	stage3 guitar chords
+s3-chords-06	Dm chord fingering (strings 6 to 1)?	x x 0 2 3 1: finger 2 on string 3 fret 2, finger 3 on string 2 fret 3, finger 1 on string 1 fret 1.	stage3 guitar chords
+s3-sharp-keys-01	What is a key signature?	The sharps or flats at the start of each line, after the clef, that apply to the whole piece.	stage3 theory
+s3-sharp-keys-02	What is the order of sharps?	F C G D A E B.	stage3 theory
+s3-sharp-keys-03	How many sharps does G major have, and which?	G major has one sharp: F#.	stage3 theory
+s3-sharp-keys-04	How many sharps does D major have, and which?	D major has two sharps: F# and C#.	stage3 theory
+s3-sharp-keys-05	How do you find a sharp key from its signature?	Go up a half step from the last sharp. That note is the tonic.	stage3 theory
+s3-scales-gd-01	Which finger plays the F# in the right-hand G major scale?	Finger 4.	stage3 piano
+s3-scales-gd-02	Which fingers play F# and C# in the right-hand D major scale?	F# with finger 3 and C# with finger 4.	stage3 piano
+s3-scales-gd-03	Which finger plays F# in the left-hand G major scale?	Finger 2 (the fingering is 5 4 3 2 1 3 2 1).	stage3 piano
+s3-flat-keys-01	What is the order of flats?	B E A D G C F.	stage3 theory
+s3-flat-keys-02	How do you find a flat key from its signature?	The key is the second-to-last flat. With one flat, the key is F major.	stage3 theory
+s3-flat-keys-03	How many flats do F, Bb and Eb major have?	F major has one flat, Bb major two flats, Eb major three flats.	stage3 theory
+s3-flat-keys-04	In the circle of fifths, which way do sharps increase?	Clockwise from C.	stage3 theory
+s3-flat-keys-05	Which key has four flats?	Ab major has four flats: Bb, Eb, Ab, Db.	stage3 theory
+s3-minuet-01	What is a minuet?	A dance in 3/4 time, with a strong first beat.	stage3 piano
+s3-minuet-02	What are the key and time signature of the Minuet in G?	G major and 3/4.	stage3 piano
+s3-minuet-03	What is a phrase?	A musical sentence, often 2 or 4 bars long.	stage3 theory
+s3-minuet-04	What are the steps for learning a piece in sections?	Cut it into 2 to 4 bar sections, learn each hand alone, put the hands together slowly, then join the sections.	stage3 piano
+s3-guitar-notation-01	What does the 8 under a guitar treble clef mean?	The music sounds an octave lower than it is written.	stage3 guitar reading
+s3-guitar-notation-02	What is first position on guitar?	The hand placement over frets 1 to 4, with one finger per fret.	stage3 guitar reading
+s3-guitar-notation-03	What are the written pitches of the six open strings?	E3, A3, D4, G4, B4, E5 (they sound E2, A2, D3, G3, B3, E4).	stage3 guitar reading
+s3-by-ear-01	What is a step in a melody?	A move to the next note of the scale.	stage3 ear
+s3-by-ear-02	What is a leap in a melody?	A move that skips at least one scale note.	stage3 ear
+s3-by-ear-03	What is the first thing to find when working out a tune by ear?	Where it comes home: the last note is usually 1, the tonic.	stage3 ear
+s3-by-ear-04	Mary Had a Little Lamb by number (first phrase)?	3 2 1 2 3 3 3.	stage3 ear

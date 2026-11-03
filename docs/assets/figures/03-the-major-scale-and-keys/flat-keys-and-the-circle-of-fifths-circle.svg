@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 460" width="460" height="460" role="img" aria-label="The circle of fifths: the twelve major keys in a circle, C at the top, sharps increasing clockwise and flats increasing anticlockwise" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>The circle of fifths: the twelve major keys in a circle, C at the top, sharps increasing clockwise and flats increasing anticlockwise</title>
+<rect width="460" height="460" fill="#fff"/>
+<circle cx="230.0" cy="230.0" r="170" fill="none" stroke="#bbb" stroke-width="2"/>
+<circle cx="230" cy="60" r="34" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="230" y="61" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">C</text>
+<text x="230" y="80" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">none</text>
+<circle cx="315" cy="82.7757" r="34" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="315" y="83.7757" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">G</text>
+<text x="315" y="102.776" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">1 sharp</text>
+<circle cx="377.224" cy="145" r="34" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="377.224" y="146" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">D</text>
+<text x="377.224" y="165" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">2 sharps</text>
+<circle cx="400" cy="230" r="34" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="400" y="231" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<text x="400" y="250" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">3 sharps</text>
+<circle cx="377.224" cy="315" r="34" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="377.224" y="316" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">E</text>
+<text x="377.224" y="335" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">4 sharps</text>
+<circle cx="315" cy="377.224" r="34" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="315" y="378.224" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">B</text>
+<text x="315" y="397.224" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">5 sharps</text>
+<circle cx="230" cy="400" r="34" fill="#d5b3ff" stroke="#111" stroke-width="1.5"/>
+<text x="230" y="396" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">F#/Gb</text>
+<text x="230" y="416" font-size="10" fill="#111" text-anchor="middle" font-weight="normal">6 sharps</text>
+<text x="230" y="428" font-size="10" fill="#111" text-anchor="middle" font-weight="normal">or 6 flats</text>
+<circle cx="145" cy="377.224" r="34" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="145" y="378.224" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">Db</text>
+<text x="145" y="397.224" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">5 flats</text>
+<circle cx="82.7757" cy="315" r="34" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="82.7757" y="316" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">Ab</text>
+<text x="82.7757" y="335" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">4 flats</text>
+<circle cx="60" cy="230" r="34" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="60" y="231" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">Eb</text>
+<text x="60" y="250" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">3 flats</text>
+<circle cx="82.7757" cy="145" r="34" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="82.7757" y="146" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">Bb</text>
+<text x="82.7757" y="165" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">2 flats</text>
+<circle cx="145" cy="82.7757" r="34" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="145" y="83.7757" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">F</text>
+<text x="145" y="102.776" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">1 flat</text>
+<text x="230" y="218" font-size="14" fill="#111" text-anchor="middle" font-weight="normal">Clockwise: each key starts on</text>
+<text x="230" y="238" font-size="14" fill="#111" text-anchor="middle" font-weight="normal">the 5th note of the one before,</text>
+<text x="230" y="258" font-size="14" fill="#111" text-anchor="middle" font-weight="normal">with one more sharp (or one less flat).</text>
+</svg>

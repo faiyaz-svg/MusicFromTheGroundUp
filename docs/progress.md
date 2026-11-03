@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 32 of 157. New lessons appear here as they are added.
+Lessons written so far: 36 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -44,3 +44,7 @@ Lessons written so far: 32 of 157. New lessons appear here as they are added.
 - [ ] [The C, G and D minor chords](03-the-major-scale-and-keys/06-chords-c-g-and-d-minor.md) (guitar)
 - [ ] [Key signatures with sharps](03-the-major-scale-and-keys/07-sharp-key-signatures.md) (theory)
 - [ ] [The G and D major scales](03-the-major-scale-and-keys/08-g-and-d-major-scales.md) (piano)
+- [ ] [Flat keys and the circle of fifths](03-the-major-scale-and-keys/09-flat-keys-and-the-circle-of-fifths.md) (theory)
+- [ ] [Minuet in G](03-the-major-scale-and-keys/10-minuet-in-g.md) (piano)
+- [ ] [Reading notation on guitar](03-the-major-scale-and-keys/11-reading-notation-on-guitar.md) (guitar)
+- [ ] [First tunes by ear](03-the-major-scale-and-keys/12-first-tunes-by-ear.md) (ear)

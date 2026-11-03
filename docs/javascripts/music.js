@@ -72,8 +72,12 @@ function mfRender(pre) {
   // lowest string, so tab blocks get extra room at the bottom.
   if (opts.tab) {
     params.paddingbottom = 30
+    // Guitar music uses clef=treble-8, so abcjs already moves the written
+    // notes down an octave (correct playback). Its tab also expects written
+    // pitch, so the tuning is given an octave lower to match: E2 A2 D3 G3 B3 E4.
     params.tablature = [{
       instrument: "guitar",
+      tuning: ["E,,", "A,,", "D,", "G,", "B,", "E"],
       label: "",
       capo: opts.capo ? Number(opts.capo) : 0,
       highestNote: "e'''",

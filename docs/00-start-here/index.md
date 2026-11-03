@@ -71,4 +71,4 @@ If anything hurts (hands, wrists, arms, shoulders or back), stop. Rest, check yo
 
 ## Where to start
 
-Start with how to practise<!-- link: ../01-first-sounds/01-how-to-practise.md -->, then meet your piano and your guitar. Before you start, read [your daily practice](your-daily-practice.md) and set up what's in [free apps and gear](free-apps-and-gear.md).
+Start with [how to practise](../01-first-sounds/01-how-to-practise.md), then meet your piano and your guitar. Before you start, read [your daily practice](your-daily-practice.md) and set up what's in [free apps and gear](free-apps-and-gear.md).

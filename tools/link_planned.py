@@ -69,6 +69,9 @@ def candidates(target: Path, titles: dict[Path, str]) -> list[str]:
             # "The Pythagorean theorem" is often written "the Pythagorean theorem"
             if title.lower().startswith("the "):
                 names.append(title[4:])
+            # "Stage 7: Pedal, texture and ambient" is often written "stage 7"
+            if ":" in title:
+                names.append(title.split(":", 1)[0])
     return sorted(set(names), key=len, reverse=True)
 
 

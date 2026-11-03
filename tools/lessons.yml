@@ -1,0 +1,260 @@
+# The lesson map for the whole book, in reading order.
+# tools/build_nav.py reads this file and updates the nav in mkdocs.yml,
+# docs/progress.md, and the lesson list in each stage's index.md.
+# The start-here pages (docs/00-start-here) are listed in build_nav.py, not here.
+#
+# Every stage is a flat folder: docs/<folder>/<NN>-<slug>.md
+# A lesson entry is [slug, title, flags]. flags holds exactly one area:
+#   theory, reading, piano, guitar, ear, improvise, other
+# and can also hold "optional" and "stretch" (a piece above the book's target level).
+# The piano path is every lesson not marked guitar; the guitar path is every
+# lesson not marked piano.
+
+folders:
+  - folder: 01-first-sounds
+    title: "Stage 1: First sounds"
+    tab: "1 Sounds"
+    summary: "How to practise, the parts of your piano and guitar, the names of notes, the beat, and your first melodies and first chord."
+    before: "Nothing. This is the start."
+    lessons:
+      - [how-to-practise, "How to practise", [other]]
+      - [meet-your-piano, "Meet your piano", [piano]]
+      - [meet-your-guitar, "Meet your guitar", [guitar]]
+      - [pitch-and-the-musical-alphabet, "Pitch and the musical alphabet", [theory]]
+      - [sitting-and-finger-numbers, "Sitting at the piano and finger numbers", [piano]]
+      - [holding-tuning-and-the-pick, "Holding the guitar, tuning and the pick", [guitar]]
+      - [beat-tempo-and-note-values, "Beat, tempo and note values", [theory]]
+      - [bars-time-signatures-and-rests, "Bars, time signatures and rests", [theory]]
+      - [treble-staff-and-c-position, "The treble staff and C position", [reading]]
+      - [first-melodies-on-piano, "First melodies on piano", [piano]]
+      - [reading-tab, "Reading guitar tab", [guitar]]
+      - [chord-diagrams-and-e-minor, "Chord diagrams and your first chord", [guitar]]
+
+  - folder: 02-two-hands-and-first-chords
+    title: "Stage 2: Two hands and first chords"
+    tab: "2 Two hands"
+    summary: "The bass clef and the grand staff, playing with both hands, your first open chords, strumming, and how to sight-read."
+    before: "Stage 1."
+    lessons:
+      - [bass-clef-and-grand-staff, "The bass clef and the grand staff", [reading]]
+      - [left-hand-c-position, "Left hand in C position", [piano]]
+      - [hands-together, "Hands together", [piano]]
+      - [chords-e-and-a, "The E and A chords", [guitar]]
+      - [ties-dots-and-eighth-notes, "Ties, dots and eighth notes", [theory]]
+      - [chords-a-minor-and-d, "The A minor and D chords", [guitar]]
+      - [legato-staccato-and-dynamics, "Legato, staccato and dynamics", [piano]]
+      - [strumming-down-strokes, "Strumming with down strokes", [guitar]]
+      - [sight-reading-basics, "Sight-reading basics", [reading]]
+      - [g-and-f-positions, "G and F positions", [piano]]
+      - [one-minute-changes, "One-minute chord changes", [guitar]]
+      - [first-chord-pieces, "First chord pieces", [guitar]]
+
+  - folder: 03-the-major-scale-and-keys
+    title: "Stage 3: The major scale and keys"
+    tab: "3 Scales"
+    summary: "Sharps and flats, how a major scale is built, key signatures and the circle of fifths, scales on piano, the C, G and D minor chords on guitar, and your first classical piece."
+    before: "Stages 1 and 2."
+    lessons:
+      - [whole-and-half-steps, "Whole steps, half steps, sharps and flats", [theory]]
+      - [the-major-scale, "The major scale", [theory]]
+      - [c-major-scale-and-thumb-under, "The C major scale and thumb-under", [piano]]
+      - [singing-the-scale-by-number, "Singing the scale by number", [ear]]
+      - [notes-on-strings-6-and-5, "Notes on strings 6 and 5", [guitar]]
+      - [chords-c-g-and-d-minor, "The C, G and D minor chords", [guitar]]
+      - [sharp-key-signatures, "Key signatures with sharps", [theory]]
+      - [g-and-d-major-scales, "The G and D major scales", [piano]]
+      - [flat-keys-and-the-circle-of-fifths, "Flat keys and the circle of fifths", [theory]]
+      - [minuet-in-g, "Minuet in G", [piano]]
+      - [reading-notation-on-guitar, "Reading notation on guitar", [guitar]]
+      - [first-tunes-by-ear, "First tunes by ear", [ear]]
+
+  - folder: 04-intervals-and-triads
+    title: "Stage 4: Intervals and triads"
+    tab: "4 Triads"
+    summary: "The distance between two notes, the four kinds of three-note chord, inversions, hearing intervals and chords, eighth-note strumming, and easy classical pieces."
+    before: "Stages 1 to 3."
+    lessons:
+      - [interval-numbers, "Interval numbers", [theory]]
+      - [interval-qualities, "Interval qualities", [theory]]
+      - [hearing-intervals, "Hearing intervals", [ear]]
+      - [triads, "Triads", [theory]]
+      - [triads-and-arpeggios-on-piano, "Triads and arpeggios on piano", [piano]]
+      - [open-seventh-chords, "Open seventh chords", [guitar]]
+      - [inversions, "Inversions", [theory]]
+      - [inversions-on-piano, "Inversions on piano", [piano]]
+      - [eighth-note-strumming, "Eighth-note strumming", [guitar]]
+      - [reading-by-intervals, "Reading by intervals", [reading]]
+      - [easy-classical-pieces, "Easy classical pieces: Türk and Gurlitt", [piano]]
+      - [hearing-chord-quality, "Hearing chord quality", [ear]]
+
+  - folder: 05-minor-keys-and-chord-charts
+    title: "Stage 5: Minor keys and chord charts"
+    tab: "5 Minor"
+    summary: "Minor scales and keys, chord symbols and chord charts on both instruments, the capo, fingerpicking, broken-chord accompaniment, and sixteenth-note strumming."
+    before: "Stages 1 to 4."
+    lessons:
+      - [natural-minor, "The natural minor scale", [theory]]
+      - [harmonic-and-melodic-minor, "Harmonic and melodic minor", [theory]]
+      - [a-and-d-minor-scales, "The A minor and D minor scales", [piano]]
+      - [chord-symbols-and-chord-charts, "Chord symbols and chord charts", [guitar]]
+      - [relative-and-parallel-keys, "Relative and parallel keys", [theory]]
+      - [chords-from-a-lead-sheet-on-piano, "Chords from a lead sheet on piano", [piano]]
+      - [capo-and-moving-shapes, "The capo and moving shapes", [guitar]]
+      - [hearing-major-and-minor, "Hearing major and minor", [ear]]
+      - [schumann-album-for-the-young, "Schumann: Melody and Soldiers' March", [piano]]
+      - [fingerpicking-basics, "Fingerpicking basics", [guitar]]
+      - [broken-chord-accompaniment, "Broken-chord accompaniment", [piano]]
+      - [sight-reading-in-new-keys, "Sight-reading in new keys", [reading]]
+      - [muting-and-sixteenth-strumming, "Muting and sixteenth-note strumming", [guitar]]
+
+  - folder: 06-meter-terms-and-rhythm
+    title: "Stage 6: Meter, terms and rhythm"
+    tab: "6 Rhythm"
+    summary: "Compound meter, triplets and syncopation, the Italian terms and signs on a score, 6/8 on both instruments, hammer-ons, pull-offs, slides and bends."
+    before: "Stages 1 to 5."
+    lessons:
+      - [compound-meter, "Compound meter", [theory]]
+      - [triplets-and-syncopation, "Triplets and syncopation", [theory]]
+      - [tempo-and-dynamics-terms, "Tempo and dynamics terms", [theory]]
+      - [articulation-and-repeat-signs, "Articulation and repeat signs", [theory]]
+      - [six-eight-on-piano, "6/8 on piano", [piano]]
+      - [six-eight-strumming, "6/8 strumming", [guitar]]
+      - [fingerpicking-patterns, "Fingerpicking patterns", [guitar]]
+      - [burgmuller-easy-studies, "Burgmüller: two easy studies", [piano]]
+      - [rhythm-by-ear, "Rhythm by ear", [ear]]
+      - [hammer-ons-and-pull-offs, "Hammer-ons and pull-offs", [guitar]]
+      - [sight-reading-rhythms, "Sight-reading rhythms", [reading]]
+      - [slides-and-bends, "Slides and bends", [guitar]]
+
+  - folder: 07-pedal-texture-and-ambient
+    title: "Stage 7: Pedal, texture and ambient"
+    tab: "7 Pedal"
+    summary: "The three piano pedals, left-hand accompaniment patterns, a quiet ambient piano style, sus and add9 chords, power chords, and Travis picking."
+    before: "Stages 1 to 6."
+    lessons:
+      - [damper-pedal, "The damper pedal", [piano]]
+      - [legato-pedalling, "Legato pedalling", [piano]]
+      - [half-pedal-una-corda-and-sostenuto, "Half pedal, una corda and sostenuto", [piano]]
+      - [alberti-and-waltz-bass, "Alberti bass and waltz bass", [piano]]
+      - [ambient-piano, "Ambient piano", [piano]]
+      - [sus-and-add9-chords, "Sus and add9 chords", [guitar]]
+      - [power-chords, "Power chords", [guitar]]
+      - [hearing-progressions, "Hearing chord progressions", [ear]]
+      - [voicing-the-melody, "Voicing the melody", [piano]]
+      - [tchaikovsky-album-for-the-young, "Tchaikovsky: Old French Song", [piano]]
+      - [travis-picking, "Travis picking", [guitar]]
+      - [ambient-guitar-arpeggios, "Ambient guitar arpeggios", [guitar]]
+
+  - folder: 08-fretboard-barre-chords-and-caged
+    title: "Stage 8: Fretboard, barre chords and CAGED"
+    tab: "8 Fretboard"
+    summary: "Every note on the guitar neck, barre chords, the CAGED system, all twelve major scales on piano, scales hands together, and a Schumann piece."
+    before: "Stages 1 to 7."
+    lessons:
+      - [fretboard-all-notes, "Every note on the fretboard", [guitar]]
+      - [e-shape-barre-chords, "E-shape barre chords", [guitar]]
+      - [a-shape-barre-chords, "A-shape barre chords", [guitar]]
+      - [barre-chord-pieces, "Barre chord pieces", [guitar]]
+      - [caged-chords, "The CAGED chord shapes", [guitar]]
+      - [caged-scale-shapes, "CAGED scale shapes", [guitar]]
+      - [fretboard-reading, "Reading higher up the neck", [reading]]
+      - [all-major-scales, "All twelve major scales", [piano]]
+      - [scales-and-arpeggios-hands-together, "Scales and arpeggios hands together", [piano]]
+      - [the-happy-farmer, "Schumann: The Happy Farmer", [piano]]
+      - [sight-reading-hands-together, "Sight-reading hands together", [reading]]
+      - [hearing-intervals-2, "Hearing intervals 2", [ear]]
+
+  - folder: 09-harmony
+    title: "Stage 9: Harmony"
+    tab: "9 Harmony"
+    summary: "Roman numerals, the chords of a key, cadences, seventh chords, notes outside the chord, and how to analyse a piece."
+    before: "Stages 1 to 8."
+    lessons:
+      - [roman-numerals, "Roman numerals", [theory]]
+      - [diatonic-chords, "The chords of a key", [theory]]
+      - [cadences, "Cadences", [theory]]
+      - [seventh-chords, "Seventh chords", [theory]]
+      - [seventh-chords-on-piano, "Seventh chords on piano", [piano]]
+      - [maj7-and-min7-barre-shapes, "Major 7 and minor 7 barre shapes", [guitar]]
+      - [cadences-at-the-piano, "Cadences at the piano", [piano]]
+      - [minor-key-progressions, "Minor-key progressions on guitar", [guitar]]
+      - [non-chord-tones, "Non-chord tones", [theory]]
+      - [chopin-prelude-in-a-major, "Chopin: Prelude in A major", [piano]]
+      - [hearing-progressions-2, "Hearing chord progressions 2", [ear]]
+      - [analysing-a-piece, "Analysing a piece", [theory]]
+
+  - folder: 10-classical-repertoire
+    title: "Stage 10: Classical repertoire"
+    tab: "10 Classical"
+    summary: "Classical guitar studies by Giuliani, Carulli, Sor and Carcassi on your steel-string guitar, piano pieces by Clementi and Burgmüller, and a short history of the eras."
+    before: "Stages 1 to 9."
+    lessons:
+      - [fingerstyle-posture-and-studies, "Fingerstyle posture and studies", [guitar]]
+      - [giuliani-right-hand-studies, "Giuliani: right-hand studies", [guitar]]
+      - [carulli-study, "Carulli: a study", [guitar]]
+      - [sor-op-60, "Sor: two lessons from Opus 60", [guitar]]
+      - [carcassi-op-60, "Carcassi: a study from Opus 60", [guitar]]
+      - [clementi-sonatina-op-36-1, "Clementi: Sonatina in C, first movement", [piano]]
+      - [burgmuller-arabesque, "Burgmüller: Arabesque", [piano]]
+      - [burgmuller-ballade, "Burgmüller: Ballade", [piano]]
+      - [bach-minuet-for-guitar, "A Bach minuet for guitar", [guitar]]
+      - [sight-reading-classical, "Sight-reading classical pieces", [reading]]
+      - [music-eras, "The eras of classical music", [theory]]
+      - [aguado-study, "Aguado: a study", [guitar, optional]]
+
+  - folder: 11-film-game-and-anime-harmony
+    title: "Stage 11: Film, game and anime harmony"
+    tab: "11 Film"
+    summary: "The chord moves behind film, game and anime music: the royal road, Aeolian loops, borrowed chords, the Picardy third, pedal points and chromatic mediants."
+    before: "Stages 1 to 10."
+    lessons:
+      - [the-royal-road, "The royal road progression", [theory]]
+      - [royal-road-on-piano, "The royal road on piano", [piano]]
+      - [royal-road-on-guitar, "The royal road on guitar", [guitar]]
+      - [aeolian-loops, "Aeolian loops", [theory]]
+      - [borrowed-chords-and-the-mario-cadence, "Borrowed chords and the Mario cadence", [theory]]
+      - [minor-iv-and-the-picardy-third, "The minor iv and the Picardy third", [theory]]
+      - [pedal-points-and-ostinatos, "Pedal points and ostinatos", [piano]]
+      - [arpeggio-prelude, "An arpeggio prelude", [piano]]
+      - [chromatic-mediants, "Chromatic mediants", [theory]]
+      - [hero-theme-on-guitar, "A hero theme on guitar", [guitar]]
+      - [hearing-film-progressions, "Hearing film progressions", [ear]]
+      - [anime-style-piano-piece, "An anime-style piano piece", [piano]]
+
+  - folder: 12-modes-and-improvising
+    title: "Stage 12: Modes and improvising"
+    tab: "12 Modes"
+    summary: "The modes and the moods they give, left-hand patterns to improvise over, improvising on piano in Dorian, Lydian and ambient styles, and the minor pentatonic on guitar."
+    before: "Stages 1 to 11."
+    lessons:
+      - [modes, "The modes", [theory]]
+      - [hearing-modes, "Hearing the modes", [ear]]
+      - [lydian-wonder, "Lydian and the sound of wonder", [piano]]
+      - [left-hand-patterns-for-improvising, "Left-hand patterns for improvising", [piano]]
+      - [improvise-in-dorian, "Improvise in Dorian", [improvise]]
+      - [improvise-in-lydian, "Improvise in Lydian", [improvise]]
+      - [ambient-improvising, "Ambient improvising", [improvise]]
+      - [minor-pentatonic, "The minor pentatonic scale", [guitar]]
+      - [pentatonic-boxes, "The five pentatonic boxes", [guitar]]
+      - [improvise-over-film-progressions, "Improvise over film progressions", [improvise]]
+      - [call-and-response, "Call and response", [improvise]]
+      - [variations-on-a-theme, "Variations on a theme", [improvise]]
+
+  - folder: 13-capstones
+    title: "Stage 13: Capstones"
+    tab: "13 Capstones"
+    summary: "Transposing, phrases and form, four longer piano pieces, playing by ear, guitar pieces, playing along with yourself, and where to go next."
+    before: "Stages 1 to 12."
+    lessons:
+      - [transposition, "Transposition", [theory]]
+      - [phrases-and-form, "Phrases and form", [theory]]
+      - [alto-and-tenor-clefs, "The alto and tenor clefs", [theory, optional]]
+      - [chopin-prelude-in-e-minor, "Chopin: Prelude in E minor", [piano, stretch]]
+      - [debussy-the-little-shepherd, "Debussy: The Little Shepherd", [piano, stretch]]
+      - [grieg-arietta, "Grieg: Arietta", [piano, stretch]]
+      - [satie-gymnopedie-1, "Satie: Gymnopédie No. 1", [piano, stretch]]
+      - [playing-by-ear, "Playing by ear", [ear]]
+      - [tarrega-adelita, "Tárrega: Adelita", [guitar, optional]]
+      - [bach-for-guitar, "Bach for guitar: a bourrée", [guitar]]
+      - [play-along-with-yourself, "Play along with yourself", [other]]
+      - [what-next, "What next", [other]]

@@ -1,0 +1,17 @@
+site/
+.venv/
+.cache/
+.playwright-mcp/
+__pycache__/
+*.pyc
+node_modules/
+
+# Your own purchased music: local only, never committed or published.
+docs/my-music/
+*.pdf
+*.mid
+*.midi
+
+# Local previews: the figure samples and the theme sample page.
+docs/assets/figures/_samples/
+docs/style-sample.md

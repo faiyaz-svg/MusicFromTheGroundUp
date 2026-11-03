@@ -1,0 +1,9 @@
+{
+  "name": "music-from-the-ground-up-tools",
+  "private": true,
+  "description": "Dev tools for checking the music examples. Not part of the site build.",
+  "type": "module",
+  "devDependencies": {
+    "abcjs": "6.7.2"
+  }
+}

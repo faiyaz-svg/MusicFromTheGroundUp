@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 16 of 157. New lessons appear here as they are added.
+Lessons written so far: 20 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -25,3 +25,7 @@ Lessons written so far: 16 of 157. New lessons appear here as they are added.
 - [ ] [Left hand in C position](02-two-hands-and-first-chords/02-left-hand-c-position.md) (piano)
 - [ ] [Hands together](02-two-hands-and-first-chords/03-hands-together.md) (piano)
 - [ ] [The E and A chords](02-two-hands-and-first-chords/04-chords-e-and-a.md) (guitar)
+- [ ] [Ties, dots and eighth notes](02-two-hands-and-first-chords/05-ties-dots-and-eighth-notes.md) (theory)
+- [ ] [The A minor and D chords](02-two-hands-and-first-chords/06-chords-a-minor-and-d.md) (guitar)
+- [ ] [Legato, staccato and dynamics](02-two-hands-and-first-chords/07-legato-staccato-and-dynamics.md) (piano)
+- [ ] [Strumming with down strokes](02-two-hands-and-first-chords/08-strumming-down-strokes.md) (guitar)

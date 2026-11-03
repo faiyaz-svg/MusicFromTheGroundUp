@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" width="560" height="120" role="img" aria-label="A chord chart: four bars of 4/4. Bars 1 and 2 are Em, bars 3 and 4 are A, with four slashes in each bar" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>A chord chart: four bars of 4/4. Bars 1 and 2 are Em, bars 3 and 4 are A, with four slashes in each bar</title>
+<rect width="560" height="120" fill="#fff"/>
+<line x1="20" y1="30" x2="20" y2="80" stroke="#111" stroke-width="2"/>
+<text x="28" y="24" font-size="18" fill="#111" text-anchor="start" font-weight="bold">Em</text>
+<line x1="150" y1="30" x2="150" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="38" y1="70" x2="54" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="66" y1="70" x2="82" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="94" y1="70" x2="110" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="122" y1="70" x2="138" y2="40" stroke="#111" stroke-width="3"/>
+<text x="158" y="24" font-size="18" fill="#111" text-anchor="start" font-weight="bold">Em</text>
+<line x1="280" y1="30" x2="280" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="168" y1="70" x2="184" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="196" y1="70" x2="212" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="224" y1="70" x2="240" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="252" y1="70" x2="268" y2="40" stroke="#111" stroke-width="3"/>
+<text x="288" y="24" font-size="18" fill="#111" text-anchor="start" font-weight="bold">A</text>
+<line x1="410" y1="30" x2="410" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="298" y1="70" x2="314" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="326" y1="70" x2="342" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="354" y1="70" x2="370" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="382" y1="70" x2="398" y2="40" stroke="#111" stroke-width="3"/>
+<text x="418" y="24" font-size="18" fill="#111" text-anchor="start" font-weight="bold">A</text>
+<line x1="540" y1="30" x2="540" y2="80" stroke="#111" stroke-width="2"/>
+<line x1="428" y1="70" x2="444" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="456" y1="70" x2="472" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="484" y1="70" x2="500" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="512" y1="70" x2="528" y2="40" stroke="#111" stroke-width="3"/>
+<line x1="20" y1="55" x2="540" y2="55" stroke="#fff" stroke-width="0.0001"/>
+<text x="280" y="108" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">Four slashes in each bar: strum a down stroke on every beat</text>
+</svg>

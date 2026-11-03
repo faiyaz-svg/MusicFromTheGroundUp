@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 12 of 157. New lessons appear here as they are added.
+Lessons written so far: 16 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -18,3 +18,10 @@ Lessons written so far: 12 of 157. New lessons appear here as they are added.
 - [ ] [First melodies on piano](01-first-sounds/10-first-melodies-on-piano.md) (piano)
 - [ ] [Reading guitar tab](01-first-sounds/11-reading-tab.md) (guitar)
 - [ ] [Chord diagrams and your first chord](01-first-sounds/12-chord-diagrams-and-e-minor.md) (guitar)
+
+## Stage 2: Two hands and first chords
+
+- [ ] [The bass clef and the grand staff](02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md) (reading)
+- [ ] [Left hand in C position](02-two-hands-and-first-chords/02-left-hand-c-position.md) (piano)
+- [ ] [Hands together](02-two-hands-and-first-chords/03-hands-together.md) (piano)
+- [ ] [The E and A chords](02-two-hands-and-first-chords/04-chords-e-and-a.md) (guitar)

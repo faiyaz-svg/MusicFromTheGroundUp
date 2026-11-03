@@ -15,6 +15,6 @@ The tool keeps five boxes. A card you get right moves up a box and shows less of
 
 Turn on "Play the note after each answer" to connect the sound to the symbol.
 
-This goes with the lessons on [the treble staff and C position](../01-first-sounds/09-treble-staff-and-c-position.md) and the bass clef and the grand staff<!-- link: ../02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md -->. The sharps and flats set goes with whole steps, half steps, sharps and flats<!-- link: ../03-the-major-scale-and-keys/01-whole-and-half-steps.md -->.
+This goes with the lessons on [the treble staff and C position](../01-first-sounds/09-treble-staff-and-c-position.md) and [the bass clef and the grand staff](../02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md). The sharps and flats set goes with whole steps, half steps, sharps and flats<!-- link: ../03-the-major-scale-and-keys/01-whole-and-half-steps.md -->.
 
 <div class="mf-tool" data-tool="flashcards"></div>

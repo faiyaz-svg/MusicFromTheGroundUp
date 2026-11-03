@@ -167,4 +167,4 @@ Record 30 seconds from the front, with your fretting hand, picking arm and the g
 - **Down stroke**: a strum from the thick strings to the thin strings.
 - **Let it ring**: leaving the chord to sound, with the fingers still down.
 
-Next: The bass clef and the grand staff<!-- link: ../02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md -->
+Next: [The bass clef and the grand staff](../02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md)

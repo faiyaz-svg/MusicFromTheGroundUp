@@ -120,7 +120,8 @@ def check(path: Path) -> list[str]:
         issues.append("unbalanced <details>")
     if len(re.findall(r"<div ", text)) != text.count("</div>"):
         issues.append("unbalanced <div>")
-    if path.name != "index.md":
+    # Template checks apply to lessons: files in a stage folder (01-... to 13-...) other than index.md.
+    if path.name != "index.md" and re.match(r"(0[1-9]|1[0-3])-", path.parent.name):
         if not TAG.search(text):
             issues.append("missing the area tag line under the title")
         if "After this lesson you can" not in text:

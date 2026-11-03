@@ -59,7 +59,7 @@ If you read the book in VS Code instead of on the website, music examples show a
 
 ## Practice tools, flashcards and Anki
 
-The Practice tools<!-- link: ../practice/index.md --> tab has drills that run in your browser: note flashcards (a note appears on the staff, and you name it or press the key on an on-screen keyboard), a reading drill, a fretboard drill, and ear quizzes for intervals and chords. A few minutes of flashcards a day is the fastest way to learn to read notes.
+The [Practice tools](../practice/index.md) tab has drills that run in your browser: note flashcards (a note appears on the staff, and you name it or press the key on an on-screen keyboard), a reading drill, a fretboard drill, and ear quizzes for intervals and chords. A few minutes of flashcards a day is the fastest way to learn to read notes.
 
 Each stage also gets an Anki deck. Anki is a free flashcard app that schedules reviews for you: a card you know comes back after a longer gap each time, and a card you miss comes back soon. Download a stage's deck from its overview page and import it (in Anki desktop, choose File, then Import; on Android, open it with AnkiDroid).
 
@@ -71,4 +71,4 @@ If anything hurts (hands, wrists, arms, shoulders or back), stop. Rest, check yo
 
 ## Where to start
 
-Start with how to practise<!-- link: ../01-first-sounds/01-how-to-practise.md -->, then meet your piano and your guitar. Before you start, read your daily practice<!-- link: your-daily-practice.md --> and set up what's in free apps and gear<!-- link: free-apps-and-gear.md -->.
+Start with how to practise<!-- link: ../01-first-sounds/01-how-to-practise.md -->, then meet your piano and your guitar. Before you start, read [your daily practice](your-daily-practice.md) and set up what's in [free apps and gear](free-apps-and-gear.md).

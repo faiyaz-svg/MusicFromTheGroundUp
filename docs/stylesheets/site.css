@@ -691,3 +691,175 @@ input {
 :focus-visible { outline: 3px solid var(--stage); outline-offset: 2px; }
 .md-typeset a:focus-visible { outline-color: #000; }
 [data-md-color-scheme="slate"] .md-typeset a:focus-visible { outline-color: #fff; }
+
+
+/* ---------- Practice tools ---------- */
+/* Used by docs/javascripts/practice.js. The panel stays white with black text
+   in both colour schemes, like the music blocks. Right is teal, wrong is salmon. */
+
+.mf-tool {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+}
+.mf-tool-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+.mf-tool-row.mf-two > * { flex: 1 1 8rem; }
+.mf-tool-group { margin: 0.75rem 0; }
+.mf-sets {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0 1rem;
+}
+.mf-sets.mf-strings { grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr)); }
+.mf-tool-check {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: 2.75rem;
+  cursor: pointer;
+}
+.mf-tool-check input {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0;
+  accent-color: #000;
+  flex: none;
+}
+.mf-tool-field { display: flex; flex-direction: column; gap: 0.25rem; font-weight: 700; flex: 1 1 12rem; }
+.mf-tool-select {
+  min-height: 3rem;
+  padding: 0 0.5rem;
+  border: 2px solid #000;
+  border-radius: 0;
+  background: #fff;
+  color: #000;
+  font: inherit;
+  font-weight: 400;
+}
+
+.mf-tool-btn {
+  min-width: 3.25rem;
+  min-height: 3.5rem;
+  padding: 0.4rem 0.9rem;
+  border: 2px solid #000;
+  border-radius: 0;
+  background: #fff;
+  color: #000;
+  font: inherit;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  cursor: pointer;
+  touch-action: manipulation;
+  box-shadow: none;
+}
+.mf-tool-btn:hover { background: #f2f2f2; }
+.mf-tool-btn[aria-pressed="true"] { background: #000; color: #fff; }
+.mf-tool-btn.is-right,
+.mf-tool-btn.is-right:hover,
+.mf-tool-btn.is-right[aria-pressed="true"] { background: #00d2be; color: #000; }
+.mf-tool-btn.is-wrong,
+.mf-tool-btn.is-wrong:hover { background: #ff8389; color: #000; }
+.mf-tool-btn.is-tapped { outline: 4px solid #000; outline-offset: -6px; }
+.mf-tool-btn:focus-visible { outline: 3px solid #000; outline-offset: 2px; }
+.mf-tool-btn[hidden],
+.mf-tool [hidden] { display: none; }
+.mf-next { min-width: 10rem; }
+.mf-play { width: 100%; min-height: 4.5rem; font-size: 1.3rem; }
+
+.mf-letters {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.35rem;
+  margin: 0.75rem 0;
+}
+.mf-letters .mf-tool-btn { min-width: 0; padding: 0; min-height: 4rem; font-size: 1.4rem; }
+.mf-choices {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+
+.mf-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 13rem;
+  margin: 0.75rem 0;
+  border: 2px solid #000;
+  background: #fff;
+  overflow: hidden;
+}
+.mf-card svg { display: block; max-width: 100%; height: auto; }
+.mf-msg {
+  min-height: 2.2rem;
+  margin: 0.5rem 0;
+  padding: 0.25rem 0.5rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+.mf-msg.is-right { background: #00d2be; }
+.mf-msg.is-wrong { background: #ff8389; }
+.mf-prompt { margin: 0.75rem 0; font-weight: 700; font-size: 1.1rem; }
+.mf-small { margin: 0.5rem 0; font-size: 0.85rem; color: #4d4d4d; }
+
+.mf-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+.mf-stat {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  border: 2px solid #000;
+  font-size: 0.85rem;
+}
+.mf-stat strong { font-size: 1.5rem; line-height: 1.2; }
+.mf-stat.is-right { background: #00d2be; }
+
+/* Piano keyboard */
+.mf-kb { display: block; width: 100%; height: auto; margin: 0.75rem 0 0; touch-action: manipulation; }
+.mf-key { fill: #fff; stroke: #000; stroke-width: 1; cursor: pointer; }
+.mf-key.black { fill: #000; }
+.mf-key.is-right,
+.mf-key.black.is-right { fill: #00d2be; }
+.mf-key.is-wrong,
+.mf-key.black.is-wrong { fill: #ff8389; }
+.mf-key.is-tapped { stroke-width: 3; }
+.mf-key-label { fill: #000; font-size: 9px; pointer-events: none; }
+
+/* Fretboard */
+.mf-fretboard { overflow-x: auto; margin: 0.5rem 0; }
+.mf-fretboard-svg { display: block; width: 100%; min-width: 560px; height: auto; }
+.mf-fb-wood { fill: #f2f2f2; stroke: #000; stroke-width: 1; }
+.mf-fb-fret { stroke: #b3b3b3; stroke-width: 2; }
+.mf-fb-nut { stroke: #000; stroke-width: 5; }
+.mf-fb-string { stroke: #000; }
+.mf-fb-inlay { fill: #b3b3b3; }
+.mf-fb-num { fill: #000; font-size: 11px; }
+.mf-fb-hit { fill: transparent; cursor: pointer; }
+.mf-fb-dot circle { stroke: #000; stroke-width: 2; pointer-events: none; }
+.mf-fb-dot text { fill: #000; font-size: 12px; font-weight: 700; pointer-events: none; }
+.mf-fb-dot.is-ask circle { fill: #000; }
+.mf-fb-dot.is-ask text { fill: #fff; }
+.mf-fb-dot.is-right circle { fill: #00d2be; }
+.mf-fb-dot.is-wrong circle { fill: #ff8389; }
+
+@media screen and (max-width: 40em) {
+  .mf-tool { padding: 0.75rem 0.6rem; }
+  .mf-card { min-height: 11rem; }
+  .mf-letters { gap: 0.25rem; }
+  .mf-stat strong { font-size: 1.25rem; }
+}
+.mf-drill { max-width: 32rem; margin-left: auto; margin-right: auto; }

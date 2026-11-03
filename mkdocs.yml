@@ -75,6 +75,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/abcjs@6.7.2/dist/abcjs-basic-min.js
   - javascripts/theme.js
   - javascripts/music.js
+  - javascripts/practice.js
   - javascripts/prevnext.js
   - javascripts/progress.js
 
@@ -92,4 +93,11 @@ nav:
       - "Free apps and gear": 00-start-here/free-apps-and-gear.md
       - "Credits": 00-start-here/credits.md
       - "Progress": progress.md
+  - Practice tools:
+      - practice/index.md
+      - "Note flashcards": practice/note-flashcards.md
+      - "Reading drill": practice/reading-drill.md
+      - "Fretboard drill": practice/fretboard-drill.md
+      - "Interval ear quiz": practice/interval-quiz.md
+      - "Chord ear quiz": practice/chord-quiz.md
 # nav:end

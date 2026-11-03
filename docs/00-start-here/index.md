@@ -10,7 +10,7 @@ The book has 13 stages. Each stage teaches a little theory and reading, then put
 
 | Stage | What you learn |
 |---|---|
-| Stage 1: First sounds<!-- link: ../01-first-sounds/index.md --> | How to practise, your two instruments, note names, the beat, first melodies, tab and your first chord |
+| [Stage 1: First sounds](../01-first-sounds/index.md) | How to practise, your two instruments, note names, the beat, first melodies, tab and your first chord |
 | Stage 2: Two hands and first chords<!-- link: ../02-two-hands-and-first-chords/index.md --> | The bass clef and grand staff, hands together, open chords, strumming, sight reading |
 | Stage 3: The major scale and keys<!-- link: ../03-the-major-scale-and-keys/index.md --> | Sharps and flats, the major scale, key signatures, your first classical piece, notation on guitar |
 | Stage 4: Intervals and triads<!-- link: ../04-intervals-and-triads/index.md --> | Intervals, triads and inversions, hearing them, eighth-note strumming |

@@ -4,7 +4,7 @@
 
 After this lesson you can run a 30-minute practice session with a warm-up, a new skill and a review, keep time with a metronome, and record yourself to check your own playing.
 
-Before this: [How to use this book](../00-start-here/index.md). You need: your piano, your guitar, and a phone with a metronome app and a camera (the free apps and gear page<!-- link: ../00-start-here/free-apps-and-gear.md --> lists some).
+Before this: [How to use this book](../00-start-here/index.md). You need: your piano, your guitar, and a phone with a metronome app and a camera ([free apps and gear](../00-start-here/free-apps-and-gear.md) lists some).
 
 ## The idea
 

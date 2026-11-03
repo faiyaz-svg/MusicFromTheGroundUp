@@ -93,6 +93,20 @@ nav:
       - "Free apps and gear": 00-start-here/free-apps-and-gear.md
       - "Credits": 00-start-here/credits.md
       - "Progress": progress.md
+  - "1 Sounds":
+      - 01-first-sounds/index.md
+      - "How to practise": 01-first-sounds/01-how-to-practise.md
+      - "Meet your piano": 01-first-sounds/02-meet-your-piano.md
+      - "Meet your guitar": 01-first-sounds/03-meet-your-guitar.md
+      - "Pitch and the musical alphabet": 01-first-sounds/04-pitch-and-the-musical-alphabet.md
+      - "Sitting at the piano and finger numbers": 01-first-sounds/05-sitting-and-finger-numbers.md
+      - "Holding the guitar, tuning and the pick": 01-first-sounds/06-holding-tuning-and-the-pick.md
+      - "Beat, tempo and note values": 01-first-sounds/07-beat-tempo-and-note-values.md
+      - "Bars, time signatures and rests": 01-first-sounds/08-bars-time-signatures-and-rests.md
+      - "The treble staff and C position": 01-first-sounds/09-treble-staff-and-c-position.md
+      - "First melodies on piano": 01-first-sounds/10-first-melodies-on-piano.md
+      - "Reading guitar tab": 01-first-sounds/11-reading-tab.md
+      - "Chord diagrams and your first chord": 01-first-sounds/12-chord-diagrams-and-e-minor.md
   - Practice tools:
       - practice/index.md
       - "Note flashcards": practice/note-flashcards.md

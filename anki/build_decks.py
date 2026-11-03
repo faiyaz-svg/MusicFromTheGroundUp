@@ -1,19 +1,20 @@
 """Build Anki decks from the card files in anki/cards/.
 
 Each anki/cards/<stem>.tsv becomes docs/downloads/anki/<stem>.apkg, one deck
-per book folder. Run it from the repo root:
+per stage (plus generated decks such as note reading). Run it from the repo root:
 
     .venv/Scripts/python anki/build_decks.py
 
-File format (see anki/README.md for the full rules):
+File format:
 
-- UTF-8, tab-separated, header row exactly: id<TAB>front<TAB>back<TAB>tags
-- Every row has exactly 4 columns. A field can't contain a tab or a newline:
-  write <br> for a line break. Quotes are ordinary characters.
+- UTF-8, tab-separated, 4 columns: id<TAB>front<TAB>back<TAB>tags. A first row
+  exactly "id front back tags" is a header and is skipped.
+- A field can't contain a tab or a newline: write <br> for a line break.
 - Blank lines and lines starting with # are skipped.
-- Math is written as in the book: $...$ inline, $$...$$ display, and \\$ for a
-  literal dollar sign. The build converts math to \\(...\\) and \\[...\\],
-  which Anki's MathJax renders.
+- Images: write <img src="mfgu-....svg"> in a field. The file must be in
+  anki/media/ and its name must start with "mfgu-" (Anki keeps every deck's
+  media in one folder, so the prefix keeps names from clashing). The build
+  puts each image into the package.
 
 The build checks every file first and writes nothing if any file has an error.
 Each error is printed as path:line: message, and the exit code is 1.
@@ -32,7 +33,6 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
-import html
 import io
 import itertools
 import json
@@ -49,32 +49,38 @@ import genanki
 
 ROOT = Path(__file__).resolve().parent.parent
 CARDS_DIR = ROOT / "anki" / "cards"
+MEDIA_DIR = ROOT / "anki" / "media"
 OUT_DIR = ROOT / "docs" / "downloads" / "anki"
 
-BOOK_TITLE = "Math From the Ground Up"
+BOOK_TITLE = "Music From the Ground Up"
 
-# Readable deck titles for the book folders. Other stems are used as they are.
+# Readable deck titles. Other stems are used as they are.
 FOLDER_TITLES = {
-    "00-start-here": "00 Start here",
-    "01-elementary": "01 Elementary",
-    "02-middle-school": "02 Middle school",
-    "03-high-school": "03 High school",
-    "04-proofs-and-logic": "04 Proofs and logic",
-    "05-university-core": "05 University core",
-    "06-cs-math": "06 CS math",
-    "07-economics-math": "07 Economics math",
-    "08-financial-math": "08 Financial math",
-    "reference": "Reference",
+    "00-note-reading": "00 Note reading",
+    "01-first-sounds": "01 First sounds",
+    "02-two-hands-and-first-chords": "02 Two hands and first chords",
+    "03-the-major-scale-and-keys": "03 The major scale and keys",
+    "04-intervals-and-triads": "04 Intervals and triads",
+    "05-minor-keys-and-chord-charts": "05 Minor keys and chord charts",
+    "06-meter-terms-and-rhythm": "06 Meter, terms and rhythm",
+    "07-pedal-texture-and-ambient": "07 Pedal, texture and ambient",
+    "08-fretboard-barre-chords-and-caged": "08 Fretboard, barre chords and CAGED",
+    "09-harmony": "09 Harmony",
+    "10-classical-repertoire": "10 Classical repertoire",
+    "11-film-game-and-anime-harmony": "11 Film, game and anime harmony",
+    "12-modes-and-improvising": "12 Modes and improvising",
+    "13-capstones": "13 Capstones",
 }
 
 # The note type is shared by every deck. Its ID must never change: Anki uses it
 # to recognise the note type when a deck is imported again.
-MODEL_ID = 1_581_934_517
-MODEL_NAME = "Math From the Ground Up (basic)"
+MODEL_ID = 1_729_403_611
+MODEL_NAME = "Music From the Ground Up (basic)"
 
 HEADER = ["id", "front", "back", "tags"]
 ID_RE = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 TAG_RE = re.compile(r"[A-Za-z0-9_-]+(?:::[A-Za-z0-9_-]+)*")
+IMG_RE = re.compile(r'<img\s+src="([^"]+)"\s*/?>')
 
 QUESTION_TEMPLATE = '<div class="front">{{Front}}</div>'
 ANSWER_TEMPLATE = (
@@ -86,44 +92,44 @@ ANSWER_TEMPLATE = (
 
 CARD_CSS = """\
 .card {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  font-family: Jost, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
   font-size: 20px;
   line-height: 1.5;
-  text-align: left;
-  color: #1f2328;
-  background-color: #fbfbf8;
+  text-align: center;
+  color: #111;
+  background-color: #fff;
 }
 .front, .back, .source, hr#answer {
   max-width: 36em;
   margin-left: auto;
   margin-right: auto;
 }
+.front img, .back img {
+  max-width: 100%;
+  height: auto;
+  background: #fff;
+}
 hr#answer {
   border: none;
-  border-top: 1px solid #d0d0cc;
+  border-top: 2px solid #111;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 .source {
   margin-top: 1.5em;
   font-size: 14px;
-  color: #66665f;
-}
-code {
-  font-family: ui-monospace, "Cascadia Mono", Consolas, "Liberation Mono",
-    monospace;
-  font-size: 0.9em;
+  color: #4d4d4d;
 }
 .card.nightMode, .card.night_mode, .nightMode .card, .night_mode .card {
-  color: #e6e6e3;
-  background-color: #1e1f22;
+  color: #eee;
+  background-color: #1e1e1e;
 }
 .nightMode hr#answer, .night_mode hr#answer {
-  border-top-color: #46484c;
+  border-top-color: #858585;
 }
 .nightMode .source, .night_mode .source {
-  color: #a3a39d;
+  color: #b3b3b3;
 }
 """
 
@@ -131,83 +137,14 @@ code {
 ZIP_DATE = (1980, 1, 1, 0, 0, 0)
 
 
-class MathError(ValueError):
-    """A field has unbalanced or empty math delimiters."""
-
-
 @dataclass
 class Card:
     line: int
     id: str
-    front: str  # already converted for Anki
+    front: str
     back: str
     tags: list[str] = field(default_factory=list)
-
-
-# Math conversion
-
-
-def _find_close(text: str, start: int, display: bool) -> int:
-    """Return the index of the delimiter that closes math opened before `start`.
-
-    A backslash escapes the next character, so \\$ inside math is a dollar sign
-    and does not close it. Raises MathError if there is no closing delimiter.
-    """
-    i = start
-    while i < len(text):
-        c = text[i]
-        if c == "\\":
-            i += 2
-            continue
-        if c == "$":
-            if not display:
-                return i
-            if text.startswith("$$", i):
-                return i
-            raise MathError(
-                f"single $ inside $$...$$ at column {i + 1} "
-                "(write \\$ for a dollar sign)"
-            )
-        i += 1
-    delim = "$$" if display else "$"
-    raise MathError(f"{delim} at column {start - len(delim) + 1} is never closed")
-
-
-def convert_math(text: str) -> str:
-    """Convert book-style math to the delimiters Anki's MathJax uses.
-
-    $$...$$ becomes \\[...\\] and $...$ becomes \\(...\\). Outside math, \\$
-    becomes a literal $. Inside math, \\$ stays as it is (MathJax shows it as a
-    dollar sign), and <, > and & are escaped for HTML, so write them directly.
-    Raises MathError for unbalanced or empty math.
-    """
-    out: list[str] = []
-    i = 0
-    n = len(text)
-    while i < n:
-        c = text[i]
-        if c == "\\" and i + 1 < n:
-            nxt = text[i + 1]
-            out.append("$" if nxt == "$" else c + nxt)
-            i += 2
-        elif c == "$":
-            display = text.startswith("$$", i)
-            width = 2 if display else 1
-            start = i + width
-            end = _find_close(text, start, display)
-            body = text[start:end]
-            if not body.strip():
-                raise MathError(f"empty math at column {i + 1}")
-            opener, closer = (r"\[", r"\]") if display else (r"\(", r"\)")
-            out.append(opener + html.escape(body, quote=False) + closer)
-            i = end + width
-        else:
-            out.append(c)
-            i += 1
-    return "".join(out)
-
-
-# Reading and checking card files
+    media: list[str] = field(default_factory=list)
 
 
 def display_path(path: Path) -> str:
@@ -227,11 +164,11 @@ def deck_name(stem: str) -> str:
 
 def deck_id(stem: str) -> int:
     """A stable deck ID in the range [2**30, 2**31), from the SHA-1 of the stem."""
-    h = int(hashlib.sha1(stem.encode("utf-8")).hexdigest()[:8], 16)
+    h = int(hashlib.sha1(("music:" + stem).encode("utf-8")).hexdigest()[:8], 16)
     return (1 << 30) + h % (1 << 30)
 
 
-def read_cards(path: Path) -> tuple[list[Card], list[str]]:
+def read_cards(path: Path, media_dir: Path = MEDIA_DIR) -> tuple[list[Card], list[str]]:
     """Read and check one card file. Returns (cards, errors)."""
     where = display_path(path)
     cards: list[Card] = []
@@ -243,73 +180,61 @@ def read_cards(path: Path) -> tuple[list[Card], list[str]]:
     except UnicodeDecodeError as exc:
         return [], [f"{where}: not valid UTF-8 ({exc})"]
 
-    reader = csv.reader(io.StringIO(raw, newline=""), delimiter="\t",
-                        quoting=csv.QUOTE_NONE)
-    header = next(reader, None)
-    if header != HEADER:
-        return [], [f"{where}:1: header must be id, front, back, tags "
-                    f"separated by tabs; found {header!r}"]
-
+    reader = csv.reader(io.StringIO(raw, newline=""), delimiter="\t", quoting=csv.QUOTE_NONE)
     for row in reader:
         line = reader.line_num
         if not row or (len(row) == 1 and not row[0].strip()):
             continue
-        if row[0].startswith("#"):
+        if row[0].startswith("#") or (line == 1 and [c.strip() for c in row] == HEADER):
             continue
         loc = f"{where}:{line}"
         if len(row) != 4:
-            errors.append(f"{loc}: expected 4 tab-separated columns "
-                          f"(id, front, back, tags), found {len(row)}")
+            errors.append(f"{loc}: expected 4 tab-separated columns (id, front, back, tags), found {len(row)}")
             continue
 
         card_id, front, back, tags = (col.strip() for col in row)
         row_ok = True
 
         if not ID_RE.fullmatch(card_id):
-            errors.append(f"{loc}: id {card_id!r} must be a lowercase slug "
-                          "such as bases-hex-digit-values")
+            errors.append(f"{loc}: id {card_id!r} must be a lowercase slug such as s1-staff-middle-c")
             row_ok = False
         elif card_id in first_line:
-            errors.append(f"{loc}: duplicate id {card_id!r} "
-                          f"(first used on line {first_line[card_id]})")
+            errors.append(f"{loc}: duplicate id {card_id!r} (first used on line {first_line[card_id]})")
             row_ok = False
         else:
             first_line[card_id] = line
 
-        converted = {}
+        media: list[str] = []
         for name, value in (("front", front), ("back", back)):
             if not value:
                 errors.append(f"{loc}: {name} is empty")
                 row_ok = False
                 continue
-            try:
-                converted[name] = convert_math(value)
-            except MathError as exc:
-                errors.append(f"{loc}: {name}: {exc}")
-                row_ok = False
-                continue
-            bad_tags = genanki.Note._find_invalid_html_tags_in_field(converted[name])
+            bad_tags = genanki.Note._find_invalid_html_tags_in_field(value)
             if bad_tags:
-                errors.append(f"{loc}: {name}: invalid HTML {' '.join(bad_tags)!r} "
-                              "(outside math, write < as &lt;)")
+                errors.append(f"{loc}: {name}: invalid HTML {' '.join(bad_tags)!r} (write < as &lt;)")
                 row_ok = False
+            for src in IMG_RE.findall(value):
+                if not src.startswith("mfgu-") or "/" in src:
+                    errors.append(f"{loc}: image {src!r} must be a bare file name starting with mfgu-")
+                    row_ok = False
+                elif not (media_dir / src).is_file():
+                    errors.append(f"{loc}: image {src!r} is not in {display_path(media_dir)}")
+                    row_ok = False
+                else:
+                    media.append(src)
 
         tag_list = tags.split()
         for tag in tag_list:
             if not TAG_RE.fullmatch(tag):
-                errors.append(f"{loc}: tag {tag!r} may only use letters, digits, "
-                              "- and _ (and :: for nested tags)")
+                errors.append(f"{loc}: tag {tag!r} may only use letters, digits, - and _ (and :: for nested tags)")
                 row_ok = False
 
         if row_ok:
             all_tags = list(dict.fromkeys(tag_list + [path.stem]))
-            cards.append(Card(line, card_id, converted["front"],
-                              converted["back"], all_tags))
+            cards.append(Card(line, card_id, front, back, all_tags, media))
 
     return cards, errors
-
-
-# Building packages
 
 
 def make_model() -> genanki.Model:
@@ -317,33 +242,28 @@ def make_model() -> genanki.Model:
         MODEL_ID,
         MODEL_NAME,
         fields=[{"name": "Front"}, {"name": "Back"}, {"name": "Source"}],
-        templates=[{"name": "Card 1", "qfmt": QUESTION_TEMPLATE,
-                    "afmt": ANSWER_TEMPLATE}],
+        templates=[{"name": "Card 1", "qfmt": QUESTION_TEMPLATE, "afmt": ANSWER_TEMPLATE}],
         css=CARD_CSS,
     )
 
 
 def make_deck(stem: str, cards: list[Card]) -> genanki.Deck:
     title = folder_title(stem)
-    deck = genanki.Deck(
-        deck_id(stem),
-        deck_name(stem),
-        description=f"Flashcards for {title} in {BOOK_TITLE}.",
-    )
+    deck = genanki.Deck(deck_id(stem), deck_name(stem), description=f"Flashcards for {title} in {BOOK_TITLE}.")
     model = make_model()
     for position, card in enumerate(cards):
         deck.add_note(genanki.Note(
             model=model,
             fields=[card.front, card.back, title],
             tags=card.tags,
-            guid=genanki.guid_for(stem, card.id),
+            guid=genanki.guid_for("music", stem, card.id),
             due=position,  # new cards come up in file order
         ))
     return deck
 
 
-def build_apkg(stem: str, cards: list[Card], timestamp: int) -> bytes:
-    """Return the .apkg file contents for one deck."""
+def build_apkg(stem: str, cards: list[Card], timestamp: int, media_dir: Path = MEDIA_DIR) -> bytes:
+    """Return the .apkg file contents for one deck, with its images."""
     package = genanki.Package(make_deck(stem, cards))
     with closing(sqlite3.connect(":memory:")) as conn:
         cursor = conn.cursor()
@@ -351,9 +271,15 @@ def build_apkg(stem: str, cards: list[Card], timestamp: int) -> bytes:
         conn.commit()
         db_bytes = conn.serialize()
 
+    media_names = sorted({name for card in cards for name in card.media})
+    media_map = {str(i): name for i, name in enumerate(media_names)}
+    entries = [("collection.anki2", db_bytes)]
+    entries += [(str(i), (media_dir / name).read_bytes()) for i, name in enumerate(media_names)]
+    entries.append(("media", json.dumps(media_map, sort_keys=True).encode("utf-8")))
+
     buf = io.BytesIO()
     with zipfile.ZipFile(buf, "w") as zf:
-        for name, data in (("collection.anki2", db_bytes), ("media", b"{}")):
+        for name, data in entries:
             info = zipfile.ZipInfo(name, date_time=ZIP_DATE)
             info.compress_type = zipfile.ZIP_DEFLATED
             info.create_system = 0
@@ -375,31 +301,24 @@ def previous_timestamp(apkg: bytes) -> int | None:
         return None
 
 
-def write_deck(stem: str, cards: list[Card], out_path: Path,
-               now: int | None = None) -> bool:
-    """Write one deck. Returns True if the file changed, False if it didn't.
-
-    If the existing file was built from the same content, it is left alone
-    (rebuilding with its old timestamp gives the same bytes). Otherwise the
-    deck gets the current time, so Anki treats its notes as newer.
-    """
+def write_deck(stem: str, cards: list[Card], out_path: Path, now: int | None = None,
+               media_dir: Path = MEDIA_DIR) -> bool:
+    """Write one deck. Returns True if the file changed, False if it didn't."""
     old = out_path.read_bytes() if out_path.exists() else None
     if old is not None:
         old_ts = previous_timestamp(old)
-        if old_ts is not None and build_apkg(stem, cards, old_ts) == old:
+        if old_ts is not None and build_apkg(stem, cards, old_ts, media_dir) == old:
             return False
     timestamp = int(time.time()) if now is None else now
-    out_path.write_bytes(build_apkg(stem, cards, timestamp))
+    out_path.write_bytes(build_apkg(stem, cards, timestamp, media_dir))
     return True
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(
-        description="Build docs/downloads/anki/<stem>.apkg from anki/cards/<stem>.tsv.")
-    parser.add_argument("--cards", type=Path, default=CARDS_DIR,
-                        help="folder of .tsv card files (default: anki/cards)")
-    parser.add_argument("--out", type=Path, default=OUT_DIR,
-                        help="output folder (default: docs/downloads/anki)")
+    parser = argparse.ArgumentParser(description="Build docs/downloads/anki/<stem>.apkg from anki/cards/<stem>.tsv.")
+    parser.add_argument("--cards", type=Path, default=CARDS_DIR, help="folder of .tsv card files")
+    parser.add_argument("--media", type=Path, default=MEDIA_DIR, help="folder of card images")
+    parser.add_argument("--out", type=Path, default=OUT_DIR, help="output folder")
     args = parser.parse_args(argv)
     for stream in (sys.stdout, sys.stderr):
         if hasattr(stream, "reconfigure"):
@@ -413,7 +332,7 @@ def main(argv: list[str] | None = None) -> int:
     decks: list[tuple[str, list[Card]]] = []
     errors: list[str] = []
     for path in paths:
-        cards, file_errors = read_cards(path)
+        cards, file_errors = read_cards(path, args.media)
         errors.extend(file_errors)
         decks.append((path.stem, cards))
 
@@ -429,10 +348,10 @@ def main(argv: list[str] | None = None) -> int:
             print(f"{stem}: no cards, skipped")
             continue
         out_path = args.out / f"{stem}.apkg"
-        changed = write_deck(stem, cards, out_path)
+        changed = write_deck(stem, cards, out_path, media_dir=args.media)
         status = "" if changed else " (unchanged)"
-        print(f"{deck_name(stem)}: {len(cards)} cards -> "
-              f"{display_path(out_path)}{status}")
+        images = len({m for c in cards for m in c.media})
+        print(f"{deck_name(stem)}: {len(cards)} cards, {images} images -> {display_path(out_path)}{status}")
     return 0
 
 

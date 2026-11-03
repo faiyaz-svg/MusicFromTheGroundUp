@@ -16,6 +16,6 @@ If a note stops you, turn on "Show note names" for a moment, then turn it off an
 
 Look at the whole bar before you play it, so your eyes are ahead of your hands.
 
-Levels 1 and 2 go with the lessons on [the treble staff and C position](../01-first-sounds/09-treble-staff-and-c-position.md) and [the bass clef and the grand staff](../02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md). Levels 3 to 6 go with G and F positions<!-- link: ../02-two-hands-and-first-chords/10-g-and-f-positions.md --> and sight-reading basics<!-- link: ../02-two-hands-and-first-chords/09-sight-reading-basics.md -->.
+Levels 1 and 2 go with the lessons on [the treble staff and C position](../01-first-sounds/09-treble-staff-and-c-position.md) and [the bass clef and the grand staff](../02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md). Levels 3 to 6 go with [G and F positions](../02-two-hands-and-first-chords/10-g-and-f-positions.md) and [sight-reading basics](../02-two-hands-and-first-chords/09-sight-reading-basics.md).
 
 <div class="mf-tool" data-tool="reading-drill"></div>

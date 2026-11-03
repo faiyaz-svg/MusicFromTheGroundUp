@@ -23,11 +23,9 @@ How to practise, the parts of your piano and guitar, the names of notes, the bea
 
 <span class="mf-stage__number">Stage 2</span>
 
-### Two hands and first chords
+### [Two hands and first chords](02-two-hands-and-first-chords/index.md)
 
 The bass clef and the grand staff, playing with both hands, your first open chords, strumming, and how to sight-read.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

@@ -107,6 +107,20 @@ nav:
       - "First melodies on piano": 01-first-sounds/10-first-melodies-on-piano.md
       - "Reading guitar tab": 01-first-sounds/11-reading-tab.md
       - "Chord diagrams and your first chord": 01-first-sounds/12-chord-diagrams-and-e-minor.md
+  - "2 Two hands":
+      - 02-two-hands-and-first-chords/index.md
+      - "The bass clef and the grand staff": 02-two-hands-and-first-chords/01-bass-clef-and-grand-staff.md
+      - "Left hand in C position": 02-two-hands-and-first-chords/02-left-hand-c-position.md
+      - "Hands together": 02-two-hands-and-first-chords/03-hands-together.md
+      - "The E and A chords": 02-two-hands-and-first-chords/04-chords-e-and-a.md
+      - "Ties, dots and eighth notes": 02-two-hands-and-first-chords/05-ties-dots-and-eighth-notes.md
+      - "The A minor and D chords": 02-two-hands-and-first-chords/06-chords-a-minor-and-d.md
+      - "Legato, staccato and dynamics": 02-two-hands-and-first-chords/07-legato-staccato-and-dynamics.md
+      - "Strumming with down strokes": 02-two-hands-and-first-chords/08-strumming-down-strokes.md
+      - "Sight-reading basics": 02-two-hands-and-first-chords/09-sight-reading-basics.md
+      - "G and F positions": 02-two-hands-and-first-chords/10-g-and-f-positions.md
+      - "One-minute chord changes": 02-two-hands-and-first-chords/11-one-minute-changes.md
+      - "First chord pieces": 02-two-hands-and-first-chords/12-first-chord-pieces.md
   - Practice tools:
       - practice/index.md
       - "Note flashcards": practice/note-flashcards.md

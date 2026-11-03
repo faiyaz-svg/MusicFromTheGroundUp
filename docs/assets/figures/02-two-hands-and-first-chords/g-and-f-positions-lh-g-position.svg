@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 142" width="152" height="142" role="img" aria-label="Piano keyboard from G2 to D3" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Piano keyboard from G2 to D3</title>
+<rect width="152" height="142" fill="#fff"/>
+<rect x="6" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="34" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="62" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="90" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="118" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="25.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="53.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="109.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<circle cx="20" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="20" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">5</text>
+<circle cx="48" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="48" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">4</text>
+<circle cx="76" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="76" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">3</text>
+<circle cx="104" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="104" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<circle cx="132" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="132" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">1</text>
+</svg>

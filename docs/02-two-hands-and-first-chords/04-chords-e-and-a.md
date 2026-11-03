@@ -12,7 +12,7 @@ Before this: [Chord diagrams and your first chord](../01-first-sounds/12-chord-d
 
 Play your Em chord and strum all six strings once. Then add your index finger on string 3 at fret 1, keeping fingers 2 and 3 where they are, and strum again. The second chord sounds brighter and more open. That chord is **E**, the E major chord. A chord named with only a letter, like E or A, is a **major chord**. The Em chord (E minor) is the darker one.
 
-The two chords differ in one note. Em plays E, G and B. E plays E, G# and B. The G# (G sharp) is the G raised by one **half step**, the smallest step in the music you read, which on the guitar is one fret. The lesson Whole steps, half steps, sharps and flats<!-- link: ../03-the-major-scale-and-keys/01-whole-and-half-steps.md --> in stage 3 explains sharps in full. For now, the chord shapes are all you need.
+The two chords differ in one note. Em plays E, G and B. E plays E, G# and B. The G# (G sharp) is the G raised by one **half step**, the smallest step in the music you read, which on the guitar is one fret. The lesson [Whole steps, half steps, sharps and flats](../03-the-major-scale-and-keys/01-whole-and-half-steps.md) in stage 3 explains sharps in full. For now, the chord shapes are all you need.
 
 ### The E chord
 

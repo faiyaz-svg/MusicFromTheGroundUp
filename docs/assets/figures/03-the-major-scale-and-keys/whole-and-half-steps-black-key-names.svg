@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 188" width="236" height="188" role="img" aria-label="Piano keyboard from C4 to C5 with the sharp and flat name of each black key above it" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Piano keyboard from C4 to C5 with the sharp and flat name of each black key above it</title>
+<rect width="236" height="188" fill="#fff"/>
+<text x="34" y="20" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">C#</text>
+<text x="34" y="36" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">Db</text>
+<text x="62" y="20" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">D#</text>
+<text x="62" y="36" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">Eb</text>
+<text x="118" y="20" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">F#</text>
+<text x="118" y="36" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">Gb</text>
+<text x="146" y="20" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">G#</text>
+<text x="146" y="36" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">Ab</text>
+<text x="174" y="20" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">A#</text>
+<text x="174" y="36" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">Bb</text>
+<g transform="translate(0 46)">
+<rect x="6" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="34" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="62" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="90" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="118" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="146" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="174" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="202" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="25.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="53.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="109.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="137.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="165.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+</g>
+</svg>

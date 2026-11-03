@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 186" width="236" height="186" role="img" aria-label="Piano keyboard from G4 to G5" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Piano keyboard from G4 to G5</title>
+<rect width="236" height="186" fill="#fff"/>
+<rect x="6" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="34" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="62" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="90" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="118" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="146" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="174" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="202" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="25.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="53.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="109.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="137.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="193.6" y="6" width="16.8" height="80.6" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<text x="20" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">1</text>
+<text x="48" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<text x="76" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">3</text>
+<text x="104" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">4</text>
+<text x="132" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">5</text>
+<text x="160" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">6</text>
+<text x="202" y="70.6" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">7</text>
+<text x="216" y="122" font-size="11" fill="#111" text-anchor="middle" font-weight="bold">8</text>
+<path d="M23 144 V152 H45 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="23" y="158" width="22" height="20" rx="0" fill="#d5b3ff" stroke="#111" stroke-width="1.2"/>
+<text x="34" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<path d="M51 144 V152 H73 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="51" y="158" width="22" height="20" rx="0" fill="#d5b3ff" stroke="#111" stroke-width="1.2"/>
+<text x="62" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<path d="M79 144 V152 H101 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="79" y="158" width="22" height="20" rx="0" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<text x="90" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">H</text>
+<path d="M107 144 V152 H129 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="107" y="158" width="22" height="20" rx="0" fill="#d5b3ff" stroke="#111" stroke-width="1.2"/>
+<text x="118" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<path d="M135 144 V152 H157 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="135" y="158" width="22" height="20" rx="0" fill="#d5b3ff" stroke="#111" stroke-width="1.2"/>
+<text x="146" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<path d="M163 144 V152 H199 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="170" y="158" width="22" height="20" rx="0" fill="#d5b3ff" stroke="#111" stroke-width="1.2"/>
+<text x="181" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<path d="M205 144 V152 H213 V144" fill="none" stroke="#111" stroke-width="1.5"/>
+<rect x="198" y="158" width="22" height="20" rx="0" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<text x="209" y="173" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">H</text>
+</svg>

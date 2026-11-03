@@ -151,4 +151,4 @@ Forgetting the starting string: A starts on string 5, D starts on string 4, and 
 - **Chord symbol**: the name of a chord written above a bar, such as Em or A.
 - **Chord piece**: a piece in which you strum the chords written above a melody.
 
-Next: Whole steps, half steps, sharps and flats<!-- link: ../03-the-major-scale-and-keys/01-whole-and-half-steps.md -->
+Next: [Whole steps, half steps, sharps and flats](../03-the-major-scale-and-keys/01-whole-and-half-steps.md)

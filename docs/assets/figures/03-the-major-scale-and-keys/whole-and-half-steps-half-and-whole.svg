@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 186" width="236" height="186" role="img" aria-label="Piano keyboard from C4 to C5" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Piano keyboard from C4 to C5</title>
+<rect width="236" height="186" fill="#fff"/>
+<rect x="6" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="34" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="62" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="90" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="118" y="6" width="28" height="130" fill="#00d2be" stroke="#111" stroke-width="1.2"/>
+<rect x="146" y="6" width="28" height="130" fill="#00d2be" stroke="#111" stroke-width="1.2"/>
+<rect x="174" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="202" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="25.6" y="6" width="16.8" height="80.6" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="53.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="109.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="137.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="165.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<path d="M14 140 V148 H40 V140" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="27" y="166" font-size="10" fill="#111" text-anchor="middle" font-weight="bold">half step</text>
+<path d="M70 140 V148 H110 V140" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="90" y="166" font-size="10" fill="#111" text-anchor="middle" font-weight="bold">half step</text>
+<path d="M126 140 V148 H166 V140" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="146" y="166" font-size="10" fill="#111" text-anchor="middle" font-weight="bold">whole step</text>
+</svg>

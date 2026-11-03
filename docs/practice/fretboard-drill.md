@@ -14,6 +14,6 @@ Start with strings 6 and 5 only. Add the next string when you know those two wit
 
 Leave "Include sharps" off until the natural notes are easy. A sharp is the note between two others, such as F# between F and G.
 
-This goes with the lessons on notes on strings 6 and 5<!-- link: ../03-the-major-scale-and-keys/05-notes-on-strings-6-and-5.md --> and every note on the fretboard<!-- link: ../08-fretboard-barre-chords-and-caged/01-fretboard-all-notes.md -->.
+This goes with the lessons on [notes on strings 6 and 5](../03-the-major-scale-and-keys/05-notes-on-strings-6-and-5.md) and every note on the fretboard<!-- link: ../08-fretboard-barre-chords-and-caged/01-fretboard-all-notes.md -->.
 
 <div class="mf-tool" data-tool="fretboard"></div>

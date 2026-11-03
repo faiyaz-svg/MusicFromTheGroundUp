@@ -863,3 +863,53 @@ input {
   .mf-stat strong { font-size: 1.25rem; }
 }
 .mf-drill { max-width: 32rem; margin-left: auto; margin-right: auto; }
+
+/* ===== Home page: one flat colour block per stage (built by tools/build_nav.py) ===== */
+.md-typeset .mf-stages {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+}
+.md-typeset .mf-stage {
+  padding: 1rem 1.1rem 1.1rem;
+  color: #000;
+  background: var(--mf-grey);
+}
+.md-typeset .mf-stage[data-colour="1"] { background: var(--mf-yellow); }
+.md-typeset .mf-stage[data-colour="2"] { background: var(--mf-salmon); }
+.md-typeset .mf-stage[data-colour="3"] { background: var(--mf-lavender); }
+.md-typeset .mf-stage[data-colour="4"] { background: var(--mf-teal); }
+.md-typeset .mf-stage[data-colour="5"] { background: var(--mf-blue); }
+.md-typeset .mf-stage .mf-stage__number {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.md-typeset .mf-stage h3 {
+  margin: 0.2rem 0 0.4rem;
+  padding: 0;
+  border: 0;
+  font-size: 1.05rem;
+  line-height: 1.25;
+  color: #000;
+}
+.md-typeset .mf-stage h3::before { display: none; }
+.md-typeset .mf-stage h3 a,
+.md-typeset .mf-stage h3 a:hover {
+  color: #000;
+  text-decoration-color: #000;
+}
+.md-typeset .mf-stage p {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.45;
+  color: #000;
+}
+.md-typeset .mf-stage .mf-stage__soon {
+  margin-top: 0.5rem;
+  font-size: 0.7rem;
+  font-weight: 500;
+}

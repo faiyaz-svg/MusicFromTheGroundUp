@@ -2,7 +2,7 @@
 
 This book takes you from your first note to an intermediate level on piano and guitar. On piano, the aim is to read sheet music well and sight-read new pieces, up to classical pieces at about RCM Level 5 or 6 (the Royal Conservatory levels used across Canada). On guitar, the aim is chords all over the neck, strumming and fingerpicking from chord charts and tab, and easy classical studies. Theory, ear training and improvising run through the whole book, with examples from classical music and from the chord moves behind film, game and anime music.
 
-No music knowledge is assumed. Every term is explained the first time it appears, and the glossary<!-- link: ../reference/glossary.md --> collects them all.
+No music knowledge is assumed. Every term is explained the first time it appears, and the [glossary](../reference/glossary.md) collects them all.
 
 ## The stages
 

@@ -335,6 +335,33 @@ def write_folder_index(f: Folder) -> None:
     path.write_text(text, encoding="utf-8", newline="\n")
 
 
+HOME = DOCS / "index.md"
+HOME_START = "<!-- stages:start -->"
+HOME_END = "<!-- stages:end -->"
+
+
+def write_home(folders: list[Folder]) -> None:
+    """The home page's grid of stage blocks: a link once a stage has a lesson."""
+    if not HOME.is_file():
+        return
+    text = HOME.read_text(encoding="utf-8")
+    pattern = re.compile(re.escape(HOME_START) + r".*?" + re.escape(HOME_END), re.S)
+    if not pattern.search(text):
+        return
+    lines = [HOME_START, '<div class="mf-stages" markdown>', ""]
+    for n, f in enumerate(folders, 1):
+        written = any(lesson.exists for lesson in f.all_lessons()) and exists(f"{f.folder}/index.md")
+        name = f.title.split(": ", 1)[-1]
+        heading = f"[{name}]({f.folder}/index.md)" if written else name
+        lines += [f'<div class="mf-stage" data-colour="{(n - 1) % 5 + 1}" markdown>', "",
+                  f'<span class="mf-stage__number">Stage {n}</span>', "", f"### {heading}", "", f.summary, ""]
+        if not written:
+            lines += ['<p class="mf-stage__soon">Not written yet</p>', ""]
+        lines += ["</div>", ""]
+    lines += ["</div>", HOME_END]
+    HOME.write_text(pattern.sub(lambda _: "\n".join(lines), text), encoding="utf-8", newline="\n")
+
+
 def main() -> None:
     global TRACKED
     if "--tracked" in sys.argv[1:]:
@@ -345,6 +372,7 @@ def main() -> None:
         if any(lesson.exists for lesson in f.all_lessons()) or exists(f"{f.folder}/index.md"):
             write_folder_index(f)
     write_progress(folders)
+    write_home(folders)
     write_nav(folders)
     total = sum(len(f.all_lessons()) for f in folders)
     written = sum(1 for f in folders for lesson in f.all_lessons() if lesson.exists)

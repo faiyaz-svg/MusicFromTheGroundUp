@@ -114,4 +114,8 @@ nav:
       - "Fretboard drill": practice/fretboard-drill.md
       - "Interval ear quiz": practice/interval-quiz.md
       - "Chord ear quiz": practice/chord-quiz.md
+  - Reference:
+      - reference/index.md
+      - "Glossary": reference/glossary.md
+      - "Common mistakes": reference/common-mistakes.md
 # nav:end

@@ -87,5 +87,9 @@ extra_css:
 nav:
   - Start here:
       - index.md
+      - "How to use this book": 00-start-here/index.md
+      - "Your daily practice": 00-start-here/your-daily-practice.md
+      - "Free apps and gear": 00-start-here/free-apps-and-gear.md
+      - "Credits": 00-start-here/credits.md
       - "Progress": progress.md
 # nav:end

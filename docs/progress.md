@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 4 of 157. New lessons appear here as they are added.
+Lessons written so far: 8 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -10,3 +10,7 @@ Lessons written so far: 4 of 157. New lessons appear here as they are added.
 - [ ] [Meet your piano](01-first-sounds/02-meet-your-piano.md) (piano)
 - [ ] [Meet your guitar](01-first-sounds/03-meet-your-guitar.md) (guitar)
 - [ ] [Pitch and the musical alphabet](01-first-sounds/04-pitch-and-the-musical-alphabet.md) (theory)
+- [ ] [Sitting at the piano and finger numbers](01-first-sounds/05-sitting-and-finger-numbers.md) (piano)
+- [ ] [Holding the guitar, tuning and the pick](01-first-sounds/06-holding-tuning-and-the-pick.md) (guitar)
+- [ ] [Beat, tempo and note values](01-first-sounds/07-beat-tempo-and-note-values.md) (theory)
+- [ ] [Bars, time signatures and rests](01-first-sounds/08-bars-time-signatures-and-rests.md) (theory)

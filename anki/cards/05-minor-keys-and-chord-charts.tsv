@@ -1,0 +1,65 @@
+s5-natural-minor-01	What is the step pattern of the natural minor scale?	W H W W H W W (whole and half steps)	stage5 theory scales
+s5-natural-minor-02	Spell the A natural minor scale.	A, B, C, D, E, F, G, A (no sharps or flats)	stage5 theory scales
+s5-natural-minor-03	Compared with the major scale on the same note, which scale degrees are lowered in natural minor?	The 3rd, 6th and 7th, each by a half step (1 2 b3 4 5 b6 b7).	stage5 theory scales
+s5-natural-minor-04	Spell the E natural minor scale.	E, F#, G, A, B, C, D, E (one sharp)	stage5 theory scales
+s5-natural-minor-05	Spell the D natural minor scale.	D, E, F, G, A, Bb, C, D (one flat)	stage5 theory scales
+s5-natural-minor-06	Which major key is the relative major of A minor?	C major. Both have no sharps or flats, and C is a minor 3rd above A.	stage5 theory keys
+s5-harmonic-and-melodic-minor-01	What is the leading tone?	The note a half step below the tonic. It leads up to the tonic (G# in A minor).	stage5 theory scales
+s5-harmonic-and-melodic-minor-02	How does the harmonic minor scale differ from natural minor?	The 7th note is raised by a half step.	stage5 theory scales
+s5-harmonic-and-melodic-minor-03	Spell the A harmonic minor scale.	A, B, C, D, E, F, G#, A	stage5 theory scales
+s5-harmonic-and-melodic-minor-04	What is the melodic minor scale?	Natural minor with the 6th and 7th raised going up. Coming down, it uses natural minor.	stage5 theory scales
+s5-harmonic-and-melodic-minor-05	Spell the A melodic minor scale going up and down.	Up: A, B, C, D, E, F#, G#, A. Down: A, G, F, E, D, C, B, A.	stage5 theory scales
+s5-harmonic-and-melodic-minor-06	Which step in the harmonic minor scale is three half steps wide?	The step from the 6th note to the raised 7th (F to G# in A minor).	stage5 theory scales
+s5-a-and-d-minor-scales-01	Right-hand fingering for the A minor scale going up one octave?	1 2 3 1 2 3 4 5	stage5 piano scales fingering
+s5-a-and-d-minor-scales-02	Left-hand fingering for the A minor scale going up one octave?	5 4 3 2 1 3 2 1	stage5 piano scales fingering
+s5-a-and-d-minor-scales-03	Which finger plays Bb in the right-hand D minor scale?	Finger 3 (D1 E2 F3 G1 A2 Bb3 C4 D5).	stage5 piano scales fingering
+s5-a-and-d-minor-scales-04	How many flats does the D minor key signature have?	One flat: Bb.	stage5 theory keys
+s5-a-and-d-minor-scales-05	In D melodic minor going up, which notes are raised?	B (Bb becomes B natural) and C (becomes C#). Coming down they return to Bb and C.	stage5 theory scales
+s5-chord-symbols-and-chord-charts-01	What does a slash chord such as D/F# mean?	A D chord with F# as the lowest note (the bass).	stage5 guitar charts
+s5-chord-symbols-and-chord-charts-02	What does each slash in a chord chart bar stand for?	One beat.	stage5 guitar charts
+s5-chord-symbols-and-chord-charts-03	What does a chord chart sign with a slash and a dot on each side mean?	Play the previous bar again.	stage5 guitar charts
+s5-chord-symbols-and-chord-charts-04	What does a thick bar line with two dots mean?	A repeat sign: go back to the repeat sign at the start of the section and play it again.	stage5 guitar charts
+s5-chord-symbols-and-chord-charts-05	What is a lead sheet?	A melody on a staff with chord symbols above it.	stage5 guitar charts
+s5-chord-symbols-and-chord-charts-06	Spell the G7 chord.	G, B, D, F	stage5 theory chords
+s5-relative-and-parallel-keys-01	What is the relative minor of a major key?	The minor key that shares its key signature. It starts a minor 3rd below the major tonic, on the 6th note of the major scale.	stage5 theory keys
+s5-relative-and-parallel-keys-02	What are parallel keys?	A major key and a minor key with the same tonic, such as C major and C minor.	stage5 theory keys
+s5-relative-and-parallel-keys-03	What is the relative minor of D major, and how many sharps?	B minor, two sharps (F# and C#).	stage5 theory keys
+s5-relative-and-parallel-keys-04	What is the key signature of C minor?	Three flats: Bb, Eb, Ab.	stage5 theory keys
+s5-relative-and-parallel-keys-05	What is the key signature of G minor?	Two flats: Bb and Eb.	stage5 theory keys
+s5-relative-and-parallel-keys-06	What is the relative minor of Bb major?	G minor (two flats).	stage5 theory keys
+s5-chords-from-a-lead-sheet-on-piano-01	What are the two methods for playing a lead sheet in this stage?	1. Left hand root, right hand triad. 2. Right hand melody, left hand chords.	stage5 piano chords
+s5-chords-from-a-lead-sheet-on-piano-02	Spell the C, G, Am and F triads.	C: C, E, G. G: G, B, D. Am: A, C, E. F: F, A, C.	stage5 piano chords
+s5-chords-from-a-lead-sheet-on-piano-03	Spell the triads of the G D Em C loop.	G: G, B, D. D: D, F#, A. Em: E, G, B. C: C, E, G.	stage5 piano chords
+s5-chords-from-a-lead-sheet-on-piano-04	In a lead sheet, which hand plays louder when the right hand has the melody?	The right hand (the melody). Play the left-hand chords softer.	stage5 piano technique
+s5-capo-and-moving-shapes-01	What does a capo do?	It presses all six strings against one fret, so every open string sounds higher by that many half steps.	stage5 guitar capo
+s5-capo-and-moving-shapes-02	Where does the capo go relative to the fret wire?	Close behind the fret wire (on the nut side), not on top of it.	stage5 guitar capo
+s5-capo-and-moving-shapes-03	Which chord sounds when you play a G shape with the capo on fret 2?	A major.	stage5 guitar capo
+s5-capo-and-moving-shapes-04	Which chord sounds when you play a C shape with the capo on fret 5?	F major.	stage5 guitar capo
+s5-capo-and-moving-shapes-05	Does a capo chart list shapes or sounding chords in this book?	The shapes you play.	stage5 guitar capo
+s5-hearing-major-and-minor-01	Which note makes a triad major or minor?	The 3rd: four half steps above the root in a major triad, three in a minor triad.	stage5 ear chords
+s5-hearing-major-and-minor-02	Spell C major and C minor.	C major: C, E, G. C minor: C, Eb, G.	stage5 ear chords
+s5-hearing-major-and-minor-03	What is the first step in hearing whether a melody is major or minor?	Find the home note (the tonic), then compare the 3rd above it.	stage5 ear
+s5-hearing-major-and-minor-04	Which note changes between A major and A minor?	C# in A major becomes C in A minor.	stage5 ear chords
+s5-schumann-album-for-the-young-01	Which keys are Schumann's Album for the Young, Op. 68, No. 1 (Melody) and No. 2 (Soldiers' March) in?	No. 1 is in C major and No. 2 is in G major.	stage5 piano repertoire
+s5-schumann-album-for-the-young-02	How long does a dotted quarter note last?	1.5 beats: a quarter plus an eighth.	stage5 theory rhythm
+s5-schumann-album-for-the-young-03	How do you count a dotted quarter followed by an eighth, starting on beat 1?	1 (&) (2) &. The eighth falls on the & of beat 2.	stage5 theory rhythm
+s5-schumann-album-for-the-young-04	In melody over accompaniment, which part is played louder?	The melody. Keep the accompaniment softer.	stage5 piano technique
+s5-fingerpicking-basics-01	What do the letters p i m a stand for?	Picking-hand fingers: p thumb, i index, m middle, a ring.	stage5 guitar fingerpicking
+s5-fingerpicking-basics-02	Which strings does the thumb (p) play in this stage?	The bass strings 6, 5 and 4.	stage5 guitar fingerpicking
+s5-fingerpicking-basics-03	Which finger plays string 3, which plays string 2, and which plays string 1?	i plays string 3, m plays string 2, a plays string 1.	stage5 guitar fingerpicking
+s5-fingerpicking-basics-04	What is fingerpicking pattern 1?	p i m a in quarter notes: the bass note, then strings 3, 2 and 1.	stage5 guitar fingerpicking
+s5-fingerpicking-basics-05	What is fingerpicking pattern 2?	p i m i p i m i in eighth notes.	stage5 guitar fingerpicking
+s5-broken-chord-accompaniment-01	What is a broken chord?	A chord whose notes are played one after another instead of together.	stage5 piano accompaniment
+s5-broken-chord-accompaniment-02	Name the notes of the 1-5-8-5 pattern for a C chord.	C3, G3, C4, G3	stage5 piano accompaniment
+s5-broken-chord-accompaniment-03	Name the notes of the 1-5-10-5 pattern for a C chord.	C3, G3, E4, G3 (the 10th is an octave above the 3rd).	stage5 piano accompaniment
+s5-broken-chord-accompaniment-04	What are the 1-5-8 notes for Am?	A2, E3, A3, E3	stage5 piano accompaniment
+s5-sight-reading-in-new-keys-01	What are the first steps of the scan before you sight-read in a new key?	Name the key from the key signature, mark the notes it changes, decide major or minor, then scan for accidentals.	stage5 reading
+s5-sight-reading-in-new-keys-02	In G major, which note does the key signature change?	Every F becomes F#.	stage5 reading keys
+s5-sight-reading-in-new-keys-03	In F major, which note does the key signature change?	Every B becomes Bb.	stage5 reading keys
+s5-sight-reading-in-new-keys-04	In A minor, which accidental usually appears, and why?	G#, the raised 7th (the leading tone) that leads up to A.	stage5 reading keys
+s5-sight-reading-in-new-keys-05	How long does an accidental last?	Until the end of the bar.	stage5 reading
+s5-muting-and-sixteenth-strumming-01	Where does the picking hand rest for palm muting?	The outside edge of the hand rests lightly on the strings near the bridge saddle.	stage5 guitar technique
+s5-muting-and-sixteenth-strumming-02	What is a chuck?	A percussive click made by strumming while the fretting fingers touch the strings but do not press them.	stage5 guitar technique
+s5-muting-and-sixteenth-strumming-03	How do you count sixteenth notes?	1 e & a, 2 e & a, 3 e & a, 4 e & a	stage5 guitar rhythm
+s5-muting-and-sixteenth-strumming-04	How many sixteenth notes are in one beat of 4/4?	Four.	stage5 guitar rhythm
+s5-muting-and-sixteenth-strumming-05	What stays constant in sixteenth-note strumming even when the pick misses the strings?	The down-up arm motion, four times per beat.	stage5 guitar rhythm

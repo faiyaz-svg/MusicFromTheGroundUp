@@ -53,11 +53,9 @@ The distance between two notes, the four kinds of three-note chord, inversions, 
 
 <span class="mf-stage__number">Stage 5</span>
 
-### Minor keys and chord charts
+### [Minor keys and chord charts](05-minor-keys-and-chord-charts/index.md)
 
 Minor scales and keys, chord symbols and chord charts on both instruments, the capo, fingerpicking, broken-chord accompaniment, and sixteenth-note strumming.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

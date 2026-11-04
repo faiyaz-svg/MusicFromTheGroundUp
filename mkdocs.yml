@@ -149,6 +149,21 @@ nav:
       - "Reading by intervals": 04-intervals-and-triads/10-reading-by-intervals.md
       - "Easy classical pieces: a musette and a minuet": 04-intervals-and-triads/11-easy-classical-pieces.md
       - "Hearing chord quality": 04-intervals-and-triads/12-hearing-chord-quality.md
+  - "5 Minor":
+      - 05-minor-keys-and-chord-charts/index.md
+      - "The natural minor scale": 05-minor-keys-and-chord-charts/01-natural-minor.md
+      - "Harmonic and melodic minor": 05-minor-keys-and-chord-charts/02-harmonic-and-melodic-minor.md
+      - "The A minor and D minor scales": 05-minor-keys-and-chord-charts/03-a-and-d-minor-scales.md
+      - "Chord symbols and chord charts": 05-minor-keys-and-chord-charts/04-chord-symbols-and-chord-charts.md
+      - "Relative and parallel keys": 05-minor-keys-and-chord-charts/05-relative-and-parallel-keys.md
+      - "Chords from a lead sheet on piano": 05-minor-keys-and-chord-charts/06-chords-from-a-lead-sheet-on-piano.md
+      - "The capo and moving shapes": 05-minor-keys-and-chord-charts/07-capo-and-moving-shapes.md
+      - "Hearing major and minor": 05-minor-keys-and-chord-charts/08-hearing-major-and-minor.md
+      - "Schumann: Melody and Soldiers' March": 05-minor-keys-and-chord-charts/09-schumann-album-for-the-young.md
+      - "Fingerpicking basics": 05-minor-keys-and-chord-charts/10-fingerpicking-basics.md
+      - "Broken-chord accompaniment": 05-minor-keys-and-chord-charts/11-broken-chord-accompaniment.md
+      - "Sight-reading in new keys": 05-minor-keys-and-chord-charts/12-sight-reading-in-new-keys.md
+      - "Muting and sixteenth-note strumming": 05-minor-keys-and-chord-charts/13-muting-and-sixteenth-strumming.md
   - Practice tools:
       - practice/index.md
       - "Note flashcards": practice/note-flashcards.md

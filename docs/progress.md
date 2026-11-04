@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 56 of 157. New lessons appear here as they are added.
+Lessons written so far: 61 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -74,3 +74,8 @@ Lessons written so far: 56 of 157. New lessons appear here as they are added.
 - [ ] [Chords from a lead sheet on piano](05-minor-keys-and-chord-charts/06-chords-from-a-lead-sheet-on-piano.md) (piano)
 - [ ] [The capo and moving shapes](05-minor-keys-and-chord-charts/07-capo-and-moving-shapes.md) (guitar)
 - [ ] [Hearing major and minor](05-minor-keys-and-chord-charts/08-hearing-major-and-minor.md) (ear)
+- [ ] [Schumann: Melody and Soldiers' March](05-minor-keys-and-chord-charts/09-schumann-album-for-the-young.md) (piano)
+- [ ] [Fingerpicking basics](05-minor-keys-and-chord-charts/10-fingerpicking-basics.md) (guitar)
+- [ ] [Broken-chord accompaniment](05-minor-keys-and-chord-charts/11-broken-chord-accompaniment.md) (piano)
+- [ ] [Sight-reading in new keys](05-minor-keys-and-chord-charts/12-sight-reading-in-new-keys.md) (reading)
+- [ ] [Muting and sixteenth-note strumming](05-minor-keys-and-chord-charts/13-muting-and-sixteenth-strumming.md) (guitar)

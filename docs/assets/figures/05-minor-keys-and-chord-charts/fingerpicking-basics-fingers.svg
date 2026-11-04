@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 250" width="420" height="250" role="img" aria-label="The six strings with the picking-hand finger for each: the thumb p plays strings 6, 5 and 4, i plays string 3, m plays string 2, a plays string 1" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>The six strings with the picking-hand finger for each: the thumb p plays strings 6, 5 and 4, i plays string 3, m plays string 2, a plays string 1</title>
+<rect width="420" height="250" fill="#fff"/>
+<line x1="110" y1="40" x2="330" y2="40" stroke="#111" stroke-width="1.0"/>
+<text x="70" y="45" font-size="14" fill="#111" text-anchor="end" font-weight="normal">string 1</text>
+<text x="100" y="45" font-size="14" fill="#444" text-anchor="end" font-weight="normal">E</text>
+<circle cx="360" cy="40" r="14" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="360" y="46" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">a</text>
+<line x1="110" y1="74" x2="330" y2="74" stroke="#111" stroke-width="1.6"/>
+<text x="70" y="79" font-size="14" fill="#111" text-anchor="end" font-weight="normal">string 2</text>
+<text x="100" y="79" font-size="14" fill="#444" text-anchor="end" font-weight="normal">B</text>
+<circle cx="360" cy="74" r="14" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="360" y="80" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">m</text>
+<line x1="110" y1="108" x2="330" y2="108" stroke="#111" stroke-width="2.2"/>
+<text x="70" y="113" font-size="14" fill="#111" text-anchor="end" font-weight="normal">string 3</text>
+<text x="100" y="113" font-size="14" fill="#444" text-anchor="end" font-weight="normal">G</text>
+<circle cx="360" cy="108" r="14" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="360" y="114" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">i</text>
+<line x1="110" y1="142" x2="330" y2="142" stroke="#111" stroke-width="2.8"/>
+<text x="70" y="147" font-size="14" fill="#111" text-anchor="end" font-weight="normal">string 4</text>
+<text x="100" y="147" font-size="14" fill="#444" text-anchor="end" font-weight="normal">D</text>
+<circle cx="360" cy="142" r="14" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="360" y="148" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<line x1="110" y1="176" x2="330" y2="176" stroke="#111" stroke-width="3.4"/>
+<text x="70" y="181" font-size="14" fill="#111" text-anchor="end" font-weight="normal">string 5</text>
+<text x="100" y="181" font-size="14" fill="#444" text-anchor="end" font-weight="normal">A</text>
+<circle cx="360" cy="176" r="14" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="360" y="182" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<line x1="110" y1="210" x2="330" y2="210" stroke="#111" stroke-width="4.0"/>
+<text x="70" y="215" font-size="14" fill="#111" text-anchor="end" font-weight="normal">string 6</text>
+<text x="100" y="215" font-size="14" fill="#444" text-anchor="end" font-weight="normal">E</text>
+<circle cx="360" cy="210" r="14" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="360" y="216" font-size="17" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<text x="360" y="20" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">finger</text>
+<text x="215" y="238" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">p thumb, i index, m middle, a ring</text>
+</svg>

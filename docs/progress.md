@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 81 of 157. New lessons appear here as they are added.
+Lessons written so far: 85 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -105,3 +105,7 @@ Lessons written so far: 81 of 157. New lessons appear here as they are added.
 - [ ] [Sus and add9 chords](07-pedal-texture-and-ambient/06-sus-and-add9-chords.md) (guitar)
 - [ ] [Power chords](07-pedal-texture-and-ambient/07-power-chords.md) (guitar)
 - [ ] [Hearing chord progressions](07-pedal-texture-and-ambient/08-hearing-progressions.md) (ear)
+- [ ] [Voicing the melody](07-pedal-texture-and-ambient/09-voicing-the-melody.md) (piano)
+- [ ] [Tchaikovsky: Old French Song](07-pedal-texture-and-ambient/10-tchaikovsky-album-for-the-young.md) (piano)
+- [ ] [Travis picking](07-pedal-texture-and-ambient/11-travis-picking.md) (guitar)
+- [ ] [Ambient guitar arpeggios](07-pedal-texture-and-ambient/12-ambient-guitar-arpeggios.md) (guitar)

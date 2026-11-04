@@ -1,0 +1,37 @@
+id	front	back	tags
+s7-damper-pedal-01	What is the right pedal of a piano called, and what does it do?	The damper (sustain) pedal. It lifts all the dampers so notes keep ringing.	stage7 piano pedal
+s7-damper-pedal-02	Where is your foot when you pedal?	The ball of the foot is on the pedal and the heel stays on the floor.	stage7 piano pedal
+s7-damper-pedal-03	When do you press the damper pedal relative to a chord?	Just after the chord is played, so only the new notes are caught.	stage7 piano pedal
+s7-damper-pedal-04	What do Ped. and the asterisk mean in pedal marks?	Ped. means press the damper pedal. The asterisk means lift it.	stage7 piano pedal
+s7-legato-pedalling-01	What is legato pedalling?	Changing the pedal just after the new chord is played, so the sound stays connected and clean.	stage7 piano pedal
+s7-legato-pedalling-02	What does blur mean when pedalling?	Old and new notes sounding together because the pedal was held through a chord change.	stage7 piano pedal
+s7-legato-pedalling-03	Why change the pedal after the new chord and not at the same moment?	So the new notes are caught and the old chord is cut off.	stage7 piano pedal
+s7-pedals-01	What does the sostenuto (middle) pedal hold?	Only the notes whose keys are already down when the pedal is pressed.	stage7 piano pedal
+s7-pedals-02	What does una corda mean, and what cancels it?	Una corda means one string and tells you to use the left (soft) pedal. Tre corde cancels it.	stage7 piano pedal
+s7-pedals-03	What is half pedalling?	Pressing the damper pedal only partway so the dampers touch the strings lightly.	stage7 piano pedal
+s7-alberti-waltz-01	What is an Alberti bass?	A left-hand pattern that plays a chord as lowest, highest, middle, highest. On C: C, G, E, G.	stage7 piano
+s7-alberti-waltz-02	What is a waltz bass?	A left-hand pattern in 3/4 with a low note on beat 1 and a chord on beats 2 and 3.	stage7 piano
+s7-alberti-waltz-03	Which left-hand fingers play an Alberti bass?	5, 1, 3, 1.	stage7 piano
+s7-ambient-piano-01	What is an open fifth?	A root and the note a fifth above it, with no third.	stage7 piano theory
+s7-ambient-piano-02	What is an add9 chord?	A triad with the 9th added. Cadd9 is C, D, E, G.	stage7 piano theory
+s7-ambient-piano-03	Name three features of the ambient piano style.	Slow tempo, wide spacing, and the pedal held across bars. Also open fifths, add9 colours and rests.	stage7 piano
+s7-sus-add9-01	What is a sus2 chord?	A chord with the third replaced by the 2nd. Dsus2 is D, E, A.	stage7 guitar theory
+s7-sus-add9-02	What is a sus4 chord?	A chord with the third replaced by the 4th. Asus4 is A, D, E.	stage7 guitar theory
+s7-sus-add9-03	What are the frets of Cadd9 (strings 6 to 1)?	x 3 2 0 3 3.	stage7 guitar chords
+s7-sus-add9-04	What are the frets of Asus2 (strings 6 to 1)?	x 0 2 2 0 0.	stage7 guitar chords
+s7-sus-add9-05	What are the notes of Em7?	E, G, B, D.	stage7 guitar theory
+s7-power-chords-01	What is a power chord?	A chord made of the root and the fifth, often with the root repeated an octave higher. It has no third.	stage7 guitar
+s7-power-chords-02	Where is the G5 power chord with its root on string 6?	Frets 3 5 5 on strings 6, 5 and 4.	stage7 guitar chords
+s7-power-chords-03	What is the shape of a movable power chord?	Root on string 6, then two frets higher on string 5 and two frets higher on string 4.	stage7 guitar chords
+s7-hearing-progressions-01	What is the bass note of a chord?	Its lowest note.	stage7 ear theory
+s7-hearing-progressions-02	In C major, which chords are I and V?	I is C and V is G.	stage7 ear theory
+s7-hearing-progressions-03	When does a progression come home?	When it ends on the I chord and settles there.	stage7 ear theory
+s7-voicing-01	What is voicing?	Making one line of the music, usually the melody, louder than the others.	stage7 piano
+s7-voicing-02	How do you bring out the top note of a right-hand chord?	Rest the arm weight on finger 5 and press the other keys lightly.	stage7 piano
+s7-tchaikovsky-01	What is the key of Tchaikovsky's Old French Song, and how many flats?	G minor, with two flats (Bb and Eb).	stage7 piano
+s7-tchaikovsky-02	What does the left hand do in bars 17 to 19 of Old French Song?	It plays short staccato broken chords while the right hand plays legato.	stage7 piano
+s7-travis-picking-01	What is Travis picking?	A fingerstyle pattern in which the thumb alternates between two bass strings on every beat while the fingers play higher strings.	stage7 guitar
+s7-travis-picking-02	Which strings does the thumb play on a C chord in Travis picking?	Strings 5 and 4, alternating.	stage7 guitar
+s7-travis-picking-03	In the count 1 & 2 & 3 & 4 &, which counts does the thumb play?	The numbers, 1 2 3 4. The fingers play the ands.	stage7 guitar
+s7-ambient-guitar-01	What is a ringing arpeggio?	An arpeggio where each note is allowed to sound until the chord changes.	stage7 guitar
+s7-ambient-guitar-02	What does a capo on fret 2 do to the Asus2 shape?	It sounds as Bsus2 (B, C#, F#), a whole step higher.	stage7 guitar theory

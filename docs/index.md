@@ -73,11 +73,9 @@ Compound meter, triplets and syncopation, the Italian terms and signs on a score
 
 <span class="mf-stage__number">Stage 7</span>
 
-### Pedal, texture and ambient
+### [Pedal, texture and ambient](07-pedal-texture-and-ambient/index.md)
 
 The three piano pedals, left-hand accompaniment patterns, a quiet ambient piano style, sus and add9 chords, power chords, and Travis picking.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

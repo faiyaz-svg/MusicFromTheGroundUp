@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 246" width="452" height="246" role="img" aria-label="Travis picking pattern on a C chord: thumb on strings 5 and 4 on the beats, index on string 3 and middle on string 2 on the ands" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Travis picking pattern on a C chord: thumb on strings 5 and 4 on the beats, index on string 3 and middle on string 2 on the ands</title>
+<rect width="452" height="246" fill="#fff"/>
+<text x="20" y="22" font-size="14" fill="#111" text-anchor="start" font-weight="bold">Travis pattern on C (picking hand letters)</text>
+<text x="90" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">1</text>
+<text x="136" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<text x="182" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<text x="228" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<text x="274" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">3</text>
+<text x="320" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<text x="366" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">4</text>
+<text x="412" y="42" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<line x1="66" y1="64" x2="436" y2="64" stroke="#999" stroke-width="1.2"/>
+<text x="34" y="68" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">string 1</text>
+<line x1="66" y1="90" x2="436" y2="90" stroke="#999" stroke-width="1.2"/>
+<text x="34" y="94" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">string 2</text>
+<circle cx="228" cy="90" r="10" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="228" y="93.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">m</text>
+<circle cx="412" cy="90" r="10" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="412" y="93.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">m</text>
+<line x1="66" y1="116" x2="436" y2="116" stroke="#999" stroke-width="1.2"/>
+<text x="34" y="120" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">string 3</text>
+<circle cx="136" cy="116" r="10" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="136" y="119.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">i</text>
+<circle cx="320" cy="116" r="10" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="320" y="119.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">i</text>
+<line x1="66" y1="142" x2="436" y2="142" stroke="#999" stroke-width="1.2"/>
+<text x="34" y="146" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">string 4</text>
+<circle cx="182" cy="142" r="10" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="182" y="145.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<circle cx="366" cy="142" r="10" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="366" y="145.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<line x1="66" y1="168" x2="436" y2="168" stroke="#999" stroke-width="1.2"/>
+<text x="34" y="172" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">string 5</text>
+<circle cx="90" cy="168" r="10" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="90" y="171.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<circle cx="274" cy="168" r="10" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="274" y="171.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<line x1="66" y1="194" x2="436" y2="194" stroke="#999" stroke-width="1.2"/>
+<text x="34" y="198" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">string 6</text>
+<text x="20" y="234" font-size="11" fill="#444" text-anchor="start" font-weight="normal">Thumb (p) on the beats, alternating strings 5 and 4. Fingers i and m on the &amp;s.</text>
+</svg>

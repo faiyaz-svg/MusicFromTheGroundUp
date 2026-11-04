@@ -57,7 +57,7 @@ A key is **touch sensitive** when the sound changes with how fast you press it: 
 
 ### The three pedals
 
-Most digital pianos have three pedals, like a grand piano. You press the right pedal with your right foot and the other two with your left. Stage 7<!-- link: ../07-pedal-texture-and-ambient/index.md --> teaches how to use them. For now, learn what each one does.
+Most digital pianos have three pedals, like a grand piano. You press the right pedal with your right foot and the other two with your left. [Stage 7](../07-pedal-texture-and-ambient/index.md) teaches how to use them. For now, learn what each one does.
 
 ![The three piano pedals: soft on the left, sostenuto in the middle, damper on the right](../assets/figures/01-first-sounds/meet-your-piano-pedals.svg)
 

@@ -16,7 +16,7 @@ The book has 13 stages. Each stage teaches a little theory and reading, then put
 | [Stage 4: Intervals and triads](../04-intervals-and-triads/index.md) | Intervals, triads and inversions, hearing them, eighth-note strumming |
 | [Stage 5: Minor keys and chord charts](../05-minor-keys-and-chord-charts/index.md) | Minor scales, chord charts on both instruments, the capo, fingerpicking |
 | [Stage 6: Meter, terms and rhythm](../06-meter-terms-and-rhythm/index.md) | 6/8, triplets, the Italian terms on a score, hammer-ons, slides and bends |
-| Stage 7: Pedal, texture and ambient<!-- link: ../07-pedal-texture-and-ambient/index.md --> | The three pedals, left-hand patterns, ambient piano, Travis picking |
+| [Stage 7: Pedal, texture and ambient](../07-pedal-texture-and-ambient/index.md) | The three pedals, left-hand patterns, ambient piano, Travis picking |
 | Stage 8: Fretboard, barre chords and CAGED<!-- link: ../08-fretboard-barre-chords-and-caged/index.md --> | Every note on the neck, barre chords, CAGED, all twelve major scales |
 | Stage 9: Harmony<!-- link: ../09-harmony/index.md --> | Roman numerals, cadences, seventh chords, analysing a piece |
 | Stage 10: Classical repertoire<!-- link: ../10-classical-repertoire/index.md --> | Classical guitar studies and piano pieces by Clementi and Burgmüller |

@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 73 of 157. New lessons appear here as they are added.
+Lessons written so far: 77 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -94,3 +94,10 @@ Lessons written so far: 73 of 157. New lessons appear here as they are added.
 - [ ] [Hammer-ons and pull-offs](06-meter-terms-and-rhythm/10-hammer-ons-and-pull-offs.md) (guitar)
 - [ ] [Sight-reading rhythms](06-meter-terms-and-rhythm/11-sight-reading-rhythms.md) (reading)
 - [ ] [Slides and bends](06-meter-terms-and-rhythm/12-slides-and-bends.md) (guitar)
+
+## Stage 7: Pedal, texture and ambient
+
+- [ ] [The damper pedal](07-pedal-texture-and-ambient/01-damper-pedal.md) (piano)
+- [ ] [Legato pedalling](07-pedal-texture-and-ambient/02-legato-pedalling.md) (piano)
+- [ ] [Half pedal, una corda and sostenuto](07-pedal-texture-and-ambient/03-half-pedal-una-corda-and-sostenuto.md) (piano)
+- [ ] [Alberti bass and waltz bass](07-pedal-texture-and-ambient/04-alberti-and-waltz-bass.md) (piano)

@@ -169,4 +169,4 @@ Record your fretting hand from the front. Watch for these.
 - **Vibrato**: a small, steady wobble in the pitch of a held note.
 - **/, \, b**: the tab marks for a slide up, a slide down and a bend.
 
-Next: The damper pedal<!-- link: ../07-pedal-texture-and-ambient/01-damper-pedal.md -->
+Next: [The damper pedal](../07-pedal-texture-and-ambient/01-damper-pedal.md)

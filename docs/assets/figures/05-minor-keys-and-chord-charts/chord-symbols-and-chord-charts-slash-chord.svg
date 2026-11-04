@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 126" width="660" height="126" role="img" aria-label="A one-line chart with the slash chord D/F# in bar 2" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>A one-line chart with the slash chord D/F# in bar 2</title>
+<rect width="660" height="126" fill="#fff"/>
+<line x1="30" y1="14" x2="30" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="180" y1="14" x2="180" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="330" y1="14" x2="330" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="480" y1="14" x2="480" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="630" y1="14" x2="630" y2="86" stroke="#111" stroke-width="1.6"/>
+<text x="42" y="40" font-size="22" fill="#111" text-anchor="start" font-weight="bold">G</text>
+<line x1="46" y1="74" x2="60" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="77.5" y1="74" x2="91.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="109" y1="74" x2="123" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="140.5" y1="74" x2="154.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<text x="192" y="40" font-size="22" fill="#111" text-anchor="start" font-weight="bold">D/F#</text>
+<line x1="196" y1="74" x2="210" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="227.5" y1="74" x2="241.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="259" y1="74" x2="273" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="290.5" y1="74" x2="304.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<text x="342" y="40" font-size="22" fill="#111" text-anchor="start" font-weight="bold">Em</text>
+<line x1="346" y1="74" x2="360" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="377.5" y1="74" x2="391.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="409" y1="74" x2="423" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="440.5" y1="74" x2="454.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<text x="492" y="40" font-size="22" fill="#111" text-anchor="start" font-weight="bold">C</text>
+<line x1="496" y1="74" x2="510" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="527.5" y1="74" x2="541.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="559" y1="74" x2="573" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="590.5" y1="74" x2="604.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<text x="330" y="118" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">D/F# is a D chord with F# as the lowest note.</text>
+</svg>

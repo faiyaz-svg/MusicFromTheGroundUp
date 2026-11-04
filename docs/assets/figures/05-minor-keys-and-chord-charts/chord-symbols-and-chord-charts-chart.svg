@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 212" width="660" height="212" role="img" aria-label="A chord chart in A minor: eight bars, a repeat sign at each end, one chord per bar, a repeat-bar sign, and one bar with two chords" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>A chord chart in A minor: eight bars, a repeat sign at each end, one chord per bar, a repeat-bar sign, and one bar with two chords</title>
+<rect width="660" height="212" fill="#fff"/>
+<line x1="30" y1="14" x2="30" y2="86" stroke="#111" stroke-width="4"/>
+<line x1="180" y1="14" x2="180" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="330" y1="14" x2="330" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="480" y1="14" x2="480" y2="86" stroke="#111" stroke-width="1.6"/>
+<line x1="630" y1="14" x2="630" y2="86" stroke="#111" stroke-width="1.6"/>
+<text x="42" y="40" font-size="22" fill="#111" text-anchor="start" font-weight="bold">Am</text>
+<line x1="46" y1="74" x2="60" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="77.5" y1="74" x2="91.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="109" y1="74" x2="123" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="140.5" y1="74" x2="154.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="241" y1="60" x2="269" y2="40" stroke="#111" stroke-width="4"/>
+<circle cx="241" cy="42" r="4" fill="#111" stroke="#111" stroke-width="1"/>
+<circle cx="269" cy="58" r="4" fill="#111" stroke="#111" stroke-width="1"/>
+<text x="342" y="40" font-size="22" fill="#111" text-anchor="start" font-weight="bold">Dm</text>
+<line x1="346" y1="74" x2="360" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="377.5" y1="74" x2="391.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="409" y1="74" x2="423" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="440.5" y1="74" x2="454.5" y2="52" stroke="#111" stroke-width="2.4"/>
+<line x1="541" y1="60" x2="569" y2="40" stroke="#111" stroke-width="4"/>
+<circle cx="541" cy="42" r="4" fill="#111" stroke="#111" stroke-width="1"/>
+<circle cx="569" cy="58" r="4" fill="#111" stroke="#111" stroke-width="1"/>
+<line x1="30" y1="100" x2="30" y2="172" stroke="#111" stroke-width="1.6"/>
+<line x1="180" y1="100" x2="180" y2="172" stroke="#111" stroke-width="1.6"/>
+<line x1="330" y1="100" x2="330" y2="172" stroke="#111" stroke-width="1.6"/>
+<line x1="480" y1="100" x2="480" y2="172" stroke="#111" stroke-width="1.6"/>
+<line x1="630" y1="100" x2="630" y2="172" stroke="#111" stroke-width="4"/>
+<text x="42" y="126" font-size="22" fill="#111" text-anchor="start" font-weight="bold">E7</text>
+<line x1="46" y1="160" x2="60" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="77.5" y1="160" x2="91.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="109" y1="160" x2="123" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="140.5" y1="160" x2="154.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<text x="192" y="126" font-size="22" fill="#111" text-anchor="start" font-weight="bold">Am</text>
+<text x="257" y="126" font-size="22" fill="#111" text-anchor="start" font-weight="bold">E7</text>
+<line x1="196" y1="160" x2="210" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="227.5" y1="160" x2="241.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="259" y1="160" x2="273" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="290.5" y1="160" x2="304.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<text x="342" y="126" font-size="22" fill="#111" text-anchor="start" font-weight="bold">Am</text>
+<line x1="346" y1="160" x2="360" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="377.5" y1="160" x2="391.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="409" y1="160" x2="423" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="440.5" y1="160" x2="454.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<text x="492" y="126" font-size="22" fill="#111" text-anchor="start" font-weight="bold">Am</text>
+<line x1="496" y1="160" x2="510" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="527.5" y1="160" x2="541.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="559" y1="160" x2="573" y2="138" stroke="#111" stroke-width="2.4"/>
+<line x1="590.5" y1="160" x2="604.5" y2="138" stroke="#111" stroke-width="2.4"/>
+<circle cx="42" cy="42" r="3.5" fill="#111" stroke="#111" stroke-width="1"/>
+<circle cx="42" cy="58" r="3.5" fill="#111" stroke="#111" stroke-width="1"/>
+<line x1="34" y1="14" x2="34" y2="86" stroke="#111" stroke-width="1.6"/>
+<circle cx="618" cy="128" r="3.5" fill="#111" stroke="#111" stroke-width="1"/>
+<circle cx="618" cy="144" r="3.5" fill="#111" stroke="#111" stroke-width="1"/>
+<line x1="626" y1="100" x2="626" y2="172" stroke="#111" stroke-width="1.6"/>
+<text x="330" y="204" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">Each slash is one beat. The sign in bar 2 means play bar 1 again.</text>
+</svg>

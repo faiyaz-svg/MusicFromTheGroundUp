@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 48 of 157. New lessons appear here as they are added.
+Lessons written so far: 52 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -63,3 +63,10 @@ Lessons written so far: 48 of 157. New lessons appear here as they are added.
 - [ ] [Reading by intervals](04-intervals-and-triads/10-reading-by-intervals.md) (reading)
 - [ ] [Easy classical pieces: a musette and a minuet](04-intervals-and-triads/11-easy-classical-pieces.md) (piano)
 - [ ] [Hearing chord quality](04-intervals-and-triads/12-hearing-chord-quality.md) (ear)
+
+## Stage 5: Minor keys and chord charts
+
+- [ ] [The natural minor scale](05-minor-keys-and-chord-charts/01-natural-minor.md) (theory)
+- [ ] [Harmonic and melodic minor](05-minor-keys-and-chord-charts/02-harmonic-and-melodic-minor.md) (theory)
+- [ ] [The A minor and D minor scales](05-minor-keys-and-chord-charts/03-a-and-d-minor-scales.md) (piano)
+- [ ] [Chord symbols and chord charts](05-minor-keys-and-chord-charts/04-chord-symbols-and-chord-charts.md) (guitar)

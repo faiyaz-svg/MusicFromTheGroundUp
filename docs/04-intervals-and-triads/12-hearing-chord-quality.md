@@ -165,4 +165,4 @@ Guessing from the notation. In the self-tests, the staff gives the answer away. 
 
 - **Chord quality**: the kind of a chord: major, minor, diminished or augmented.
 
-Next: The natural minor scale<!-- link: ../05-minor-keys-and-chord-charts/01-natural-minor.md -->
+Next: [The natural minor scale](../05-minor-keys-and-chord-charts/01-natural-minor.md)

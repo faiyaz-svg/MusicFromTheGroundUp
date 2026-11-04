@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 626 110" width="626" height="110" role="img" aria-label="The A natural minor scale: A, B, C, D, E, F, G, A with the step between each pair of notes" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>The A natural minor scale: A, B, C, D, E, F, G, A with the step between each pair of notes</title>
+<rect width="626" height="110" fill="#fff"/>
+<line x1="40" y1="40" x2="118" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="67" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="79" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<line x1="118" y1="40" x2="196" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="145" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="157" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">H</text>
+<line x1="196" y1="40" x2="274" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="223" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="235" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<line x1="274" y1="40" x2="352" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="301" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="313" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<line x1="352" y1="40" x2="430" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="379" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="391" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">H</text>
+<line x1="430" y1="40" x2="508" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="457" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="469" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<line x1="508" y1="40" x2="586" y2="40" stroke="#111" stroke-width="2"/>
+<rect x="535" y="62" width="24" height="22" fill="#f4f4f4" stroke="#111" stroke-width="1"/>
+<text x="547" y="78" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">W</text>
+<circle cx="40" cy="40" r="19" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="40" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<text x="40" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">1</text>
+<circle cx="118" cy="40" r="19" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="118" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">B</text>
+<text x="118" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">2</text>
+<circle cx="196" cy="40" r="19" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="196" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">C</text>
+<text x="196" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">3</text>
+<circle cx="274" cy="40" r="19" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="274" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">D</text>
+<text x="274" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">4</text>
+<circle cx="352" cy="40" r="19" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="352" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">E</text>
+<text x="352" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">5</text>
+<circle cx="430" cy="40" r="19" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="430" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">F</text>
+<text x="430" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">6</text>
+<circle cx="508" cy="40" r="19" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="508" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">G</text>
+<text x="508" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">7</text>
+<circle cx="586" cy="40" r="19" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="586" y="45" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<text x="586" y="13" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">8</text>
+<text x="313" y="102" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">Degrees 3, 6 and 7 (salmon) are a half step lower than in A major.</text>
+</svg>

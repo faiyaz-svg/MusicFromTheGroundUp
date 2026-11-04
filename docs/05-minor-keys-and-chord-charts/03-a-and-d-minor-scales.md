@@ -113,7 +113,7 @@ K:Dm clef=bass
 | A minor (all three forms) | 1 2 3 1 2 3 4 5 | 5 4 3 2 1 3 2 1 |
 | D minor (all three forms) | 1 2 3 1 2 3 4 5 | 5 4 3 2 1 3 2 1 |
 
-Going down, play the fingers in reverse. Learn each scale with the hands separate before you try hands together. The lesson Scales and arpeggios hands together<!-- link: ../08-fretboard-barre-chords-and-caged/09-scales-and-arpeggios-hands-together.md --> returns to scales with both hands.
+Going down, play the fingers in reverse. Learn each scale with the hands separate before you try hands together. The lesson [Scales and arpeggios hands together](../08-fretboard-barre-chords-and-caged/09-scales-and-arpeggios-hands-together.md) returns to scales with both hands.
 
 To change a form, move only the raised notes. In A minor, the note that changes is G (harmonic) or F and G (melodic, going up). In D minor, it is C (harmonic) or B and C (melodic, going up).
 

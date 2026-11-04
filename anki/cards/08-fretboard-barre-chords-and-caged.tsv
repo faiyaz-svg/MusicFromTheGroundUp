@@ -1,0 +1,53 @@
+id	front	back	tags
+s8-fretboard-01	What is the octave rule on the neck for a note on string 6 or string 5?	Skip one string and go up 2 frets (string 6 to string 4, string 5 to string 3).	stage8 guitar fretboard
+s8-fretboard-02	What is the octave rule for a note on string 4 or string 3?	Skip one string and go up 3 frets (string 4 to string 2, string 3 to string 1).	stage8 guitar fretboard
+s8-fretboard-03	Why do strings 6 and 1 have the same note names at every fret?	Both are tuned to E (two octaves apart).	stage8 guitar fretboard
+s8-fretboard-04	Name the natural notes on string 4 from fret 0 to 12 with their frets.	D 0, E 2, F 3, G 5, A 7, B 9, C 10, D 12.	stage8 guitar fretboard
+s8-fretboard-05	Name the natural notes on string 2 with their frets.	B 0, C 1, D 3, E 5, F 6, G 8, A 10, B 12.	stage8 guitar fretboard
+s8-e-shape-01	What is a barre?	One finger pressed flat across several or all strings at one fret, acting like a movable nut.	stage8 guitar barre
+s8-e-shape-02	Where is the root of an E-shape barre chord, and how do you name the chord?	On string 6. The chord is named after the note on string 6 under the barre.	stage8 guitar barre
+s8-e-shape-03	What are the frets of the F major barre chord, string 6 to string 1?	1 3 3 2 1 1.	stage8 guitar barre
+s8-e-shape-04	What are the frets of the F minor barre chord, string 6 to string 1?	1 3 3 1 1 1.	stage8 guitar barre
+s8-e-shape-05	What does the E-shape major barre chord with the barre at fret 3 spell?	G major: G, B, D.	stage8 guitar barre
+s8-e-shape-06	What do you do if your hand, thumb or wrist hurts while practising barre chords?	Stop and rest. Pain is a stop sign; if it returns, see a teacher or a doctor.	stage8 guitar barre
+s8-a-shape-01	Where is the root of an A-shape barre chord?	On string 5. String 6 is not played.	stage8 guitar barre
+s8-a-shape-02	What are the frets of B minor as an A-shape barre chord?	x 2 4 4 3 2 (B, D, F#).	stage8 guitar barre
+s8-a-shape-03	What are the frets of B major as an A-shape barre chord?	x 2 4 4 4 2 (B, D#, F#).	stage8 guitar barre
+s8-a-shape-04	How do you choose between the E shape and the A shape for a chord?	Take the one with the lower fret, unless the next chord is nearby on the other shape.	stage8 guitar barre
+s8-a-shape-05	Which fret gives Bb major and which gives C major as A-shape barre chords?	Bb at fret 1 and C at fret 3.	stage8 guitar barre
+s8-barre-pieces-01	How should the barre finger move during a change from a barre chord to an open chord?	Release the pressure and let the finger float off the strings; do not lift the whole hand.	stage8 guitar barre
+s8-barre-pieces-02	What is the small F chord?	x x 3 2 1 1: F, A, C on the top four strings.	stage8 guitar barre
+s8-barre-pieces-03	What is the E-shape F# minor barre chord?	2 4 4 2 2 2 (F#, A, C#), barre at fret 2.	stage8 guitar barre
+s8-barre-pieces-04	When should you start a chord change?	One beat ahead: move on beat 4 so the new chord is ready on beat 1.	stage8 guitar barre
+s8-caged-01	What does CAGED stand for?	The five open chord shapes C, A, G, E and D, which can each be moved up the neck.	stage8 guitar caged
+s8-caged-02	In what order do the CAGED shapes appear going up the neck?	C, A, G, E, D, then C again an octave higher.	stage8 guitar caged
+s8-caged-03	Give the C major chord in the A shape and the E shape.	A shape: x 3 5 5 5 3. E shape: 8 10 10 9 8 8.	stage8 guitar caged
+s8-caged-04	How do you find a chord in a CAGED shape?	Count the half steps from the open chord root up to the target chord and add that number to every fret of the shape.	stage8 guitar caged
+s8-caged-05	How many half steps from A up to C, G up to C, E up to C and D up to C?	3, 5, 8 and 10.	stage8 guitar caged
+s8-caged-scales-01	How many frets wide is a CAGED scale shape, and how many notes per string?	Five frets wide, with three notes on each string.	stage8 guitar caged scales
+s8-caged-scales-02	Give the five fret blocks of the C major scale shapes.	C shape 0-4, A shape 3-7, G shape 5-9, E shape 8-12, D shape 10-14.	stage8 guitar caged scales
+s8-caged-scales-03	What is a scale shape?	The pattern of the notes of a scale in one block of the neck.	stage8 guitar caged scales
+s8-reading-01	What is a position on the guitar?	A hand placement named by the fret under finger 1, with fingers 1 to 4 covering four frets.	stage8 guitar reading
+s8-reading-02	Which frets does 5th position cover? 7th position?	5th position: frets 5 to 8. 7th position: frets 7 to 10.	stage8 guitar reading
+s8-reading-03	What is a shift?	Moving the whole hand along the neck to another position.	stage8 guitar reading
+s8-reading-04	How do you choose a position for a line of music?	Find the lowest and highest written notes and choose the position whose four frets contain them.	stage8 guitar reading
+s8-scales-01	What is the rule for the thumb in major scales?	The thumb plays white keys; fingers 2, 3 and 4 play the black keys.	stage8 piano scales
+s8-scales-02	Which scales share the C major fingering (RH 1 2 3 1 2 3 4 5, LH 5 4 3 2 1 3 2 1)?	C, G, D, A and E major.	stage8 piano scales
+s8-scales-03	What is the right-hand fingering of F major?	1 2 3 4 1 2 3 4 (finger 4 on Bb).	stage8 piano scales
+s8-scales-04	What is the left-hand fingering of B major?	4 3 2 1 4 3 2 1.	stage8 piano scales
+s8-scales-05	Which four major scales share the left hand 3 2 1 4 3 2 1 3?	Bb, Eb, Ab and Db major.	stage8 piano scales
+s8-scales-06	How many sharps in A major, E major, B major and F# major?	3, 4, 5 and 6 sharps.	stage8 piano scales
+s8-scales-together-01	What is parallel motion? Contrary motion?	Parallel: both hands move in the same direction. Contrary: the hands move in opposite directions.	stage8 piano scales
+s8-scales-together-02	What is the right-hand fingering of a two-octave C major scale going up?	1 2 3 1 2 3 4 1 2 3 1 2 3 4 5.	stage8 piano scales
+s8-scales-together-03	What is the fingering of a two-octave C major arpeggio?	RH 1 2 3 1 2 3 5. LH 5 4 2 1 4 2 1.	stage8 piano scales
+s8-scales-together-04	What is an arpeggio?	The notes of a chord played one after another.	stage8 piano scales
+s8-happy-farmer-01	What key and time signature is The Happy Farmer in?	F major (one flat, Bb), 4/4.	stage8 piano schumann
+s8-happy-farmer-02	Which hand plays the tune in the first eight bars of The Happy Farmer?	The left hand. The right hand plays short chords.	stage8 piano schumann
+s8-happy-farmer-03	Who composed The Happy Farmer, and what is it part of?	Robert Schumann; Album for the Young, Op. 68 No. 10.	stage8 piano schumann
+s8-sight-reading-01	What five things do you check in a 15-second scan?	Key signature, time signature, range of each hand, the left-hand pattern, and the hardest spot.	stage8 reading
+s8-sight-reading-02	What should you do when you play a wrong note while sight reading?	Keep the beat and play the next correct note; fix the bar later.	stage8 reading
+s8-sight-reading-03	What is the difference between a block chord and a broken chord?	A block chord sounds its notes together; a broken chord plays them one after another.	stage8 reading
+s8-intervals-2-01	How many half steps in a minor 6th, major 6th, minor 7th, major 7th and tritone?	8, 9, 10, 11 and 6.	stage8 ear intervals
+s8-intervals-2-02	What is the inversion of a major 6th? Of a minor 7th?	A minor 3rd. A major 2nd. An interval and its inversion add up to 9.	stage8 ear intervals
+s8-intervals-2-03	What is a tritone?	An interval of six half steps (augmented 4th or diminished 5th), for example C up to F#.	stage8 ear intervals
+s8-intervals-2-04	What is a compound interval, and what is C up to the D above the next octave?	An interval larger than an octave. It is a major 9th (an octave plus a major 2nd).	stage8 ear intervals

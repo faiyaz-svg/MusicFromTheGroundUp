@@ -58,7 +58,7 @@ Every interval from C up to the C above, with its size in half steps. Play each 
 
 ![Keyboard from C4 to C5 with every key labelled by its interval above C4: P for perfect, M for major, m for minor, TT for the 6-half-step interval](../assets/figures/04-intervals-and-triads/interval-qualities-above-c.svg)
 
-In the figure, teal keys are perfect intervals, yellow keys are major, salmon keys are minor, and blue is the 6-half-step interval, which has two names: an augmented 4th (C up to F#) or a diminished 5th (C up to Gb). It sounds the same either way; the letters decide the name. the lesson Hearing intervals 2<!-- link: ../08-fretboard-barre-chords-and-caged/12-hearing-intervals-2.md --> in stage 8 teaches its sound, called the tritone.
+In the figure, teal keys are perfect intervals, yellow keys are major, salmon keys are minor, and blue is the 6-half-step interval, which has two names: an augmented 4th (C up to F#) or a diminished 5th (C up to Gb). It sounds the same either way; the letters decide the name. the lesson [Hearing intervals 2](../08-fretboard-barre-chords-and-caged/12-hearing-intervals-2.md) in stage 8 teaches its sound, called the tritone.
 
 Notice the two kinds of 2nd. E up to F is a minor 2nd (1 half step) and C up to D is a major 2nd (2 half steps). Both are steps, which is the word from the last lesson. A step can be a half step or a whole step.
 

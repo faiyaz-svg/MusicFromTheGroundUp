@@ -89,7 +89,7 @@ K:C
 
 The thumb plays C, F, C and F, and finger 4 sits just before each thumb move. For G and D, keep the same finger numbers on the new keys.
 
-Play the two-octave scales with each hand alone. Playing them hands together comes in Scales and arpeggios hands together<!-- link: ../08-fretboard-barre-chords-and-caged/09-scales-and-arpeggios-hands-together.md -->. If a hand or wrist aches, stop and rest.
+Play the two-octave scales with each hand alone. Playing them hands together comes in [Scales and arpeggios hands together](../08-fretboard-barre-chords-and-caged/09-scales-and-arpeggios-hands-together.md). If a hand or wrist aches, stop and rest.
 
 ## Try it
 

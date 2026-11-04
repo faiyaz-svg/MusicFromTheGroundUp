@@ -83,11 +83,9 @@ The three piano pedals, left-hand accompaniment patterns, a quiet ambient piano 
 
 <span class="mf-stage__number">Stage 8</span>
 
-### Fretboard, barre chords and CAGED
+### [Fretboard, barre chords and CAGED](08-fretboard-barre-chords-and-caged/index.md)
 
 Every note on the guitar neck, barre chords, the CAGED system, all twelve major scales on piano, scales hands together, and a Schumann piece.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

@@ -1,0 +1,45 @@
+id	front	back	tags
+s6-compound-meter-01	What is simple meter?	Meter where each beat divides into two (2/4, 3/4, 4/4).	stage6 theory
+s6-compound-meter-02	What is compound meter?	Meter where each beat divides into three (6/8, 9/8, 12/8).	stage6 theory
+s6-compound-meter-03	How many beats are in a bar of 6/8, and what is the beat?	Two beats. The beat is the dotted quarter note.	stage6 theory
+s6-compound-meter-04	How do you count a bar of 6/8?	1 2 3 4 5 6, leaning on 1 and 4.	stage6 theory
+s6-compound-meter-05	How many beats are in 9/8 and in 12/8?	9/8 has three beats and 12/8 has four, each a dotted quarter note.	stage6 theory
+s6-triplets-syncopation-01	What is a triplet?	Three notes of the same value played in the time of two.	stage6 theory
+s6-triplets-syncopation-02	How do you count eighth-note triplets?	1 trip let 2 trip let 3 trip let 4 trip let.	stage6 theory
+s6-triplets-syncopation-03	What is syncopation?	Stress on a weak beat or the off-beat, with the strong beat tied or silent.	stage6 theory
+s6-triplets-syncopation-04	What is a tie?	A curved line joining two notes of the same pitch into one longer note.	stage6 theory
+s6-tempo-dynamics-01	Put in order, slowest to fastest: allegro, largo, andante, presto, moderato, adagio.	Largo, adagio, andante, moderato, allegro, presto.	stage6 theory
+s6-tempo-dynamics-02	What do rit. and rall. mean?	Gradually slower.	stage6 theory
+s6-tempo-dynamics-03	What do accel. and a tempo mean?	Accel. is gradually faster. A tempo means back to the earlier speed.	stage6 theory
+s6-tempo-dynamics-04	What is rubato?	Flexible tempo: the player speeds up and slows down a little for expression.	stage6 theory
+s6-tempo-dynamics-05	Write pp, p, mp, mf, f, ff in words.	Pianissimo, piano, mezzo piano, mezzo forte, forte, fortissimo.	stage6 theory
+s6-tempo-dynamics-06	What do poco, molto, piu and meno mean?	A little, very (much), more, less.	stage6 theory
+s6-articulation-01	What is an accent mark (>)?	Attack the note harder than its neighbours.	stage6 theory
+s6-articulation-02	What is tenuto?	Hold the note for its full length, with a slight lean on it.	stage6 theory
+s6-articulation-03	What is a fermata?	Hold the note or rest longer than its written value.	stage6 theory
+s6-articulation-04	What do D.C. and D.S. mean?	D.C. (da capo): go back to the beginning. D.S. (dal segno): go back to the segno sign.	stage6 theory
+s6-articulation-05	What do Fine, al Fine and al Coda mean?	Fine is the end. Al Fine: play to the word Fine. Al Coda: at the To Coda sign, jump to the coda.	stage6 theory
+s6-six-eight-piano-01	What is the left-hand lilt in 6/8?	A bass note on count 1 and a chord on count 4.	stage6 piano
+s6-six-eight-piano-02	On which counts of a 6/8 bar is the lilt silent?	Counts 2, 3, 5 and 6.	stage6 piano
+s6-six-eight-strumming-01	Which counts get the accent in a 6/8 strum?	Counts 1 and 4.	stage6 guitar
+s6-six-eight-strumming-02	Strum pattern 3 for 6/8 (D . U D . U): which counts are struck?	1 (down), 3 (up), 4 (down), 6 (up).	stage6 guitar
+s6-six-eight-strumming-03	What should the strumming hand do on counts with no strum?	Keep swinging and miss the strings.	stage6 guitar
+s6-fingerpicking-01	Which finger plays which string in the usual pattern?	p on strings 6, 5 and 4; i on string 3; m on string 2; a on string 1.	stage6 guitar
+s6-fingerpicking-02	What is the 6/8 pattern for Am in fingers and strings?	p i m a i m on strings 5, 3, 2, 1, 3, 2.	stage6 guitar
+s6-fingerpicking-03	What is the 3/4 picking pattern used in this stage?	Bass note on beat 1, then i m on beat 2 and i m on beat 3.	stage6 guitar
+s6-burgmuller-01	What is a study (etude)?	A piece written to practise a technique.	stage6 piano
+s6-burgmuller-02	What are the key and time signature of Burgmuller Op. 100 No. 1?	C major, 4/4.	stage6 piano
+s6-burgmuller-03	What are the key and time signature of Burgmuller Op. 100 No. 3?	G major, 6/8.	stage6 piano
+s6-burgmuller-04	What is a grace note?	A small, quick note played just before a main note.	stage6 piano
+s6-rhythm-ear-01	What do you do first when tapping back a rhythm?	Find the beat and keep the foot going, then listen to the whole rhythm.	stage6 ear
+s6-rhythm-ear-02	How can you tell 6/8 from 4/4 by ear?	6/8 feels like two beats of three notes. 4/4 with eighth notes feels like four beats of two.	stage6 ear
+s6-hammer-pull-01	What is a hammer-on?	Sounding a higher note by tapping a finger onto the string with no pick.	stage6 guitar
+s6-hammer-pull-02	What is a pull-off?	Sounding a lower note by pulling a finger off the string with no pick.	stage6 guitar
+s6-hammer-pull-03	What do 0h2 and 2p0 mean in tab?	0h2: pick the open string, hammer on fret 2. 2p0: pick fret 2, pull off to the open string.	stage6 guitar
+s6-hammer-pull-04	What does a slur between two notes on one string mean on guitar?	Play the first note with the pick and the second with the fretting hand only (hammer-on or pull-off).	stage6 guitar
+s6-sight-rhythm-01	In what order do you look at new music?	Time signature and beat first, then the hard bar, then the pitches.	stage6 reading
+s6-sight-rhythm-02	What do you do when you make a mistake while sight reading?	Keep the beat going and rejoin at the next beat. Do not stop.	stage6 reading
+s6-slides-bends-01	What do the tab marks / and \ mean?	/ is a slide up and \ is a slide down.	stage6 guitar
+s6-slides-bends-02	What does 7b8 mean in tab?	Fret 7 bent up until it sounds like fret 8 (a half step).	stage6 guitar
+s6-slides-bends-03	Which strings are easiest to bend, and which fingers help?	Strings 1 and 2. Fingers 1 and 2 sit behind the bending finger.	stage6 guitar
+s6-slides-bends-04	What is vibrato?	A small, steady wobble in the pitch of a held note.	stage6 guitar

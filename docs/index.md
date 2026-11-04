@@ -63,11 +63,9 @@ Minor scales and keys, chord symbols and chord charts on both instruments, the c
 
 <span class="mf-stage__number">Stage 6</span>
 
-### Meter, terms and rhythm
+### [Meter, terms and rhythm](06-meter-terms-and-rhythm/index.md)
 
 Compound meter, triplets and syncopation, the Italian terms and signs on a score, 6/8 on both instruments, hammer-ons, pull-offs, slides and bends.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

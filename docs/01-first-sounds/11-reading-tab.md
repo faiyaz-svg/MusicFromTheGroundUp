@@ -16,7 +16,7 @@ A tab has six lines, one for each string. The top line is string 1, the thinnest
 
 A number on a line is the fret to press on that string. A 0 means play the open string, with no finger. A 3 on the top line means press string 1 at fret 3. Time runs left to right, so the numbers are played in order.
 
-Tab shows where to play, but not how long to hold each note. Guitar music in this book has the notes written on a staff above the tab, and the staff shows the rhythm. Use the staff for the quarter, half and whole notes you learned in lessons 7 and 8, and use the tab to find the notes. The staff for guitar is written an octave above where it sounds, so it looks different from the piano staff in lesson 9. Stage 3<!-- link: ../03-the-major-scale-and-keys/11-reading-notation-on-guitar.md --> explains this. For now, read the rhythm from the stems and the notes from the tab.
+Tab shows where to play, but not how long to hold each note. Guitar music in this book has the notes written on a staff above the tab, and the staff shows the rhythm. Use the staff for the quarter, half and whole notes you learned in lessons 7 and 8, and use the tab to find the notes. The staff for guitar is written an octave above where it sounds, so it looks different from the piano staff in lesson 9. The stage 3 lesson [reading notation on guitar](../03-the-major-scale-and-keys/11-reading-notation-on-guitar.md) explains this. For now, read the rhythm from the stems and the notes from the tab.
 
 ### Strings 1 and 2, frets 0 to 3
 

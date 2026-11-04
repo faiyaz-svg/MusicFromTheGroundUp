@@ -15,6 +15,6 @@ When you miss, the right button turns salmon and the tool names the two notes. P
 
 Tie each interval to a tune you know well. Listen for the width: a 2nd is a small step, a 5th is a wide, open sound, and an octave sounds like the same note, higher.
 
-This goes with the lessons on interval numbers<!-- link: ../04-intervals-and-triads/01-interval-numbers.md -->, interval qualities<!-- link: ../04-intervals-and-triads/02-interval-qualities.md --> and hearing intervals<!-- link: ../04-intervals-and-triads/03-hearing-intervals.md -->.
+This goes with the lessons on [interval numbers](../04-intervals-and-triads/01-interval-numbers.md), [interval qualities](../04-intervals-and-triads/02-interval-qualities.md) and [hearing intervals](../04-intervals-and-triads/03-hearing-intervals.md).
 
 <div class="mf-tool" data-tool="intervals"></div>

@@ -143,4 +143,4 @@ Giving up on the key. If the tune does not sound right in C, hum the last note a
 - **Leap**: a move that skips at least one scale note.
 - **Playing by ear**: finding the notes of a tune by listening, without a score.
 
-Next: Interval numbers<!-- link: ../04-intervals-and-triads/01-interval-numbers.md -->
+Next: [Interval numbers](../04-intervals-and-triads/01-interval-numbers.md)

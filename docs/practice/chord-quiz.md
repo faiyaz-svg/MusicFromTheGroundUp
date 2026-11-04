@@ -15,6 +15,6 @@ Press "Play again" until you are ready to answer. When you are wrong, the right 
 
 Diminished sounds tense and compressed. Augmented sounds open and unresolved.
 
-This goes with the lessons on triads<!-- link: ../04-intervals-and-triads/04-triads.md -->, hearing chord quality<!-- link: ../04-intervals-and-triads/12-hearing-chord-quality.md --> and hearing major and minor<!-- link: ../05-minor-keys-and-chord-charts/08-hearing-major-and-minor.md -->.
+This goes with the lessons on [triads](../04-intervals-and-triads/04-triads.md), hearing chord quality<!-- link: ../04-intervals-and-triads/12-hearing-chord-quality.md --> and hearing major and minor<!-- link: ../05-minor-keys-and-chord-charts/08-hearing-major-and-minor.md -->.
 
 <div class="mf-tool" data-tool="chords"></div>

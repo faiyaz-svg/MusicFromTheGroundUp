@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 65 of 157. New lessons appear here as they are added.
+Lessons written so far: 69 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -86,3 +86,7 @@ Lessons written so far: 65 of 157. New lessons appear here as they are added.
 - [ ] [Triplets and syncopation](06-meter-terms-and-rhythm/02-triplets-and-syncopation.md) (theory)
 - [ ] [Tempo and dynamics terms](06-meter-terms-and-rhythm/03-tempo-and-dynamics-terms.md) (theory)
 - [ ] [Articulation and repeat signs](06-meter-terms-and-rhythm/04-articulation-and-repeat-signs.md) (theory)
+- [ ] [6/8 on piano](06-meter-terms-and-rhythm/05-six-eight-on-piano.md) (piano)
+- [ ] [6/8 strumming](06-meter-terms-and-rhythm/06-six-eight-strumming.md) (guitar)
+- [ ] [Fingerpicking patterns](06-meter-terms-and-rhythm/07-fingerpicking-patterns.md) (guitar)
+- [ ] [Burgmüller: two easy studies](06-meter-terms-and-rhythm/08-burgmuller-easy-studies.md) (piano)

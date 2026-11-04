@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" width="520" height="260" role="img" aria-label="The six strings with the picking finger for each: p on strings 6, 5 and 4, i on string 3, m on string 2, a on string 1" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>The six strings with the picking finger for each: p on strings 6, 5 and 4, i on string 3, m on string 2, a on string 1</title>
+<rect width="520" height="260" fill="#fff"/>
+<text x="20" y="24" font-size="15" fill="#111" text-anchor="start" font-weight="bold">Picking hand: which finger plays which string</text>
+<line x1="120" y1="56" x2="440" y2="56" stroke="#555" stroke-width="1.0"/>
+<text x="30" y="61" font-size="14" fill="#111" text-anchor="start" font-weight="normal">string 1 (e)</text>
+<circle cx="470" cy="56" r="13" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="470" y="61" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">a</text>
+<line x1="120" y1="86" x2="440" y2="86" stroke="#555" stroke-width="1.4"/>
+<text x="30" y="91" font-size="14" fill="#111" text-anchor="start" font-weight="normal">string 2 (B)</text>
+<circle cx="470" cy="86" r="13" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="470" y="91" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">m</text>
+<line x1="120" y1="116" x2="440" y2="116" stroke="#555" stroke-width="1.8"/>
+<text x="30" y="121" font-size="14" fill="#111" text-anchor="start" font-weight="normal">string 3 (G)</text>
+<circle cx="470" cy="116" r="13" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="470" y="121" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">i</text>
+<line x1="120" y1="146" x2="440" y2="146" stroke="#555" stroke-width="2.2"/>
+<text x="30" y="151" font-size="14" fill="#111" text-anchor="start" font-weight="normal">string 4 (D)</text>
+<circle cx="470" cy="146" r="13" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="470" y="151" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<line x1="120" y1="176" x2="440" y2="176" stroke="#555" stroke-width="2.6"/>
+<text x="30" y="181" font-size="14" fill="#111" text-anchor="start" font-weight="normal">string 5 (A)</text>
+<circle cx="470" cy="176" r="13" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="470" y="181" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<line x1="120" y1="206" x2="440" y2="206" stroke="#555" stroke-width="3.0"/>
+<text x="30" y="211" font-size="14" fill="#111" text-anchor="start" font-weight="normal">string 6 (E)</text>
+<circle cx="470" cy="206" r="13" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="470" y="211" font-size="15" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<text x="280" y="250" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">Thumb p: strings 6, 5, 4. Index i: 3. Middle m: 2. Ring a: 1.</text>
+</svg>

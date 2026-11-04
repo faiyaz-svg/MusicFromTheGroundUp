@@ -74,7 +74,7 @@ K:C clef=treble-8
 w: p i m i p i m i|p i m i p i m i|p i m i p i m i|p i m i p i m i
 ```
 
-The lesson Fingerpicking patterns<!-- link: ../06-meter-terms-and-rhythm/07-fingerpicking-patterns.md --> adds patterns that use the a finger and 3/4 and 6/8 time. If your G chord leaves string 1 open, play e where the tab shows 3 in Pattern 1.
+The lesson [Fingerpicking patterns](../06-meter-terms-and-rhythm/07-fingerpicking-patterns.md) adds patterns that use the a finger and 3/4 and 6/8 time. If your G chord leaves string 1 open, play e where the tab shows 3 in Pattern 1.
 
 ## Try it
 

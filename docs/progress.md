@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 52 of 157. New lessons appear here as they are added.
+Lessons written so far: 56 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -70,3 +70,7 @@ Lessons written so far: 52 of 157. New lessons appear here as they are added.
 - [ ] [Harmonic and melodic minor](05-minor-keys-and-chord-charts/02-harmonic-and-melodic-minor.md) (theory)
 - [ ] [The A minor and D minor scales](05-minor-keys-and-chord-charts/03-a-and-d-minor-scales.md) (piano)
 - [ ] [Chord symbols and chord charts](05-minor-keys-and-chord-charts/04-chord-symbols-and-chord-charts.md) (guitar)
+- [ ] [Relative and parallel keys](05-minor-keys-and-chord-charts/05-relative-and-parallel-keys.md) (theory)
+- [ ] [Chords from a lead sheet on piano](05-minor-keys-and-chord-charts/06-chords-from-a-lead-sheet-on-piano.md) (piano)
+- [ ] [The capo and moving shapes](05-minor-keys-and-chord-charts/07-capo-and-moving-shapes.md) (guitar)
+- [ ] [Hearing major and minor](05-minor-keys-and-chord-charts/08-hearing-major-and-minor.md) (ear)

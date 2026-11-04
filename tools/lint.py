@@ -46,7 +46,8 @@ HEADING_OK = {
     # Titles of traditional tunes and the book's own pieces, used as headings.
     "Hot", "Cross", "Buns", "Mary", "Had", "Lamb", "Ode", "Joy", "Lantern", "Walk", "Twinkle", "Star",
     "Amazing", "Grace", "Greensleeves", "Scarborough", "Fair", "Saints", "Lightly", "Row", "Au", "Clair",
-    "Lune", "Frere", "Jacques", "Shenandoah", "Simple", "Gifts", "Morning",
+    "Lune", "Frere", "Jacques", "Shenandoah", "Simple", "Gifts", "Morning", "Musette", "Candour", "Pastorale",
+    "Old", "Sweet", "Dream", "Album", "Young", "Op",
 }
 CHORDISH = re.compile(r"^[A-G](#|b)?(m|maj7|maj|m7|7|dim|aug|sus2|sus4|add9|5|6|9)?[0-9]?[,.:;)]?$")
 SECTIONS = ["## Practice routine", "## Move on when", "## Key terms"]

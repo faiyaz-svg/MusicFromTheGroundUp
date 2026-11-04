@@ -23,7 +23,7 @@ Before you play a note, look through the whole page for about two minutes. Ask t
 3. Where are the phrases? A **phrase** is a musical sentence, usually 2 or 4 bars long, that ends at a point of rest. Slurs often mark them. Bracket each one.
 4. Which bars repeat or nearly repeat? Look for the same rhythm, the same pattern moved up or down by step, and the left-hand triad shapes from lesson 8.
 5. Where are the hard spots? Circle each leap, hand shift, accidental or tricky rhythm.
-6. Is there a word at the start that tells the speed or mood? If so, look it up in the glossary, and start at 60 bpm or slower. Stage 6<!-- link: ../06-meter-terms-and-rhythm/03-tempo-and-dynamics-terms.md --> teaches these terms.
+6. Is there a word at the start that tells the speed or mood? If so, look it up in the glossary, and start at 60 bpm or slower. The stage 6 lesson [tempo and dynamics terms](../06-meter-terms-and-rhythm/03-tempo-and-dynamics-terms.md) teaches these terms.
 
 ### Split it into sections
 

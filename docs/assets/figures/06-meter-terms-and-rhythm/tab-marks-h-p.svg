@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 190" width="620" height="190" role="img" aria-label="Tab with three marks: 0 h 2 on string 3 is a hammer-on, 2 p 0 on string 3 is a pull-off, 5 h 7 on string 2 is a hammer-on" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Tab with three marks: 0 h 2 on string 3 is a hammer-on, 2 p 0 on string 3 is a pull-off, 5 h 7 on string 2 is a hammer-on</title>
+<rect width="620" height="190" fill="#fff"/>
+<line x1="60" y1="40" x2="600" y2="40" stroke="#555" stroke-width="1"/>
+<line x1="60" y1="60" x2="600" y2="60" stroke="#555" stroke-width="1"/>
+<line x1="60" y1="80" x2="600" y2="80" stroke="#555" stroke-width="1"/>
+<line x1="60" y1="100" x2="600" y2="100" stroke="#555" stroke-width="1"/>
+<line x1="60" y1="120" x2="600" y2="120" stroke="#555" stroke-width="1"/>
+<line x1="60" y1="140" x2="600" y2="140" stroke="#555" stroke-width="1"/>
+<line x1="60" y1="40" x2="60" y2="140" stroke="#111" stroke-width="2"/>
+<text x="20" y="95" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">TAB</text>
+<rect x="98" y="71" width="24" height="18" fill="#fff"/>
+<text x="110" y="85" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">0</text>
+<rect x="138" y="71" width="24" height="18" fill="#fff"/>
+<text x="150" y="85" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">h</text>
+<rect x="178" y="71" width="24" height="18" fill="#fff"/>
+<text x="190" y="85" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<rect x="278" y="71" width="24" height="18" fill="#fff"/>
+<text x="290" y="85" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<rect x="318" y="71" width="24" height="18" fill="#fff"/>
+<text x="330" y="85" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">p</text>
+<rect x="358" y="71" width="24" height="18" fill="#fff"/>
+<text x="370" y="85" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">0</text>
+<rect x="458" y="51" width="24" height="18" fill="#fff"/>
+<text x="470" y="65" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">5</text>
+<rect x="498" y="51" width="24" height="18" fill="#fff"/>
+<text x="510" y="65" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">h</text>
+<rect x="538" y="51" width="24" height="18" fill="#fff"/>
+<text x="550" y="65" font-size="14" fill="#111" text-anchor="middle" font-weight="bold">7</text>
+<text x="150" y="168" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">hammer-on</text>
+<text x="330" y="168" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">pull-off</text>
+<text x="510" y="168" font-size="13" fill="#444" text-anchor="middle" font-weight="normal">hammer-on</text>
+</svg>

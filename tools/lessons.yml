@@ -84,7 +84,7 @@ folders:
       - [inversions-on-piano, "Inversions on piano", [piano]]
       - [eighth-note-strumming, "Eighth-note strumming", [guitar]]
       - [reading-by-intervals, "Reading by intervals", [reading]]
-      - [easy-classical-pieces, "Easy classical pieces: Türk and Gurlitt", [piano]]
+      - [easy-classical-pieces, "Easy classical pieces: a musette and a minuet", [piano]]
       - [hearing-chord-quality, "Hearing chord quality", [ear]]
 
   - folder: 05-minor-keys-and-chord-charts
@@ -250,11 +250,11 @@ folders:
       - [phrases-and-form, "Phrases and form", [theory]]
       - [alto-and-tenor-clefs, "The alto and tenor clefs", [theory, optional]]
       - [chopin-prelude-in-e-minor, "Chopin: Prelude in E minor", [piano, stretch]]
-      - [debussy-the-little-shepherd, "Debussy: The Little Shepherd", [piano, stretch]]
-      - [grieg-arietta, "Grieg: Arietta", [piano, stretch]]
+      - [schumann-traumerei, "Schumann: Träumerei", [piano, stretch]]
+      - [chopin-prelude-in-b-minor, "Chopin: Prelude in B minor", [piano, stretch]]
       - [satie-gymnopedie-1, "Satie: Gymnopédie No. 1", [piano, stretch]]
       - [playing-by-ear, "Playing by ear", [ear]]
-      - [tarrega-adelita, "Tárrega: Adelita", [guitar, optional]]
+      - [carcassi-study-in-a-major, "Carcassi: Study in A major", [guitar, optional]]
       - [bach-for-guitar, "Bach for guitar: a bourrée", [guitar]]
       - [play-along-with-yourself, "Play along with yourself", [other]]
       - [what-next, "What next", [other]]

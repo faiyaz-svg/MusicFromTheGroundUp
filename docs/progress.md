@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 61 of 157. New lessons appear here as they are added.
+Lessons written so far: 65 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -79,3 +79,10 @@ Lessons written so far: 61 of 157. New lessons appear here as they are added.
 - [ ] [Broken-chord accompaniment](05-minor-keys-and-chord-charts/11-broken-chord-accompaniment.md) (piano)
 - [ ] [Sight-reading in new keys](05-minor-keys-and-chord-charts/12-sight-reading-in-new-keys.md) (reading)
 - [ ] [Muting and sixteenth-note strumming](05-minor-keys-and-chord-charts/13-muting-and-sixteenth-strumming.md) (guitar)
+
+## Stage 6: Meter, terms and rhythm
+
+- [ ] [Compound meter](06-meter-terms-and-rhythm/01-compound-meter.md) (theory)
+- [ ] [Triplets and syncopation](06-meter-terms-and-rhythm/02-triplets-and-syncopation.md) (theory)
+- [ ] [Tempo and dynamics terms](06-meter-terms-and-rhythm/03-tempo-and-dynamics-terms.md) (theory)
+- [ ] [Articulation and repeat signs](06-meter-terms-and-rhythm/04-articulation-and-repeat-signs.md) (theory)

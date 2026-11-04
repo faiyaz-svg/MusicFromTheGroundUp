@@ -38,7 +38,7 @@ Follow these rules to read it.
 3. Each slash is one beat. Four slashes in 4/4 mean four beats; strum a down stroke on each one, or play the pattern you have learned.
 4. Two symbols in one bar split it. In the figure, bar 6 has Am on beat 1 and E7 on beat 3, so each chord gets two beats.
 5. The sign in bar 2 and bar 4 means "play the previous bar again". Chord charts write it as a slash with a dot on each side.
-6. A thick bar line with two dots is a **repeat sign**. Go back to the left-hand repeat sign and play the section again, once. The lesson Articulation and repeat signs<!-- link: ../06-meter-terms-and-rhythm/04-articulation-and-repeat-signs.md --> adds first and second endings and the jump signs.
+6. A thick bar line with two dots is a **repeat sign**. Go back to the left-hand repeat sign and play the section again, once. The lesson [Articulation and repeat signs](../06-meter-terms-and-rhythm/04-articulation-and-repeat-signs.md) adds first and second endings and the jump signs.
 
 Common mistake at rule 4: changing the chord late. The second chord starts on beat 3, so lift the first chord's shape and land the next one in the gap while you count 3.
 

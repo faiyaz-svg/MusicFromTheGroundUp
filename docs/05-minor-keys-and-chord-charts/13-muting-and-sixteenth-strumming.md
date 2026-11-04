@@ -184,4 +184,4 @@ Record your strumming arm from the front for 30 seconds while you play Pattern 3
 - **Chuck**: a percussive click made by strumming while the fretting hand mutes the strings.
 - **Sixteenth note**: a note a quarter of a beat long, counted "1 e & a".
 
-Next: Compound meter<!-- link: ../06-meter-terms-and-rhythm/01-compound-meter.md -->
+Next: [Compound meter](../06-meter-terms-and-rhythm/01-compound-meter.md)

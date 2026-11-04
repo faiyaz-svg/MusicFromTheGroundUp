@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 256" width="640" height="256" role="img" aria-label="Six eighth notes grouped in twos for 3/4 (three beats) and in threes for 6/8 (two beats), with the beat starts shaded" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Six eighth notes grouped in twos for 3/4 (three beats) and in threes for 6/8 (two beats), with the beat starts shaded</title>
+<rect width="640" height="256" fill="#fff"/>
+<text x="20" y="26" font-size="15" fill="#111" text-anchor="start" font-weight="bold">3/4: three beats, each split in two</text>
+<rect x="70" y="50" width="72" height="34" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="73" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">1</text>
+<rect x="150" y="50" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="186" y="73" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<rect x="230" y="50" width="72" height="34" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="266" y="73" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<rect x="310" y="50" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="346" y="73" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<rect x="390" y="50" width="72" height="34" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="426" y="73" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">3</text>
+<rect x="470" y="50" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="506" y="73" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">&amp;</text>
+<path d="M70 96 V104 H222 V96" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="146" y="124" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">beat 1 (quarter note)</text>
+<path d="M230 96 V104 H382 V96" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="306" y="124" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">beat 2 (quarter note)</text>
+<path d="M390 96 V104 H542 V96" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="466" y="124" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">beat 3 (quarter note)</text>
+<text x="20" y="146" font-size="15" fill="#111" text-anchor="start" font-weight="bold">6/8: two beats, each split in three</text>
+<rect x="70" y="170" width="72" height="34" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="193" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">1</text>
+<rect x="150" y="170" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="186" y="193" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">2</text>
+<rect x="230" y="170" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="266" y="193" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">3</text>
+<rect x="310" y="170" width="72" height="34" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="346" y="193" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">4</text>
+<rect x="390" y="170" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="426" y="193" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">5</text>
+<rect x="470" y="170" width="72" height="34" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="506" y="193" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">6</text>
+<path d="M70 216 V224 H302 V216" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="186" y="244" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">beat 1 (dotted quarter note)</text>
+<path d="M310 216 V224 H542 V216" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="426" y="244" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">beat 2 (dotted quarter note)</text>
+</svg>

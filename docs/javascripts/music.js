@@ -86,7 +86,11 @@ function mfRender(pre) {
 
   let tune
   try {
-    tune = ABCJS.renderAbc(paper, text.replace(/^%%opts.*\n/m, ""), params)[0]
+    // Full pieces (they have a C: composer line) show a bar number on every
+    // bar, because the lessons refer to bars by number.
+    let source = text.replace(/^%%opts.*\n/m, "")
+    if (/^C:/m.test(source)) source = source.replace(/^(X:.*\n)/m, "$1%%barnumbers 1\n")
+    tune = ABCJS.renderAbc(paper, source, params)[0]
   } catch (e) {
     paper.textContent = "This music could not be drawn. The notation is shown above."
     pre.classList.remove("mf-source")

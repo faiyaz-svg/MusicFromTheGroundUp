@@ -156,4 +156,4 @@ Check that:
 - **Ringing arpeggio**: an arpeggio in which each note is allowed to sound until the chord changes.
 - **Capo**: a clamp across a fret that raises the pitch of all the strings.
 
-Next: Every note on the fretboard<!-- link: ../08-fretboard-barre-chords-and-caged/01-fretboard-all-notes.md -->
+Next: [Every note on the fretboard](../08-fretboard-barre-chords-and-caged/01-fretboard-all-notes.md)

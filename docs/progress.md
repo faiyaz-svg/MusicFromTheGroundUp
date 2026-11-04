@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 85 of 157. New lessons appear here as they are added.
+Lessons written so far: 89 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -109,3 +109,10 @@ Lessons written so far: 85 of 157. New lessons appear here as they are added.
 - [ ] [Tchaikovsky: Old French Song](07-pedal-texture-and-ambient/10-tchaikovsky-album-for-the-young.md) (piano)
 - [ ] [Travis picking](07-pedal-texture-and-ambient/11-travis-picking.md) (guitar)
 - [ ] [Ambient guitar arpeggios](07-pedal-texture-and-ambient/12-ambient-guitar-arpeggios.md) (guitar)
+
+## Stage 8: Fretboard, barre chords and CAGED
+
+- [ ] [Every note on the fretboard](08-fretboard-barre-chords-and-caged/01-fretboard-all-notes.md) (guitar)
+- [ ] [E-shape barre chords](08-fretboard-barre-chords-and-caged/02-e-shape-barre-chords.md) (guitar)
+- [ ] [A-shape barre chords](08-fretboard-barre-chords-and-caged/03-a-shape-barre-chords.md) (guitar)
+- [ ] [Barre chord pieces](08-fretboard-barre-chords-and-caged/04-barre-chord-pieces.md) (guitar)

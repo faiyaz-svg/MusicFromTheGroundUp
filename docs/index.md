@@ -43,11 +43,9 @@ Sharps and flats, how a major scale is built, key signatures and the circle of f
 
 <span class="mf-stage__number">Stage 4</span>
 
-### Intervals and triads
+### [Intervals and triads](04-intervals-and-triads/index.md)
 
 The distance between two notes, the four kinds of three-note chord, inversions, hearing intervals and chords, eighth-note strumming, and easy classical pieces.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

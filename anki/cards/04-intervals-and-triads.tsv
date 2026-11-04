@@ -1,0 +1,56 @@
+s4-interval-numbers-01	How do you find the number of an interval?	Count the letter names from the lower note to the upper note, counting both ends. C up to G is C, D, E, F, G: a 5th.	stage4 theory
+s4-interval-numbers-02	Does a sharp or flat change the number of an interval?	No. C up to E and C up to Eb are both 3rds. Only the quality changes.	stage4 theory
+s4-interval-numbers-03	What is the difference between a melodic and a harmonic interval?	Melodic: the two notes sound one after the other. Harmonic: they sound together.	stage4 theory
+s4-interval-numbers-04	What is a step, and what is a skip?	A step is a melodic move to the next letter name (a 2nd). A skip jumps over one letter name (a 3rd).	stage4 theory
+s4-interval-numbers-05	On the staff, how can you tell an odd interval number from an even one?	Both notes on lines, or both in spaces: odd (3rd, 5th, 7th). One on a line and one in a space: even (2nd, 4th, 6th, octave).	stage4 theory
+s4-interval-qualities-01	How many half steps are in a minor 3rd and a major 3rd?	Minor 3rd: 3 half steps. Major 3rd: 4 half steps.	stage4 theory
+s4-interval-qualities-02	How many half steps are in a perfect 4th, a perfect 5th and an octave?	Perfect 4th: 5. Perfect 5th: 7. Octave: 12.	stage4 theory
+s4-interval-qualities-03	Which interval numbers can be perfect, and which can be major or minor?	Perfect: unison, 4th, 5th, octave. Major or minor: 2nd, 3rd, 6th, 7th.	stage4 theory
+s4-interval-qualities-04	How do major, minor, augmented and diminished relate?	Minor is a half step smaller than major. Augmented is a half step larger than major or perfect. Diminished is a half step smaller than minor or perfect.	stage4 theory
+s4-interval-qualities-05	How many half steps are in a minor 6th, a major 6th, a minor 7th and a major 7th?	Minor 6th: 8. Major 6th: 9. Minor 7th: 10. Major 7th: 11.	stage4 theory
+s4-interval-qualities-06	On one guitar string, how many frets above the open string is a perfect 5th?	7 frets (7 half steps).	stage4 theory
+s4-hearing-intervals-01	Which tune starts with a perfect 5th going up?	Twinkle, Twinkle, Little Star (traditional): C up to G.	stage4 ear
+s4-hearing-intervals-02	Which tune starts with a major 3rd going up?	When the Saints Go Marching In (traditional): C up to E.	stage4 ear
+s4-hearing-intervals-03	Which tune starts with a minor 3rd going up?	Greensleeves (traditional): A up to C.	stage4 ear
+s4-hearing-intervals-04	Which tune starts with a perfect 4th going up?	Amazing Grace (traditional): D up to G.	stage4 ear
+s4-hearing-intervals-05	Which tunes start with a major 2nd, going up and going down?	Up: Frere Jacques (C up to D). Down: Mary Had a Little Lamb (E down to D).	stage4 ear
+s4-triads-01	What is a triad?	A chord of three notes made by stacking two 3rds: a root, a 3rd and a 5th above it.	stage4 theory
+s4-triads-02	What are the two 3rds in a major triad and a minor triad?	Major triad: major 3rd under a minor 3rd. Minor triad: minor 3rd under a major 3rd.	stage4 theory
+s4-triads-03	What are the two 3rds in a diminished triad and an augmented triad?	Diminished: minor 3rd and minor 3rd (the 5th is diminished). Augmented: major 3rd and major 3rd (the 5th is augmented).	stage4 theory
+s4-triads-04	Spell the C major, C minor, C diminished and C augmented triads.	C: C, E, G. Cm: C, Eb, G. Cdim: C, Eb, Gb. Caug: C, E, G#.	stage4 theory
+s4-triads-05	Which note decides whether a triad is major or minor?	The 3rd. A major 3rd above the root makes major, a minor 3rd makes minor.	stage4 theory
+s4-triads-06	Spell the D major and D minor triads.	D: D, F#, A. Dm: D, F, A.	stage4 theory
+s4-triads-and-arpeggios-on-piano-01	Which fingers play a triad in the right hand and in the left hand?	Right hand 1, 3, 5. Left hand 5, 3, 1.	stage4 piano
+s4-triads-and-arpeggios-on-piano-02	What are the notes of the F, G, Am, Dm and Em triads?	F: F, A, C. G: G, B, D. Am: A, C, E. Dm: D, F, A. Em: E, G, B.	stage4 piano
+s4-triads-and-arpeggios-on-piano-03	What is an arpeggio?	A broken triad that continues into the next octave, such as C, E, G, C.	stage4 piano
+s4-triads-and-arpeggios-on-piano-04	Which fingers play a one-octave C arpeggio going up?	Right hand 1, 2, 3, 5. Left hand 5, 4, 2, 1.	stage4 piano
+s4-open-seventh-chords-01	Spell A7 and D7.	A7: A, C#, E, G. D7: D, F#, A, C.	stage4 guitar
+s4-open-seventh-chords-02	Spell E7 and B7.	E7: E, G#, B, D. B7: B, D#, F#, A.	stage4 guitar
+s4-open-seventh-chords-03	What is a dominant 7th chord?	A major triad with a minor 7th above the root (10 half steps).	stage4 guitar
+s4-open-seventh-chords-04	Which chord does each 7th chord lean toward: A7, D7, E7, B7?	A7 to D, D7 to G, E7 to A, B7 to E.	stage4 guitar
+s4-open-seventh-chords-05	Which strings do you strum for A7 and D7?	A7: strings 5 to 1 (not 6). D7: strings 4 to 1 (not 6 or 5).	stage4 guitar
+s4-inversions-01	What is the bass note of a chord?	The lowest sounding note.	stage4 theory
+s4-inversions-02	What are root position, first inversion and second inversion?	Root position: the root is the bass note. First inversion: the 3rd is the bass note. Second inversion: the 5th is the bass note.	stage4 theory
+s4-inversions-03	What does the slash chord C/E mean?	The C chord with E in the bass (first inversion).	stage4 theory
+s4-inversions-04	Write the C triad in first inversion and in second inversion, low to high.	First inversion: E, G, C. Second inversion: G, C, E.	stage4 theory
+s4-inversions-05	How do you make a chord's first inversion from root position?	Move the lowest note (the root) up an octave.	stage4 theory
+s4-inversions-on-piano-01	What is a common tone?	A note shared by two chords. Keep it where it is when you change chords.	stage4 piano
+s4-inversions-on-piano-02	Which note do C (C, E, G) and F (F, A, C) share, and which inversion of F is nearest to C?	They share C. F in second inversion (C, F, A) is nearest.	stage4 piano
+s4-inversions-on-piano-03	Which note do C and G share, and which inversion of G is nearest to C?	They share G. G in first inversion (B, D, G) is nearest.	stage4 piano
+s4-inversions-on-piano-04	Which right-hand fingers play the C, F and G shapes (C E G, C F A, B D G)?	C: 1, 3, 5. F: 1, 2, 5. G: 1, 2, 5.	stage4 piano
+s4-eighth-note-strumming-01	How do you count eighth notes in 4/4?	1 & 2 & 3 & 4 &. Down on the numbers, up on the ands.	stage4 guitar
+s4-eighth-note-strumming-02	What are the strokes of the pattern D D U U D U in a bar of eight eighths?	Beat 1, beat 2, the & after 2, the & after 3, beat 4 and the & after 4. The hand swings but does not play on the & after 1 and on beat 3.	stage4 guitar
+s4-eighth-note-strumming-03	What should the hand do on the strokes you do not play?	Keep moving down and up. Only the pick touching the strings changes.	stage4 guitar
+s4-eighth-note-strumming-04	Which strings does an up stroke usually sound?	The top three or four strings, played lightly.	stage4 guitar
+s4-reading-by-intervals-01	Name the five landmark notes and where they sit.	Middle C (C4): ledger line below the treble staff. Treble G (G4): treble line 2. High C (C5): treble space 3. Bass F (F3): bass line 4. Low C (C3): bass space 2.	stage4 reading
+s4-reading-by-intervals-02	What are the four kinds of melodic move when reading by intervals?	Repeat (same note), step (a 2nd), skip (a 3rd), leap (a 4th or larger).	stage4 reading
+s4-reading-by-intervals-03	What is the first thing to do when you start reading a new melody?	Find the first note from the nearest landmark and place your hand.	stage4 reading
+s4-reading-by-intervals-04	What does a step look like on the staff?	A line to the next space, or a space to the next line.	stage4 reading
+s4-easy-classical-pieces-01	What are the steps of a quick survey before you play a piece?	Key and time signature, where each hand starts, phrases, repeated patterns, hard spots, and any speed word.	stage4 piano
+s4-easy-classical-pieces-02	What is a phrase?	A musical sentence, usually 2 or 4 bars, that ends at a point of rest.	stage4 piano
+s4-easy-classical-pieces-03	At what tempo should you start learning a new section?	About half the target tempo. Speed up by about 5 bpm after three clean plays in a row.	stage4 piano
+s4-easy-classical-pieces-04	In what order do you learn a section of a piece?	Right hand alone, left hand alone, hands together slowly, then hands together up to tempo.	stage4 piano
+s4-hearing-chord-quality-01	How does a major triad sound compared with a minor triad?	Major sounds bright and settled. Minor sounds darker, but still settled.	stage4 ear
+s4-hearing-chord-quality-02	How does a diminished triad sound?	Tense and pinched, as if it needs to move to another chord.	stage4 ear
+s4-hearing-chord-quality-03	Which note decides bright (major) or dark (minor)?	The 3rd of the chord.	stage4 ear
+s4-hearing-chord-quality-04	Does an inversion change a chord's quality?	No. A major triad stays major and a minor triad stays minor in any inversion.	stage4 ear

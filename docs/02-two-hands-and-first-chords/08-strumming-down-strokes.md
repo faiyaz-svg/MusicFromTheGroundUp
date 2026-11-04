@@ -19,7 +19,7 @@ The motion starts in the forearm and the wrist, not in the fingers.
 1. Hold the pick as in stage 1, with about 3 mm showing, between the thumb and the side of the index finger.
 2. Rest the forearm on the edge of the guitar body, with your hand above the soundhole.
 3. Swing the forearm and the wrist together, so the pick sweeps down across the strings you want in one smooth motion.
-4. After the last string, let the hand rise a little above the strings and return to the top. The return does not touch the strings. The lesson Eighth-note strumming<!-- link: ../04-intervals-and-triads/09-eighth-note-strumming.md --> in stage 4 adds up strokes on the way back.
+4. After the last string, let the hand rise a little above the strings and return to the top. The return does not touch the strings. The lesson [Eighth-note strumming](../04-intervals-and-triads/09-eighth-note-strumming.md) in stage 4 adds up strokes on the way back.
 5. Keep the hand moving at a steady speed. The hand is a pendulum that swings down on every beat.
 
 A good down stroke moves across the strings in about the time of a quick blink. It is a sweep and not a single pluck. Common mistake at step 3: stiffening the elbow to make the sound louder. Let the weight of the forearm do the work. If your forearm, wrist or shoulder aches, stop, shake it out, and see a teacher or a doctor if it keeps happening.

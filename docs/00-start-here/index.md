@@ -13,7 +13,7 @@ The book has 13 stages. Each stage teaches a little theory and reading, then put
 | [Stage 1: First sounds](../01-first-sounds/index.md) | How to practise, your two instruments, note names, the beat, first melodies, tab and your first chord |
 | [Stage 2: Two hands and first chords](../02-two-hands-and-first-chords/index.md) | The bass clef and grand staff, hands together, open chords, strumming, sight reading |
 | [Stage 3: The major scale and keys](../03-the-major-scale-and-keys/index.md) | Sharps and flats, the major scale, key signatures, your first classical piece, notation on guitar |
-| Stage 4: Intervals and triads<!-- link: ../04-intervals-and-triads/index.md --> | Intervals, triads and inversions, hearing them, eighth-note strumming |
+| [Stage 4: Intervals and triads](../04-intervals-and-triads/index.md) | Intervals, triads and inversions, hearing them, eighth-note strumming |
 | Stage 5: Minor keys and chord charts<!-- link: ../05-minor-keys-and-chord-charts/index.md --> | Minor scales, chord charts on both instruments, the capo, fingerpicking |
 | Stage 6: Meter, terms and rhythm<!-- link: ../06-meter-terms-and-rhythm/index.md --> | 6/8, triplets, the Italian terms on a score, hammer-ons, slides and bends |
 | Stage 7: Pedal, texture and ambient<!-- link: ../07-pedal-texture-and-ambient/index.md --> | The three pedals, left-hand patterns, ambient piano, Travis picking |

@@ -1,0 +1,47 @@
+id	front	back	tags
+s12-modes-01	What is a mode?	A scale made by starting the same set of notes on a different note, so the order of whole and half steps changes.	stage12 theory modes
+s12-modes-02	Name the seven modes in order, starting on the white key C.	Ionian (C), Dorian (D), Phrygian (E), Lydian (F), Mixolydian (G), Aeolian (A), Locrian (B).	stage12 theory modes
+s12-modes-03	What is the formula of Dorian compared with the major scale?	1 2 b3 4 5 6 b7. Its characteristic note is the natural 6.	stage12 theory modes
+s12-modes-04	What is the formula of Lydian compared with the major scale?	1 2 3 #4 5 6 7. Its characteristic note is the #4.	stage12 theory modes
+s12-modes-05	What is the formula of Mixolydian compared with the major scale?	1 2 3 4 5 6 b7. Its characteristic note is the b7.	stage12 theory modes
+s12-modes-06	Spell the C Dorian scale.	C, D, Eb, F, G, A, Bb, C	stage12 theory modes
+s12-hearing-modes-01	Which modes have a major 3rd, and which have a minor 3rd?	Major 3rd: Ionian, Lydian, Mixolydian. Minor 3rd: Dorian, Phrygian, Aeolian (and Locrian).	stage12 ear modes
+s12-hearing-modes-02	Over a C drone, which note gives Phrygian its colour?	Db, the b2.	stage12 ear modes
+s12-hearing-modes-03	What is the difference between Dorian and Aeolian?	Dorian has a natural 6 and Aeolian has a b6. Both have a minor 3rd.	stage12 ear modes
+s12-hearing-modes-04	What are the three questions for hearing a mode?	1. Where is home? 2. Is the 3rd major or minor? 3. Which altered note do you hear?	stage12 ear modes
+s12-lydian-wonder-01	What is the Lydian scale compared with the major scale?	The major scale with a raised 4th (#4).	stage12 piano lydian
+s12-lydian-wonder-02	Spell the F Lydian scale.	F, G, A, B, C, D, E, F (all white keys)	stage12 piano lydian
+s12-lydian-wonder-03	Spell the C Lydian scale.	C, D, E, F#, G, A, B, C	stage12 piano lydian
+s12-lydian-wonder-04	In F Lydian, why does the G major chord carry the Lydian colour?	G major is G, B, D, and the B is the #4 of F.	stage12 piano lydian
+s12-left-hand-patterns-for-improvising-01	What is a drone?	A single note held for a long time as a home note.	stage12 piano improvising
+s12-left-hand-patterns-for-improvising-02	What is an open fifth, and what is it on D?	A root and the note a fifth above it, with no third. On D it is D and A.	stage12 piano improvising
+s12-left-hand-patterns-for-improvising-03	What is a vamp?	A short chord pattern, usually one or two chords, repeated as long as needed.	stage12 piano improvising
+s12-left-hand-patterns-for-improvising-04	What notes make the broken fifth on D, and which fingers play them?	D2, A2, D3, A2, with fingers 5, 2, 1, 2.	stage12 piano improvising
+s12-improvise-in-dorian-01	What notes are allowed in the D Dorian improvisation?	D, E, F, G, A, B, C, D (the white keys from D to D).	stage12 improvising dorian
+s12-improvise-in-dorian-02	What is a motif?	A short musical idea, usually two to five notes, that is repeated and changed.	stage12 improvising dorian
+s12-improvise-in-dorian-03	What are the three rules for a first improvisation in Dorian?	Use only the allowed notes and begin and end on D; play a short idea then rest; play the idea twice and change the ending.	stage12 improvising dorian
+s12-improvise-in-dorian-04	Which note of the G chord is the Dorian colour note over D?	B, the natural 6 of D Dorian.	stage12 improvising dorian
+s12-improvise-in-lydian-01	What notes are allowed when improvising in F Lydian?	F, G, A, B, C, D, E, F. Never play Bb.	stage12 improvising lydian
+s12-improvise-in-lydian-02	What is the chord pattern for the F Lydian improvisation?	F then G (the I-II pattern), two bars each.	stage12 improvising lydian
+s12-improvise-in-lydian-03	Where is the B best placed in the F and G loop?	Over the G chord, where it is a chord note.	stage12 improvising lydian
+s12-ambient-improvising-01	Which five notes are allowed in the ambient improvisation?	C, D, E, G and A.	stage12 improvising ambient
+s12-ambient-improvising-02	What are the three rules for ambient improvising?	Play only the five notes softly; no more than three notes in a bar; after each idea listen for at least two beats.	stage12 improvising ambient
+s12-ambient-improvising-03	When do you change the pedal in a chord loop?	Right after the new chord's low note is played.	stage12 improvising ambient
+s12-minor-pentatonic-01	What notes are in the A minor pentatonic scale?	A, C, D, E, G (1 b3 4 5 b7).	stage12 guitar pentatonic
+s12-minor-pentatonic-02	Which two notes of natural minor does the minor pentatonic leave out?	The 2nd and the b6 (B and F in A minor).	stage12 guitar pentatonic
+s12-minor-pentatonic-03	Which frets does box 1 of A minor pentatonic use?	Frets 5 to 8.	stage12 guitar pentatonic
+s12-minor-pentatonic-04	Where are the three A notes in box 1?	String 6 fret 5, string 4 fret 7, string 1 fret 5.	stage12 guitar pentatonic
+s12-minor-pentatonic-05	Which fingers play the frets in box 1?	Finger 1 on fret 5, finger 3 on fret 7, finger 4 on fret 8.	stage12 guitar pentatonic
+s12-pentatonic-boxes-01	How do two pentatonic boxes next to each other connect?	They share one note on every string. The top note of one box is the bottom note of the next.	stage12 guitar pentatonic
+s12-pentatonic-boxes-02	Which frets do boxes 1, 2 and 3 of A minor pentatonic use?	Box 1: 5 to 8. Box 2: 7 to 10. Box 3: 9 to 13.	stage12 guitar pentatonic
+s12-pentatonic-boxes-03	What is a slide?	Moving one finger along a string from one fret to another without lifting it.	stage12 guitar pentatonic
+s12-pentatonic-boxes-04	What does the tab mark 8b10 mean?	Play fret 8, then bend the string to the pitch of fret 10.	stage12 guitar pentatonic
+s12-improvise-over-film-progressions-01	Which chords make Loop A and Loop B in A minor?	Loop A: Am, F, G, G. Loop B: Am, F, C, G.	stage12 improvising pentatonic
+s12-improvise-over-film-progressions-02	Which A minor pentatonic notes belong to the C chord?	C, E and G.	stage12 improvising pentatonic
+s12-improvise-over-film-progressions-03	What is the rule for the first beat of a new chord?	Play a note that belongs to that chord.	stage12 improvising pentatonic
+s12-call-and-response-01	What is a call and response?	A short phrase that ends unfinished (the call) followed by a phrase that answers it and ends on home (the response).	stage12 improvising phrases
+s12-call-and-response-02	Where does the call end, and where does the answer end?	The call ends on a note other than home. The answer ends on the home note.	stage12 improvising phrases
+s12-call-and-response-03	How can an answer sound like an answer?	Start it with the same first two or three notes as the call, then change the rest.	stage12 improvising phrases
+s12-variations-on-a-theme-01	What is a variation?	The theme played again with one thing changed.	stage12 improvising variation
+s12-variations-on-a-theme-02	Name the five things you can change in a variation.	Rhythm, register, mode, ornament and harmony.	stage12 improvising variation
+s12-variations-on-a-theme-03	What is a grace note?	A quick small note played right before a main note.	stage12 improvising variation

@@ -127,11 +127,9 @@ The chord moves behind film, game and anime music: the royal road, Aeolian loops
 
 <span class="mf-stage__number">Stage 12</span>
 
-### Modes and improvising
+### [Modes and improvising](12-modes-and-improvising/index.md)
 
 The modes and the moods they give, left-hand patterns to improvise over, improvising on piano in Dorian, Lydian and ambient styles, and the minor pentatonic on guitar.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

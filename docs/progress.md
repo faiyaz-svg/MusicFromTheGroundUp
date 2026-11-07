@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 125 of 157. New lessons appear here as they are added.
+Lessons written so far: 129 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -146,6 +146,10 @@ Lessons written so far: 125 of 157. New lessons appear here as they are added.
 - [ ] [The royal road on piano](11-film-game-and-anime-harmony/02-royal-road-on-piano.md) (piano)
 - [ ] [The royal road on guitar](11-film-game-and-anime-harmony/03-royal-road-on-guitar.md) (guitar)
 - [ ] [Aeolian loops](11-film-game-and-anime-harmony/04-aeolian-loops.md) (theory)
+- [ ] [Borrowed chords and the Mario cadence](11-film-game-and-anime-harmony/05-borrowed-chords-and-the-mario-cadence.md) (theory)
+- [ ] [The minor iv and the Picardy third](11-film-game-and-anime-harmony/06-minor-iv-and-the-picardy-third.md) (theory)
+- [ ] [Pedal points and ostinatos](11-film-game-and-anime-harmony/07-pedal-points-and-ostinatos.md) (piano)
+- [ ] [An arpeggio prelude](11-film-game-and-anime-harmony/08-arpeggio-prelude.md) (piano)
 
 ## Stage 12: Modes and improvising
 

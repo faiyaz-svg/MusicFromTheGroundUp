@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 101 of 157. New lessons appear here as they are added.
+Lessons written so far: 105 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -131,3 +131,7 @@ Lessons written so far: 101 of 157. New lessons appear here as they are added.
 - [ ] [The chords of a key](09-harmony/02-diatonic-chords.md) (theory)
 - [ ] [Cadences](09-harmony/03-cadences.md) (theory)
 - [ ] [Seventh chords](09-harmony/04-seventh-chords.md) (theory)
+- [ ] [Seventh chords on piano](09-harmony/05-seventh-chords-on-piano.md) (piano)
+- [ ] [Major 7 and minor 7 barre shapes](09-harmony/06-maj7-and-min7-barre-shapes.md) (guitar)
+- [ ] [Cadences at the piano](09-harmony/07-cadences-at-the-piano.md) (piano)
+- [ ] [Minor-key progressions on guitar](09-harmony/08-minor-key-progressions.md) (guitar)

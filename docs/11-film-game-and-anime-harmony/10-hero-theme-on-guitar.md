@@ -10,7 +10,7 @@ Before this: [Power chords](../07-pedal-texture-and-ambient/07-power-chords.md),
 
 ### Two parts
 
-The Long Climb is an original piece for this book. It is 16 bars in E minor in 4/4 at about 72 bpm, and it has two parts that fit together: a chord part of power chords, and a melody. You learn each alone, then record the chord part and play the melody over the recording. Playing both at once on one guitar is not the aim here. Stage 13 has a lesson on this, Play along with yourself<!-- link: ../13-capstones/11-play-along-with-yourself.md -->.
+The Long Climb is an original piece for this book. It is 16 bars in E minor in 4/4 at about 72 bpm, and it has two parts that fit together: a chord part of power chords, and a melody. You learn each alone, then record the chord part and play the melody over the recording. Playing both at once on one guitar is not the aim here. Stage 13 has a lesson on this, [Play along with yourself](../13-capstones/11-play-along-with-yourself.md).
 
 ### The chord part
 

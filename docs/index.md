@@ -133,11 +133,9 @@ The modes and the moods they give, left-hand patterns to improvise over, improvi
 
 <span class="mf-stage__number">Stage 13</span>
 
-### Capstones
+### [Capstones](13-capstones/index.md)
 
 Transposing, phrases and form, four longer piano pieces, playing by ear, guitar pieces, playing along with yourself, and where to go next.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

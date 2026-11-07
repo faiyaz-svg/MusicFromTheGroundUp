@@ -1,0 +1,49 @@
+id	front	back	tags
+s13-transposition-01	What is transposing?	Writing or playing music in another key by moving every note by the same interval.	stage13 transposition
+s13-transposition-02	What interval moves a melody from C major to G major, and how many half steps is it?	A perfect 5th, 7 half steps.	stage13 transposition
+s13-transposition-03	I, vi, IV, V in G major	G, Em, C, D	stage13 transposition
+s13-transposition-04	What mistake happens when you move notes by letter name only?	The 7th degree is wrong: B in C major must become F#, not F, in G major.	stage13 transposition
+s13-transposition-05	What does a capo at fret 2 do to an Am shape?	It raises the sound by 2 half steps: the Am shape sounds as Bm.	stage13 transposition
+s13-phrases-and-form-01	What is a period?	Two phrases: a question (antecedent) and an answer (consequent).	stage13 phrases-and-form
+s13-phrases-and-form-02	Binary form	Two sections, A B, usually each repeated.	stage13 phrases-and-form
+s13-phrases-and-form-03	Ternary form	Three sections, A B A.	stage13 phrases-and-form
+s13-phrases-and-form-04	Rondo form	The main theme returns between contrasting sections: A B A C A.	stage13 phrases-and-form
+s13-phrases-and-form-05	Theme and variations	A theme followed by changed versions of it: A, A1, A2, A3.	stage13 phrases-and-form
+s13-alto-and-tenor-clefs-01	Where is middle C in the alto clef?	On the middle line (line 3).	stage13 alto-and-tenor-clefs
+s13-alto-and-tenor-clefs-02	Where is middle C in the tenor clef?	On line 4, counted from the bottom.	stage13 alto-and-tenor-clefs
+s13-alto-and-tenor-clefs-03	The lines of the alto clef, bottom to top	F3, A3, C4, E4, G4	stage13 alto-and-tenor-clefs
+s13-alto-and-tenor-clefs-04	The lines of the tenor clef, bottom to top	D3, F3, A3, C4, E4	stage13 alto-and-tenor-clefs
+s13-chopin-prelude-in-e-minor-01	Chopin Prelude in E minor, Op. 28 No. 4: key and time signature	E minor (one sharp, F#), 2/2.	stage13 chopin-prelude-in-e-minor
+s13-chopin-prelude-in-e-minor-02	What does the left hand do in the E minor prelude?	It repeats a chord in eighth notes, eight to a bar, and changes one note at a time.	stage13 chopin-prelude-in-e-minor
+s13-chopin-prelude-in-e-minor-03	Where does the opening return in the E minor prelude?	Bars 13 to 15.	stage13 chopin-prelude-in-e-minor
+s13-chopin-prelude-in-e-minor-04	What does Largo mean?	Very slow.	stage13 chopin-prelude-in-e-minor
+s13-schumann-traumerei-01	Schumann Traumerei, Op. 15 No. 7: key and time signature	F major (one flat, Bb), 4/4.	stage13 schumann-traumerei
+s13-schumann-traumerei-02	Which four notes start bars 1, 5, 9, 17 and 21 of Traumerei?	F, E, F, A.	stage13 schumann-traumerei
+s13-schumann-traumerei-03	What does Nicht schnell mean?	Not fast.	stage13 schumann-traumerei
+s13-schumann-traumerei-04	What do ritard. and a tempo mean?	Slow down gradually, then return to the earlier speed.	stage13 schumann-traumerei
+s13-chopin-prelude-in-b-minor-01	Chopin Prelude in B minor, Op. 28 No. 6: key and time signature	B minor (two sharps, F# and C#), 3/4.	stage13 chopin-prelude-in-b-minor
+s13-chopin-prelude-in-b-minor-02	Which hand has the melody in the B minor prelude?	The left hand, marked molto cantato (very singing).	stage13 chopin-prelude-in-b-minor
+s13-chopin-prelude-in-b-minor-03	What is a double sharp?	A sign that raises a note by two half steps: F double sharp sounds like G.	stage13 chopin-prelude-in-b-minor
+s13-chopin-prelude-in-b-minor-04	What does assai lento mean?	Very slow.	stage13 chopin-prelude-in-b-minor
+s13-satie-gymnopedie-1-01	Satie Gymnopedie No. 1: time signature and key signature	3/4, two sharps (F# and C#).	stage13 satie-gymnopedie-1
+s13-satie-gymnopedie-1-02	What chords make the first two bars of the Gymnopedie?	Gmaj7 (G, B, D, F#) then Dmaj7 (D, F#, A, C#).	stage13 satie-gymnopedie-1
+s13-satie-gymnopedie-1-03	How do the repeat and endings of the Gymnopedie work?	Play bars 1 to 39, go back to bar 1, play to bar 31, then play the second ending, bars 40 to 47.	stage13 satie-gymnopedie-1
+s13-satie-gymnopedie-1-04	What does Lent et douloureux mean?	Slow and sorrowful.	stage13 satie-gymnopedie-1
+s13-playing-by-ear-01	First step of playing a tune by ear	Listen three times without playing, and hum along.	stage13 playing-by-ear
+s13-playing-by-ear-02	How do you find the key of a tune by ear?	Hum the note that feels like home, usually the last note, and find it on the instrument.	stage13 playing-by-ear
+s13-playing-by-ear-03	How do you test a chord under a melody note?	Play them together: the right chord contains the melody note or sounds comfortable with it.	stage13 playing-by-ear
+s13-playing-by-ear-04	Why write the rhythm separately from the pitches?	Doing both at once is harder, so work out the pitches first, then the rhythm.	stage13 playing-by-ear
+s13-carcassi-study-in-a-major-01	Carcassi Study in A major, Op. 60 No. 3: key and time signature	A major (F#, C#, G#), 4/4.	stage13 carcassi-study-in-a-major
+s13-carcassi-study-in-a-major-02	What is each beat in the Carcassi study?	A triplet of eighth notes.	stage13 carcassi-study-in-a-major
+s13-carcassi-study-in-a-major-03	Right-hand fingers for the Carcassi arpeggio	p on the bass, i on string 3, m on string 2, a on string 1.	stage13 carcassi-study-in-a-major
+s13-carcassi-study-in-a-major-04	What is the form of the Carcassi study?	Binary: bars 1 to 8 repeated, then bars 9 to 24 repeated.	stage13 carcassi-study-in-a-major
+s13-bach-for-guitar-01	Bach Bourree in E minor, BWV 996: key and time signature	E minor (one sharp, F#), 2/2.	stage13 bach-for-guitar
+s13-bach-for-guitar-02	What is a bourree?	A quick dance in two beats to the bar.	stage13 bach-for-guitar
+s13-bach-for-guitar-03	What is drop-D tuning?	String 6 tuned down a whole step to D.	stage13 bach-for-guitar
+s13-bach-for-guitar-04	What is the form of the Bach bourree?	Binary: the first half to bar 7 and the second half from bar 8, each played twice.	stage13 bach-for-guitar
+s13-play-along-with-yourself-01	What is a count-in?	Clicks or counting before a recording starts, usually one bar.	stage13 play-along-with-yourself
+s13-play-along-with-yourself-02	Why record with a metronome?	So the part stays steady and you can play another part over it in time.	stage13 play-along-with-yourself
+s13-play-along-with-yourself-03	Where should the first melody note of a bar land in a play-along?	On beat 1, when the chord changes.	stage13 play-along-with-yourself
+s13-what-next-01	What does RCM stand for?	Royal Conservatory of Music.	stage13 what-next
+s13-what-next-02	The shape of the 30-minute routine after the book	5 warm-up, 15 repertoire, 5 sight reading, 5 ear or improvising.	stage13 what-next
+s13-what-next-03	First step of learning a new piece from your own sheet music	Find the key and the time signature, then the form and hard spots.	stage13 what-next

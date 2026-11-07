@@ -22,7 +22,7 @@ The book has 13 stages. Each stage teaches a little theory and reading, then put
 | [Stage 10: Classical repertoire](../10-classical-repertoire/index.md) | Classical guitar studies and piano pieces by Clementi and Burgmüller |
 | [Stage 11: Film, game and anime harmony](../11-film-game-and-anime-harmony/index.md) | The royal road, Aeolian loops, borrowed chords, chromatic mediants |
 | [Stage 12: Modes and improvising](../12-modes-and-improvising/index.md) | The modes and their moods, improvising on piano, the pentatonic on guitar |
-| Stage 13: Capstones<!-- link: ../13-capstones/index.md --> | Transposing, form, longer pieces, playing by ear, what to do next |
+| [Stage 13: Capstones](../13-capstones/index.md) | Transposing, form, longer pieces, playing by ear, what to do next |
 
 ## The piano path and the guitar path
 

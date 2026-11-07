@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 113 of 157. New lessons appear here as they are added.
+Lessons written so far: 117 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -146,3 +146,7 @@ Lessons written so far: 113 of 157. New lessons appear here as they are added.
 - [ ] [Hearing the modes](12-modes-and-improvising/02-hearing-modes.md) (ear)
 - [ ] [Lydian and the sound of wonder](12-modes-and-improvising/03-lydian-wonder.md) (piano)
 - [ ] [Left-hand patterns for improvising](12-modes-and-improvising/04-left-hand-patterns-for-improvising.md) (piano)
+- [ ] [Improvise in Dorian](12-modes-and-improvising/05-improvise-in-dorian.md) (improvise)
+- [ ] [Improvise in Lydian](12-modes-and-improvising/06-improvise-in-lydian.md) (improvise)
+- [ ] [Ambient improvising](12-modes-and-improvising/07-ambient-improvising.md) (improvise)
+- [ ] [The minor pentatonic scale](12-modes-and-improvising/08-minor-pentatonic.md) (guitar)

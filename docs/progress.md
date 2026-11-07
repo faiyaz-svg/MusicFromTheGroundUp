@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 121 of 157. New lessons appear here as they are added.
+Lessons written so far: 125 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -139,6 +139,13 @@ Lessons written so far: 121 of 157. New lessons appear here as they are added.
 - [ ] [Chopin: Prelude in A major](09-harmony/10-chopin-prelude-in-a-major.md) (piano)
 - [ ] [Hearing chord progressions 2](09-harmony/11-hearing-progressions-2.md) (ear)
 - [ ] [Analysing a piece](09-harmony/12-analysing-a-piece.md) (theory)
+
+## Stage 11: Film, game and anime harmony
+
+- [ ] [The royal road progression](11-film-game-and-anime-harmony/01-the-royal-road.md) (theory)
+- [ ] [The royal road on piano](11-film-game-and-anime-harmony/02-royal-road-on-piano.md) (piano)
+- [ ] [The royal road on guitar](11-film-game-and-anime-harmony/03-royal-road-on-guitar.md) (guitar)
+- [ ] [Aeolian loops](11-film-game-and-anime-harmony/04-aeolian-loops.md) (theory)
 
 ## Stage 12: Modes and improvising
 

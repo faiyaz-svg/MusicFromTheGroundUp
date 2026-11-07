@@ -10,7 +10,7 @@ Before this: [The five pentatonic boxes](09-pentatonic-boxes.md), [The minor pen
 
 ### Two loops
 
-Film, game and anime music often repeats a short chord loop in a minor key. The loops here have four bars, one chord per bar. They are described in Aeolian loops<!-- link: ../11-film-game-and-anime-harmony/04-aeolian-loops.md -->, which names the chords with Roman numerals. In A minor, the chords are these.
+Film, game and anime music often repeats a short chord loop in a minor key. The loops here have four bars, one chord per bar. They are described in [Aeolian loops](../11-film-game-and-anime-harmony/04-aeolian-loops.md), which names the chords with Roman numerals. In A minor, the chords are these.
 
 | Loop | Chords | Numerals |
 |---|---|---|

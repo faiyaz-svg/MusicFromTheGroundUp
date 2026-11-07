@@ -163,7 +163,8 @@ def keyboard(start="C4", end="C5", marks=None, fingers=None, labels=None,
         if m in labs:
             ty = cy - (r + 4) if m in fing else cy
             ink = INK if (m in widx or m in fill_of) else "#fff"
-            out.append(_text(cx, ty, labs[m], size=fs, fill=ink, weight="bold"))
+            lsz = fs if (m in widx or len(str(labs[m])) < 2) else fs * 0.8
+            out.append(_text(cx, ty, labs[m], size=lsz, fill=ink, weight="bold"))
     if show_names:
         for m in whites:
             if m in fing or m in labs:
@@ -175,8 +176,9 @@ def keyboard(start="C4", end="C5", marks=None, fingers=None, labels=None,
         out.append(f'<line x1="{cx:g}" y1="{top + kh + 2}" x2="{cx:g}" y2="{top + kh + 8}" '
                    f'stroke="{INK}" stroke-width="1.2"/>\n')
         edge = cx < pad + 30  # keep the label inside the figure when C4 is the first key
-        out.append(_text(pad if edge else cx, top + kh + 21, "middle C", size=12, fill=INK,
-                         anchor="start" if edge else "middle", weight="bold"))
+        edge_r = cx > total_w - pad - 30
+        out.append(_text(pad if edge else (total_w - pad if edge_r else cx), top + kh + 21, "middle C", size=12, fill=INK,
+                         anchor="start" if edge else ("end" if edge_r else "middle"), weight="bold"))
     return _svg(total_w, total_h, f"Piano keyboard from {start} to {end}", "".join(out))
 
 
@@ -200,7 +202,7 @@ def chord_diagram(name, frets, fingers=None, barre=None, base_fret=1, highlight_
     last = max(played) if played else base_fret
     nrows = 5 if last - base_fret + 1 > 4 else 4
     sp, rh = 26, 30
-    left = 46 if base_fret > 1 else 26
+    left = 58 if base_fret > 1 else 26
     top = 58
     gw = sp * 5
     w = left + gw + 26
@@ -215,7 +217,7 @@ def chord_diagram(name, frets, fingers=None, barre=None, base_fret=1, highlight_
         out.append(f'<line x1="{sx(st)}" y1="{top}" x2="{sx(st)}" y2="{top + nrows * rh}" '
                    f'stroke="{INK}" stroke-width="1.5"/>\n')
     if base_fret > 1:
-        out.append(_text(left - 10, top + rh / 2 + 5, f"{base_fret}fr", size=13, fill=INK, anchor="end"))
+        out.append(_text(left - 17, top + rh / 2 + 5, f"{base_fret}fr", size=13, fill=INK, anchor="end"))
     row_y = lambda f: top + (f - base_fret + 0.5) * rh
     in_barre = lambda st, f: bool(barre) and f == barre[0] and min(barre[1:]) <= st <= max(barre[1:])
     if barre:

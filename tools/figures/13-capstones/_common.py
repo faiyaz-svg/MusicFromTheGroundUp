@@ -36,7 +36,7 @@ def _wrap(s, width_px, size=12):
     return lines[:3]
 
 
-def section_map(rows, alt, name, W=640, min_w=70):
+def section_map(rows, alt, name, W=640, min_w=84):
     """rows: list of (row title, [(first_bar, last_bar, name, note), ...]).
     Each section is a box, wide in proportion to its bars (at least min_w).
     note is optional text such as 'played twice'."""
@@ -56,11 +56,11 @@ def section_map(rows, alt, name, W=640, min_w=70):
         x = left
         for k, ((s, e, nm, *note), w) in enumerate(zip(secs, widths)):
             out.append(rect(x, y, w, 52, FILLS[k % len(FILLS)], INK, 1.5))
-            lines = _wrap(nm, w - 8)
-            ty = y + 22 - 7 * (len(lines) - 1)
+            lines = _wrap(nm, w - 14, 11.5)
+            ty = y + 25 - 7 * (len(lines) - 1)
             for ln in lines:
-                out.append(_text(x + w / 2, ty, ln, size=12, fill=INK, weight="bold"))
-                ty += 14
+                out.append(_text(x + w / 2, ty, ln, size=11.5, fill=INK, weight="bold"))
+                ty += 13
             rng = f"bar {s}" if s == e else f"bars {s}-{e}"
             out.append(_text(x + w / 2, y + 68, rng, size=11, fill=LABEL))
             if note and note[0]:

@@ -73,10 +73,12 @@ def chart_svg(bars, title, per_row=4, start_repeat=False, end_repeat=False, capt
                 out.append(circle(x + bw / 2 + 14, y + bh / 2 + 8, 4, INK, INK, 1))
                 continue
             chords = [(0, bar)] if isinstance(bar, str) else bar
+            off = 14 if (r == 0 and c == 0 and start_repeat) else 0
+            x += off
             for beat, name in chords:
-                out.append(_text(x + 12 + beat * (bw - 20) / beats, y + 26, name, size=22, fill=INK, anchor="start", weight="bold"))
+                out.append(_text(x + 12 + beat * (bw - 20 - off) / beats, y + 26, name, size=22, fill=INK, anchor="start", weight="bold"))
             for b in range(beats):
-                sx = x + 16 + b * (bw - 24) / beats
+                sx = x + 16 + b * (bw - 24 - off) / beats
                 out.append(line(sx, y + bh - 12, sx + 14, y + bh - 34, 2.4))
     # repeat dots
     for r, row in enumerate(rows):

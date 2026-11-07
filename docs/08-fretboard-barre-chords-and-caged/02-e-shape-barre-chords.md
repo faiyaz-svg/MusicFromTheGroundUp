@@ -68,7 +68,7 @@ A full barre is the hardest thing on the guitar so far, and a steel-string acous
 
 ![Step 1 of the partial barre: finger 1 across strings 2 and 1 at fret 1](../assets/figures/08-fretboard-barre-chords-and-caged/e-shape-barre-chords-step-1.svg)
 
-![Step 2: finger 1 across strings 4 to 1, with fingers 2 and 3](../assets/figures/08-fretboard-barre-chords-and-caged/e-shape-barre-chords-step-2.svg)
+![Step 2: finger 1 across strings 4 to 1 at fret 1, with finger 2 on string 3 at fret 2](../assets/figures/08-fretboard-barre-chords-and-caged/e-shape-barre-chords-step-2.svg)
 
 <div class="warning" markdown>
 

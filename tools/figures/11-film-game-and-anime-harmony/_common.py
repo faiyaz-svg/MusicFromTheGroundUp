@@ -20,7 +20,7 @@ def strip(items, title, loop=False, box_w=110, gap=26, notes=None):
     top = 20
     box_h = 64
     text_bottom = top + box_h + (52 if notes else 32)
-    h = text_bottom + (34 if loop else 14)
+    h = text_bottom + (40 if loop else 14)
     body = ""
     for i, (name, numeral, col) in enumerate(items):
         x = pad + i * (box_w + gap)
@@ -40,7 +40,7 @@ def strip(items, title, loop=False, box_w=110, gap=26, notes=None):
         y = h - 10
         x1 = pad + box_w / 2
         x2 = pad + (n - 1) * (box_w + gap) + box_w / 2
-        base = text_bottom - 4
+        base = text_bottom + 6
         body += (f'<polyline points="{x2},{base} {x2},{y} {x1},{y} {x1},{base + 2}" fill="none" stroke="{LABEL}" '
                  f'stroke-width="1.5" stroke-dasharray="5 4"/>\n'
                  f'<polygon points="{x1},{base - 4} {x1 - 5},{base + 4} {x1 + 5},{base + 4}" fill="{LABEL}"/>\n')

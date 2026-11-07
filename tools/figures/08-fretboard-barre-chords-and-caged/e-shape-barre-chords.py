@@ -10,5 +10,5 @@ save(chord_diagram("E", [0, 2, 2, 1, 0, 0], [None, 2, 3, 1, None, None], highlig
 save(chord_diagram("Em", [0, 2, 2, 0, 0, 0], [None, 2, 3, None, None, None], highlight_root=6), F + "em.svg")
 # the partial barre steps
 save(chord_diagram("Step 1", ["x", "x", "x", "x", 1, 1], [None] * 4 + [1, 1], barre=(1, 2, 1), highlight_root=None), F + "step-1.svg")
-save(chord_diagram("Step 2", ["x", "x", 2, 1, 1, 1], [None, None, 2, 1, 1, 1], barre=(1, 4, 1)), F + "step-2.svg")
+save(chord_diagram("Step 2", ["x", "x", 1, 2, 1, 1], [None, None, 1, 2, 1, 1], barre=(1, 4, 1)), F + "step-2.svg")
 print("done")

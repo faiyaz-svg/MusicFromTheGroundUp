@@ -12,7 +12,10 @@ for i, (n, a, b) in enumerate(rows):
     body += _text(20, y + 18, n, size=15, fill=INK, anchor="start", weight="bold")
     xa, xb = x0 + (a - 40) * sc, x0 + (b - 40) * sc
     body += rect(xa, y, xb - xa, 24, fill=[YELLOW, SALMON, TEAL, SKY, YELLOW, SALMON][i])
-    body += _text(xa + (xb - xa) / 2, y + 17, "%d to %d" % (a, b), size=12, fill=INK)
+    if xb - xa < 64:
+        body += _text(xb + 6, y + 17, "%d to %d" % (a, b), size=12, fill=INK, anchor="start")
+    else:
+        body += _text(xa + (xb - xa) / 2, y + 17, "%d to %d" % (a, b), size=12, fill=INK)
 for v in (40, 80, 120, 160, 200):
     x = x0 + (v - 40) * sc
     body += line(x, 36, x, 238, 0.8, "#bbb", "3 3")

@@ -23,5 +23,5 @@
 <text x="188" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">B</text>
 <text x="216" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">C</text>
 <line x1="216" y1="138" x2="216" y2="144" stroke="#111" stroke-width="1.2"/>
-<text x="216" y="157" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">middle C</text>
+<text x="230" y="157" font-size="12" fill="#111" text-anchor="end" font-weight="bold">middle C</text>
 </svg>

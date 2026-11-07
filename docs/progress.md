@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 109 of 157. New lessons appear here as they are added.
+Lessons written so far: 113 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -139,3 +139,10 @@ Lessons written so far: 109 of 157. New lessons appear here as they are added.
 - [ ] [Chopin: Prelude in A major](09-harmony/10-chopin-prelude-in-a-major.md) (piano)
 - [ ] [Hearing chord progressions 2](09-harmony/11-hearing-progressions-2.md) (ear)
 - [ ] [Analysing a piece](09-harmony/12-analysing-a-piece.md) (theory)
+
+## Stage 12: Modes and improvising
+
+- [ ] [The modes](12-modes-and-improvising/01-modes.md) (theory)
+- [ ] [Hearing the modes](12-modes-and-improvising/02-hearing-modes.md) (ear)
+- [ ] [Lydian and the sound of wonder](12-modes-and-improvising/03-lydian-wonder.md) (piano)
+- [ ] [Left-hand patterns for improvising](12-modes-and-improvising/04-left-hand-patterns-for-improvising.md) (piano)

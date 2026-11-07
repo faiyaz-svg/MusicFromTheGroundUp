@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 97 of 157. New lessons appear here as they are added.
+Lessons written so far: 101 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -124,3 +124,10 @@ Lessons written so far: 97 of 157. New lessons appear here as they are added.
 - [ ] [Schumann: The Happy Farmer](08-fretboard-barre-chords-and-caged/10-the-happy-farmer.md) (piano)
 - [ ] [Sight-reading hands together](08-fretboard-barre-chords-and-caged/11-sight-reading-hands-together.md) (reading)
 - [ ] [Hearing intervals 2](08-fretboard-barre-chords-and-caged/12-hearing-intervals-2.md) (ear)
+
+## Stage 9: Harmony
+
+- [ ] [Roman numerals](09-harmony/01-roman-numerals.md) (theory)
+- [ ] [The chords of a key](09-harmony/02-diatonic-chords.md) (theory)
+- [ ] [Cadences](09-harmony/03-cadences.md) (theory)
+- [ ] [Seventh chords](09-harmony/04-seventh-chords.md) (theory)

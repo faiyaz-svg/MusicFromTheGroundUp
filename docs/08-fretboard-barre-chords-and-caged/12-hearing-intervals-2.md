@@ -252,4 +252,4 @@ Ignoring the lower note when singing. Sing from the lower note each time.
 - **Compound interval**: an interval larger than an octave.
 - **Inversion of an interval**: moving the lower note up an octave; the two interval numbers add up to 9.
 
-Next: Roman numerals<!-- link: ../09-harmony/01-roman-numerals.md -->
+Next: [Roman numerals](../09-harmony/01-roman-numerals.md)

@@ -38,7 +38,7 @@ V:LH clef=bass
 [V:LH] C,4 | G,,4 | A,,4 | F,,4 |]
 ```
 
-The right hand moves by a step or stays at each change. This loop of four chords is known as I V vi IV; the lesson The chords of a key<!-- link: ../09-harmony/02-diatonic-chords.md --> explains the numbers.
+The right hand moves by a step or stays at each change. This loop of four chords is known as I V vi IV; the lesson [The chords of a key](../09-harmony/02-diatonic-chords.md) explains the numbers.
 
 The same four chords, starting on Am, give a minor-sounding loop: Am F C G (known as i VI III VII). Play it the same way and listen to how the home chord has changed.
 

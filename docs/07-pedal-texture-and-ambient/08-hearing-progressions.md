@@ -35,7 +35,7 @@ Sing or hum the lowest note of each chord in the example above. It moves C, G, C
 
 ### I and V
 
-In a major key, number the notes of the scale 1 to 7. The **I chord** is the chord built on note 1, the home note (the tonic). In C major it is C. The **V chord** is the chord built on note 5. In C major it is G. Stage 9 names all the chords this way, in Roman numerals<!-- link: ../09-harmony/01-roman-numerals.md -->; here we only need I and V, and later IV (built on note 4, F in C major).
+In a major key, number the notes of the scale 1 to 7. The **I chord** is the chord built on note 1, the home note (the tonic). In C major it is C. The **V chord** is the chord built on note 5. In C major it is G. Stage 9 names all the chords this way, in [Roman numerals](../09-harmony/01-roman-numerals.md); here we only need I and V, and later IV (built on note 4, F in C major).
 
 I sounds like home: the music can rest there. V sounds like the music is on its way back, an unfinished sentence. When V is followed by I, the music comes home.
 

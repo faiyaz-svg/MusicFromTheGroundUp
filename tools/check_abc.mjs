@@ -68,7 +68,6 @@ function checkTune(abc, report) {
 
   const tab = /^%%opts\b.*\btab=guitar\b/m.test(abc)
   const meter = tune.getMeterFraction ? tune.getMeterFraction() : { num: 4, den: 4 }
-  const barLength = meter.num / meter.den
   const voices = new Map() // voice index -> {bars: [len...], notes: []}
 
   tune.lines.forEach((line) => {
@@ -79,7 +78,7 @@ function checkTune(abc, report) {
       for (const a of (staff.key && staff.key.accidentals) || []) keyAcc[a.note.toLowerCase()] = ACC[a.acc] || 0
       staff.voices.forEach((voice, vi) => {
         const id = `${si}.${vi}`
-        if (!voices.has(id)) voices.set(id, { bars: [], current: 0, notes: [], barAcc: {}, triplet: 1, tripletLeft: 0, keyAcc })
+        if (!voices.has(id)) voices.set(id, { bars: [], current: 0, notes: [], barAcc: {}, triplet: 1, tripletLeft: 0, keyAcc, meter })
         const v = voices.get(id)
         v.keyAcc = keyAcc
         for (const el of voice) {
@@ -87,8 +86,12 @@ function checkTune(abc, report) {
             v.keyAcc = {}
             for (const a of el.accidentals) v.keyAcc[a.note.toLowerCase()] = ACC[a.acc] || 0
           }
+          // A time signature change ([M:3/4] inside the music) applies from here on.
+          if (el.el_type === "meter" && el.value && el.value[0]) {
+            v.meter = { num: Number(el.value[0].num), den: Number(el.value[0].den) }
+          }
           if (el.el_type === "bar") {
-            if (v.current > 1e-9) v.bars.push(v.current)
+            if (v.current > 1e-9) v.bars.push({ len: v.current, meter: v.meter })
             v.current = 0
             v.barAcc = {}
             continue
@@ -127,15 +130,16 @@ function checkTune(abc, report) {
   })
 
   for (const [id, v] of voices) {
-    if (v.current > 1e-9) v.bars.push(v.current)
+    if (v.current > 1e-9) v.bars.push({ len: v.current, meter: v.meter })
     const bars = v.bars
-    bars.forEach((len, i) => {
-      if (close(len, barLength)) return
+    bars.forEach(({ len, meter: m }, i) => {
+      const target = m.num / m.den
+      if (close(len, target)) return
       // A short first bar is a pickup. A short last bar is allowed only
       // when there was a pickup, since the two together make a full bar.
-      if (i === 0 && len < barLength) return
-      if (i === bars.length - 1 && len < barLength && bars[0] < barLength - 1e-6) return
-      report(`voice ${id}, bar ${i + 1}: ${+(len * meter.den).toFixed(3)} beats of 1/${meter.den}, expected ${meter.num}`)
+      if (i === 0 && len < target) return
+      if (i === bars.length - 1 && len < target && bars[0].len < bars[0].meter.num / bars[0].meter.den - 1e-6) return
+      report(`voice ${id}, bar ${i + 1}: ${+(len * m.den).toFixed(3)} beats of 1/${m.den}, expected ${m.num}`)
     })
   }
   return voices

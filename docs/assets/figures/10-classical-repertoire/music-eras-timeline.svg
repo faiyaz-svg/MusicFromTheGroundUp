@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 285" width="700" height="285" role="img" aria-label="Timeline from 1600 to 2000: Baroque 1600 to 1750, Classical 1750 to 1820, Romantic 1820 to 1900, 20th century 1900 to 2000, with bars for the lifespans of Petzold, Clementi, Sor, Schumann and Burgmüller" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Timeline from 1600 to 2000: Baroque 1600 to 1750, Classical 1750 to 1820, Romantic 1820 to 1900, 20th century 1900 to 2000, with bars for the lifespans of Petzold, Clementi, Sor, Schumann and Burgmüller</title>
+<rect width="700" height="285" fill="#fff"/>
+<rect x="30" y="70" width="240" height="56" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="150" y="94" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">Baroque</text>
+<text x="150" y="112" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">1600-1750</text>
+<rect x="270" y="70" width="112" height="56" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="326" y="94" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">Classical</text>
+<text x="326" y="112" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">1750-1820</text>
+<rect x="382" y="70" width="128" height="56" rx="0" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="446" y="94" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">Romantic</text>
+<text x="446" y="112" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">1820-1900</text>
+<rect x="510" y="70" width="160" height="56" rx="0" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="590" y="94" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">20th century</text>
+<text x="590" y="112" font-size="11" fill="#111" text-anchor="middle" font-weight="normal">1900-2000</text>
+<line x1="30" y1="126" x2="30" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="30" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1600</text>
+<line x1="110" y1="126" x2="110" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="110" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1650</text>
+<line x1="190" y1="126" x2="190" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="190" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1700</text>
+<line x1="270" y1="126" x2="270" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="270" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1750</text>
+<line x1="350" y1="126" x2="350" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="350" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1800</text>
+<line x1="430" y1="126" x2="430" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="430" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1850</text>
+<line x1="510" y1="126" x2="510" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="510" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1900</text>
+<line x1="590" y1="126" x2="590" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="590" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">1950</text>
+<line x1="670" y1="126" x2="670" y2="134" stroke="#111" stroke-width="1.2"/>
+<text x="670" y="148" font-size="11" fill="#444" text-anchor="middle" font-weight="normal">2000</text>
+<line x1="153.2" y1="175" x2="242.8" y2="175" stroke="#111" stroke-width="5"/>
+<text x="147.2" y="179" font-size="11" fill="#111" text-anchor="end" font-weight="normal">Petzold</text>
+<line x1="273.2" y1="197" x2="401.2" y2="197" stroke="#111" stroke-width="5"/>
+<text x="267.2" y="201" font-size="11" fill="#111" text-anchor="end" font-weight="normal">Clementi</text>
+<line x1="314.8" y1="219" x2="412.4" y2="219" stroke="#111" stroke-width="5"/>
+<text x="308.8" y="223" font-size="11" fill="#111" text-anchor="end" font-weight="normal">Sor</text>
+<line x1="366" y1="241" x2="439.6" y2="241" stroke="#111" stroke-width="5"/>
+<text x="360" y="245" font-size="11" fill="#111" text-anchor="end" font-weight="normal">Schumann</text>
+<line x1="359.6" y1="263" x2="468.4" y2="263" stroke="#111" stroke-width="5"/>
+<text x="353.6" y="267" font-size="11" fill="#111" text-anchor="end" font-weight="normal">Burgmüller</text>
+<text x="350" y="30" font-size="13" fill="#111" text-anchor="middle" font-weight="bold">Eras of classical music, with the lifespans of some composers in this book</text>
+</svg>

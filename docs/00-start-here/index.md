@@ -19,7 +19,7 @@ The book has 13 stages. Each stage teaches a little theory and reading, then put
 | [Stage 7: Pedal, texture and ambient](../07-pedal-texture-and-ambient/index.md) | The three pedals, left-hand patterns, ambient piano, Travis picking |
 | [Stage 8: Fretboard, barre chords and CAGED](../08-fretboard-barre-chords-and-caged/index.md) | Every note on the neck, barre chords, CAGED, all twelve major scales |
 | [Stage 9: Harmony](../09-harmony/index.md) | Roman numerals, cadences, seventh chords, analysing a piece |
-| Stage 10: Classical repertoire<!-- link: ../10-classical-repertoire/index.md --> | Classical guitar studies and piano pieces by Clementi and Burgmüller |
+| [Stage 10: Classical repertoire](../10-classical-repertoire/index.md) | Classical guitar studies and piano pieces by Clementi and Burgmüller |
 | [Stage 11: Film, game and anime harmony](../11-film-game-and-anime-harmony/index.md) | The royal road, Aeolian loops, borrowed chords, chromatic mediants |
 | [Stage 12: Modes and improvising](../12-modes-and-improvising/index.md) | The modes and their moods, improvising on piano, the pentatonic on guitar |
 | Stage 13: Capstones<!-- link: ../13-capstones/index.md --> | Transposing, form, longer pieces, playing by ear, what to do next |

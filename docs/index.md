@@ -103,11 +103,9 @@ Roman numerals, the chords of a key, cadences, seventh chords, notes outside the
 
 <span class="mf-stage__number">Stage 10</span>
 
-### Classical repertoire
+### [Classical repertoire](10-classical-repertoire/index.md)
 
 Classical guitar studies by Giuliani, Carulli, Sor and Carcassi on your steel-string guitar, piano pieces by Clementi and Burgmüller, and a short history of the eras.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

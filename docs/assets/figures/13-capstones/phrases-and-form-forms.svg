@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 388" width="640" height="388" role="img" aria-label="Five forms drawn as strips of coloured boxes: binary AB, ternary ABA, rondo ABACA, theme and variations, and verse and chorus" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Five forms drawn as strips of coloured boxes: binary AB, ternary ABA, rondo ABACA, theme and variations, and verse and chorus</title>
+<rect width="640" height="388" fill="#fff"/>
+<text x="16" y="20" font-size="13" fill="#111" text-anchor="start" font-weight="bold">Binary: A B (each half repeated)</text>
+<rect x="16" y="30" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="46" y="56" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<rect x="76" y="30" width="60" height="40" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="56" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">B</text>
+<text x="16" y="96" font-size="13" fill="#111" text-anchor="start" font-weight="bold">Ternary: A B A</text>
+<rect x="16" y="106" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="46" y="132" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<rect x="76" y="106" width="60" height="40" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="132" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">B</text>
+<rect x="136" y="106" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="166" y="132" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<text x="16" y="172" font-size="13" fill="#111" text-anchor="start" font-weight="bold">Rondo: A B A C A</text>
+<rect x="16" y="182" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="46" y="208" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<rect x="76" y="182" width="60" height="40" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="208" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">B</text>
+<rect x="136" y="182" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="166" y="208" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<rect x="196" y="182" width="60" height="40" rx="0" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="226" y="208" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">C</text>
+<rect x="256" y="182" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="286" y="208" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<text x="16" y="248" font-size="13" fill="#111" text-anchor="start" font-weight="bold">Theme and variations</text>
+<rect x="16" y="258" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="46" y="284" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A</text>
+<rect x="76" y="258" width="60" height="40" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="284" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A1</text>
+<rect x="136" y="258" width="60" height="40" rx="0" fill="#00d2be" stroke="#111" stroke-width="1.5"/>
+<text x="166" y="284" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A2</text>
+<rect x="196" y="258" width="60" height="40" rx="0" fill="#ff8389" stroke="#111" stroke-width="1.5"/>
+<text x="226" y="284" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">A3</text>
+<text x="16" y="324" font-size="13" fill="#111" text-anchor="start" font-weight="bold">Verse and chorus</text>
+<rect x="16" y="334" width="60" height="40" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="46" y="360" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">V</text>
+<rect x="76" y="334" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="106" y="360" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">C</text>
+<rect x="136" y="334" width="60" height="40" rx="0" fill="#6dcbff" stroke="#111" stroke-width="1.5"/>
+<text x="166" y="360" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">V</text>
+<rect x="196" y="334" width="60" height="40" rx="0" fill="#fed134" stroke="#111" stroke-width="1.5"/>
+<text x="226" y="360" font-size="16" fill="#111" text-anchor="middle" font-weight="bold">C</text>
+</svg>

@@ -73,7 +73,7 @@ A **capo chart** is a chord chart with the capo fret written at the top. Most gu
 
 Some charts print the sounding chords with a note such as "capo 2, play in G shapes". Read the top line before you play. Check whether a chart gives shapes or sounding chords, and in this book a capo chart always lists the shapes.
 
-On the piano, the same idea is moving a whole passage up by a fixed number of half steps; the lesson Transposition<!-- link: ../13-capstones/01-transposition.md --> covers it.
+On the piano, the same idea is moving a whole passage up by a fixed number of half steps; the lesson [Transposition](../13-capstones/01-transposition.md) covers it.
 
 ## Try it
 

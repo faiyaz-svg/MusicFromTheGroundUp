@@ -208,4 +208,4 @@ Staying on one kind of change. Try rhythm, register, mode, ornament and harmony 
 - **Variation**: the theme played again with one thing changed.
 - **Grace note**: a quick small note played right before a main note.
 
-Next: Transposition<!-- link: ../13-capstones/01-transposition.md -->
+Next: [Transposition](../13-capstones/01-transposition.md)

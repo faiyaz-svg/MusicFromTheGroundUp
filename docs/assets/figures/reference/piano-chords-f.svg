@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348 142" width="348" height="142" role="img" aria-label="Piano keyboard from C4 to G5" font-family="Jost, Segoe UI, Arial, sans-serif">
+<title>Piano keyboard from C4 to G5</title>
+<rect width="348" height="142" fill="#fff"/>
+<rect x="6" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="34" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="62" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="90" y="6" width="28" height="130" fill="#ff8389" stroke="#111" stroke-width="1.2"/>
+<rect x="118" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="146" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="174" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="202" y="6" width="28" height="130" fill="#fed134" stroke="#111" stroke-width="1.2"/>
+<rect x="230" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="258" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="286" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="314" y="6" width="28" height="130" fill="#fff" stroke="#111" stroke-width="1.2"/>
+<rect x="25.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="53.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="109.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="137.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="165.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="221.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="249.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<rect x="305.6" y="6" width="16.8" height="80.6" fill="#111" stroke="#111" stroke-width="1.2"/>
+<circle cx="104" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="104" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">1</text>
+<circle cx="160" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="160" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">3</text>
+<circle cx="216" cy="118" r="10" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="216" y="121.8" font-size="12" fill="#111" text-anchor="middle" font-weight="bold">5</text>
+<text x="20" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">C</text>
+<text x="48" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">D</text>
+<text x="76" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">E</text>
+<text x="132" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">G</text>
+<text x="188" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">B</text>
+<text x="244" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">D</text>
+<text x="272" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">E</text>
+<text x="300" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">F</text>
+<text x="328" y="128" font-size="12" fill="#444" text-anchor="middle" font-weight="normal">G</text>
+</svg>

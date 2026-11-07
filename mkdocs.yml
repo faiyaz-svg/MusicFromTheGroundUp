@@ -272,5 +272,11 @@ nav:
   - Reference:
       - reference/index.md
       - "Glossary": reference/glossary.md
+      - "Notation symbols": reference/notation-symbols.md
+      - "Italian terms": reference/italian-terms.md
+      - "Piano chord chart": reference/piano-chords.md
+      - "Guitar chord shapes": reference/guitar-chords.md
+      - "Scales and key signatures": reference/scales-and-keys.md
       - "Common mistakes": reference/common-mistakes.md
+      - "Videos": reference/videos.md
 # nav:end

@@ -1,0 +1,30 @@
+# Videos
+
+Each lesson with a "Film yourself" section links to one free video that shows the technique. Watch it once, then film yourself and compare what you see against that lesson's checklist.
+
+| Lesson | What to watch for | Video |
+|---|---|---|
+| [Sitting at the piano and finger numbers](../01-first-sounds/05-sitting-and-finger-numbers.md) | bench height, forearm angle and a level wrist | [Proper Posture At The Piano](https://www.youtube.com/watch?v=E8Do4oxTJ1k), Pianote |
+| [Holding the guitar, tuning and the pick](../01-first-sounds/06-holding-tuning-and-the-pick.md) | tuning each string with a tuner, then compare your hold and pick | [How to Tune Your Guitar For Beginners](https://www.youtube.com/watch?v=X2EmpWr9vUc), JustinGuitar |
+| [Chord diagrams and your first chord](../01-first-sounds/12-chord-diagrams-and-e-minor.md) | where fingers 2 and 3 go for Em | [How to Play the Em Chord / Guitar for Beginners](https://www.youtube.com/watch?v=lqcd3jVysXY), JustinGuitar |
+| [Left hand in C position](../02-two-hands-and-first-chords/02-left-hand-c-position.md) | curved fingers and a level wrist | [Proper Hand Posture At The Piano](https://www.youtube.com/watch?v=rZznie6UU_o), Pianote |
+| [The E and A chords](../02-two-hands-and-first-chords/04-chords-e-and-a.md) | moving between chords with anchor fingers | [A, D, and E - Easy Chord Changes Using Anchor Fingers](https://www.youtube.com/watch?v=McSfLPmXcLw), JustinGuitar |
+| [The A minor and D chords](../02-two-hands-and-first-chords/06-chords-a-minor-and-d.md) | the Am shape and which string to start on | [How to Play the Am Chord / Guitar for Beginners](https://www.youtube.com/watch?v=1Y2veGF9s44), JustinGuitar |
+| [Strumming with down strokes](../02-two-hands-and-first-chords/08-strumming-down-strokes.md) | a loose forearm swing on steady down strokes | [Your FIRST Strumming Pattern EVER! / Guitar for Beginners](https://www.youtube.com/watch?v=n45PDizCRLw), JustinGuitar |
+| [The C major scale and thumb-under](../03-the-major-scale-and-keys/03-c-major-scale-and-thumb-under.md) | the fingering and the thumb passing under | [How To Play Any Major Scale On The Piano](https://www.youtube.com/watch?v=vIuzrV1dwPs), Pianote |
+| [The C, G and D minor chords](../03-the-major-scale-and-keys/06-chords-c-g-and-d-minor.md) | fingers moving together as one shape | [Want Fast & Perfect Chord Changes on Guitar?](https://www.youtube.com/watch?v=xSFHgeJUuIs), JustinGuitar |
+| [Eighth-note strumming](../04-intervals-and-triads/09-eighth-note-strumming.md) | the down-up motion of the strumming arm | [Easy Strumming Patterns With Up Strums / Guitar for Beginners](https://www.youtube.com/watch?v=IXL1bG_ao3c), JustinGuitar |
+| [Schumann: Melody and Soldiers' March](../05-minor-keys-and-chord-charts/09-schumann-album-for-the-young.md) | a melody that sounds louder than the accompaniment | [VOICING Strategy - Make Your Melody SING With This Easy Practice Technique](https://www.youtube.com/watch?v=UsxfFs5nf2E), Josh Wright |
+| [Fingerpicking basics](../05-minor-keys-and-chord-charts/10-fingerpicking-basics.md) | the thumb and finger roles and a relaxed picking hand | [Finger Style For Beginners. Start Here.](https://www.youtube.com/watch?v=2WB8otOcz78), JustinGuitar |
+| [Muting and sixteenth-note strumming](../05-minor-keys-and-chord-charts/13-muting-and-sixteenth-strumming.md) | a steady arm motion and the muted hit | [Here's How You Get A Percussive Strumming on Guitar](https://www.youtube.com/watch?v=MP292DdVOKs), JustinGuitar |
+| [6/8 strumming](../06-meter-terms-and-rhythm/06-six-eight-strumming.md) | the 6/8 strumming pattern at a slow tempo | [The 6 : 8 Strumming Pattern You NEED](https://www.youtube.com/watch?v=bKOmcPTHYpA), JustinGuitar |
+| [Fingerpicking patterns](../06-meter-terms-and-rhythm/07-fingerpicking-patterns.md) | how each picking pattern is built and repeated | [5 Fingerstyle Patterns You Need to Know](https://www.youtube.com/watch?v=jF0RduFSyHg), JustinGuitar |
+| [Hammer-ons and pull-offs](../06-meter-terms-and-rhythm/10-hammer-ons-and-pull-offs.md) | how the fretting finger lands and how it leaves the string | [Hammer-ons & Pull-offs / Intermediate Guitar Lesson](https://www.youtube.com/watch?v=dYaeIXXyy1Y), JustinGuitar |
+| [The damper pedal](../07-pedal-texture-and-ambient/01-damper-pedal.md) | heel on the floor and when the foot presses and lifts | [How To Use A Sustain Pedal - Piano Lesson (Pianote)](https://www.youtube.com/watch?v=koJVelJdnZE), Pianote |
+| [Legato pedalling](../07-pedal-texture-and-ambient/02-legato-pedalling.md) | lifting and pressing the pedal right after each chord | [Piano Lesson on Legato Pedalling](https://www.youtube.com/watch?v=F_d8oask2VU), Pianist Magazine |
+| [Tchaikovsky: Old French Song](../07-pedal-texture-and-ambient/10-tchaikovsky-album-for-the-young.md) | detached notes in one hand with a smooth line in the other | [Legato and Staccato in different hands at the same time!](https://www.youtube.com/watch?v=0BibWub6rTs), Jane Trotter's Accelerando Piano |
+| [Ambient guitar arpeggios](../07-pedal-texture-and-ambient/12-ambient-guitar-arpeggios.md) | thumb and finger order in a rolling arpeggio | [How to Play Arpeggios Guitar - Beginners Guide - Guitar Lesson [AR-101]](https://www.youtube.com/watch?v=6o3lWAnWCig), JustinGuitar |
+| [E-shape barre chords](../08-fretboard-barre-chords-and-caged/02-e-shape-barre-chords.md) | finger 1 across the strings and the thumb behind the neck | [Easy Barre Chords For Beginners](https://www.youtube.com/watch?v=ZYbxYoG6Mo0), JustinGuitar |
+| [Scales and arpeggios hands together](../08-fretboard-barre-chords-and-caged/09-scales-and-arpeggios-hands-together.md) | slow two-octave practice with thumbs passing under | [How to Practice Two-Octave Scales / Piano Technique for Beginners](https://www.youtube.com/watch?v=FbxGRH3qbBg), Carnegie Studios |
+
+These videos are on other sites. They can change or disappear, and the links were checked in November 2026.

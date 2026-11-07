@@ -93,11 +93,9 @@ Every note on the guitar neck, barre chords, the CAGED system, all twelve major 
 
 <span class="mf-stage__number">Stage 9</span>
 
-### Harmony
+### [Harmony](09-harmony/index.md)
 
 Roman numerals, the chords of a key, cadences, seventh chords, notes outside the chord, and how to analyse a piece.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

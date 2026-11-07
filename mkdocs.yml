@@ -206,6 +206,20 @@ nav:
       - "Schumann: The Happy Farmer": 08-fretboard-barre-chords-and-caged/10-the-happy-farmer.md
       - "Sight-reading hands together": 08-fretboard-barre-chords-and-caged/11-sight-reading-hands-together.md
       - "Hearing intervals 2": 08-fretboard-barre-chords-and-caged/12-hearing-intervals-2.md
+  - "9 Harmony":
+      - 09-harmony/index.md
+      - "Roman numerals": 09-harmony/01-roman-numerals.md
+      - "The chords of a key": 09-harmony/02-diatonic-chords.md
+      - "Cadences": 09-harmony/03-cadences.md
+      - "Seventh chords": 09-harmony/04-seventh-chords.md
+      - "Seventh chords on piano": 09-harmony/05-seventh-chords-on-piano.md
+      - "Major 7 and minor 7 barre shapes": 09-harmony/06-maj7-and-min7-barre-shapes.md
+      - "Cadences at the piano": 09-harmony/07-cadences-at-the-piano.md
+      - "Minor-key progressions on guitar": 09-harmony/08-minor-key-progressions.md
+      - "Non-chord tones": 09-harmony/09-non-chord-tones.md
+      - "Chopin: Prelude in A major": 09-harmony/10-chopin-prelude-in-a-major.md
+      - "Hearing chord progressions 2": 09-harmony/11-hearing-progressions-2.md
+      - "Analysing a piece": 09-harmony/12-analysing-a-piece.md
   - Practice tools:
       - practice/index.md
       - "Note flashcards": practice/note-flashcards.md

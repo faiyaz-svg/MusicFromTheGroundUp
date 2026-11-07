@@ -1,0 +1,46 @@
+id	front	back	tags
+s9-roman-numerals-01	What do upper and lower case Roman numerals mean?	Upper case (I, IV, V) is a major chord. Lower case (ii, iii, vi) is minor. A small circle (vii°) is diminished.	stage9 theory
+s9-roman-numerals-02	What is the quality pattern of the seven chords of a major key?	Major, minor, minor, major, major, minor, diminished (I ii iii IV V vi vii°).	stage9 theory
+s9-roman-numerals-03	Name the seven chords of C major with numerals.	I C, ii Dm, iii Em, IV F, V G, vi Am, vii° Bdim.	stage9 theory
+s9-roman-numerals-04	What are the numerals of the chords in A minor?	i Am, ii° Bdim, III C, iv Dm, v Em, VI F, VII G. The harmonic minor makes V an E major chord.	stage9 theory
+s9-diatonic-chords-01	What are the three chord functions in a major key?	Tonic (I, with vi and iii): home. Subdominant (IV, with ii): leaves home. Dominant (V, with vii°): tension that wants to return.	stage9 theory
+s9-diatonic-chords-02	What is the usual path of a progression?	Tonic, then subdominant, then dominant, then back to the tonic.	stage9 theory
+s9-diatonic-chords-03	Spell ii V I in C, G and F.	C: Dm, G, C. G: Am, D, G. F: Gm, C, F.	stage9 theory
+s9-diatonic-chords-04	Spell I vi IV V in G major.	G, Em, C, D.	stage9 theory
+s9-cadences-01	What is a cadence?	The chords that close a phrase, like punctuation at the end of a sentence.	stage9 theory
+s9-cadences-02	Perfect (authentic) cadence: chords and sound?	V to I. It sounds finished, like a full stop.	stage9 theory
+s9-cadences-03	Plagal cadence: chords and sound?	IV to I. Finished, but softer than the perfect cadence.	stage9 theory
+s9-cadences-04	Half (imperfect) cadence: chords and sound?	A phrase ending on V. It sounds open, like a comma.	stage9 theory
+s9-cadences-05	Deceptive cadence: chords and sound?	V to vi (G to Am in C). The ear expects I and hears a surprise.	stage9 theory
+s9-seventh-chords-01	Spell Cmaj7 and C7.	Cmaj7: C, E, G, B. C7: C, E, G, Bb.	stage9 theory
+s9-seventh-chords-02	Spell Cm7 and Cm7b5.	Cm7: C, Eb, G, Bb. Cm7b5 (half-diminished): C, Eb, Gb, Bb.	stage9 theory
+s9-seventh-chords-03	Spell Cdim7.	C, Eb, Gb, Bbb. Every note is a minor 3rd above the one before.	stage9 theory
+s9-seventh-chords-04	Spell G7 and say which notes form the tritone.	G7: G, B, D, F. The tritone is B and F. B rises to C and F falls to E.	stage9 theory
+s9-seventh-chords-05	Which seventh chord is built on the 5th note of a major scale?	The dominant 7th (V7), the only chord in the key with a major 3rd and a minor 7th.	stage9 theory
+s9-sevenths-piano-01	Which fingers play a four-note seventh chord in the right hand?	Fingers 1, 2, 3 and 5.	stage9 piano
+s9-sevenths-piano-02	Name the four positions of G7 from the bottom.	Root: G B D F. 1st inversion: B D F G. 2nd: D F G B. 3rd: F G B D.	stage9 piano
+s9-sevenths-piano-03	How does G7 in 2nd inversion resolve to C?	D, F, G, B moves to C, E, G, C: D falls to C, F falls to E, G stays, B rises to C.	stage9 piano
+s9-barre-sevenths-01	How do you get Cmaj7 from the C chord?	Lift finger 1 so string 2 rings open as B (x 3 2 0 0 0).	stage9 guitar
+s9-barre-sevenths-02	Frets for open Am7 and Fmaj7?	Am7: x 0 2 0 1 0. Fmaj7: x x 3 2 1 0.	stage9 guitar
+s9-barre-sevenths-03	Movable shapes with the root on string 5: the frets of maj7, m7 and 7 (r is the root fret)?	maj7: x r r+2 r+1 r+2 r. m7: x r r+2 r r+1 r. 7: x r r+2 r r+2 r.	stage9 guitar
+s9-barre-sevenths-04	What notes are on string 5 at frets 1, 3, 5, 7, 8, 10 and 12?	Bb, C, D, E, F, G, A.	stage9 guitar
+s9-cadences-piano-01	What three rules give good voice leading for chords on piano?	Common tones stay, the other notes move by the smallest step, and the left hand plays the root.	stage9 piano
+s9-cadences-piano-02	Right-hand shape for I, IV and V in C?	I: C E G (root position). IV: C F A (2nd inversion). V: B D G (1st inversion).	stage9 piano
+s9-cadences-piano-03	Right-hand notes for the V to vi deceptive cadence in C?	B, D, G moves up by step to C, E, A (Am).	stage9 piano
+s9-minor-guitar-01	What changes between Em and E in the key of A minor?	The 3rd: G becomes G#. G# is the leading tone, so the major V pulls to Am more strongly.	stage9 guitar
+s9-minor-guitar-02	Write i VI III VII in A minor and in E minor.	A minor: Am, F, C, G. E minor: Em, C, G, D.	stage9 guitar
+s9-minor-guitar-03	Which chords make i iv V in A minor?	Am, Dm, E.	stage9 guitar
+s9-nct-01	What is a non-chord tone?	A melody note that is not in the chord that sounds with it.	stage9 theory
+s9-nct-02	Passing tone and neighbour tone?	Passing: steps between two chord tones in one direction. Neighbour: steps away from a chord tone and back to the same note.	stage9 theory
+s9-nct-03	Suspension?	A note held (tied) from the old chord that clashes with the new chord, then falls by step.	stage9 theory
+s9-nct-04	Appoggiatura?	A non-chord tone on a strong beat, reached by a leap and left by step.	stage9 theory
+s9-nct-05	Anticipation and escape tone?	Anticipation: a note of the next chord arriving early. Escape tone: reached by step, left by a leap in the opposite direction.	stage9 theory
+s9-chopin-01	Key and time signature of Chopin Prelude Op. 28 No. 7?	A major (three sharps: F#, C#, G#), in 3/4.	stage9 piano
+s9-chopin-02	How is the Chopin prelude built?	Sixteen bars in eight phrases of two bars, each with the same rhythm.	stage9 piano
+s9-chopin-03	What is the chord progression of bars 1 to 4 of the prelude?	V7 (E7) in bars 1 and 2, then I (A) in bars 3 and 4.	stage9 piano
+s9-chopin-04	How do you play the wide chord in bar 12?	Roll it quickly from the bottom up under the pedal so all five notes ring together.	stage9 piano
+s9-hearing2-01	Three questions to ask when you hear a progression?	Where is home? Where does the bass go (as scale numbers)? Is each chord major or minor?	stage9 ear
+s9-hearing2-02	Bass movement of I vi IV V in C?	C, A, F, G: down a 3rd, down a 3rd, up a step.	stage9 ear
+s9-hearing2-03	Bass movement of I IV V I in C?	C, F, G, C: up a 4th, up a step, then back to C.	stage9 ear
+s9-analysis-01	Six steps to analyse a piece?	Key, time signature and phrases, chords from the bass, Roman numerals, cadences, non-chord tones.	stage9 theory
+s9-analysis-02	How do you find a chord in a bar?	Look at the bass note and the held or repeated notes first, not the melody alone.	stage9 theory

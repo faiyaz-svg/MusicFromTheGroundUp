@@ -36,7 +36,7 @@ Form is the plan of a piece: how its sections are ordered. Letters name the sect
 
 A **rondo** brings the main theme back several times between contrasting sections: A B A C A. Beethoven's Für Elise is a rondo. Count the returns of the opening tune.
 
-**Theme and variations** states a theme and then plays it again with changes: A, A1, A2, A3. The change can be rhythm, register (high or low), mode, ornament or harmony. Mozart wrote variations on the French tune Ah vous dirai-je, Maman, the tune Twinkle Twinkle Little Star uses. Stage 12 has a lesson on varying a theme<!-- link: ../12-modes-and-improvising/12-variations-on-a-theme.md -->.
+**Theme and variations** states a theme and then plays it again with changes: A, A1, A2, A3. The change can be rhythm, register (high or low), mode, ornament or harmony. Mozart wrote variations on the French tune Ah vous dirai-je, Maman, the tune Twinkle Twinkle Little Star uses. Stage 12 has a lesson on [varying a theme](../12-modes-and-improvising/12-variations-on-a-theme.md).
 
 ![Five forms drawn as strips of boxes: binary, ternary, rondo, theme and variations, verse and chorus](../assets/figures/13-capstones/phrases-and-form-forms.svg)
 

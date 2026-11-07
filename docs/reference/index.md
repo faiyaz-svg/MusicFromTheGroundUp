@@ -12,4 +12,4 @@ Pages to keep open while you practise or read a score.
 | [Scales and key signatures](scales-and-keys.md) | Every major and minor key, its key signature and its scale, and the circle of fifths |
 | [Common mistakes](common-mistakes.md) | The mistakes from every lesson, in reading order |
 | [Videos](videos.md) | The free technique videos the lessons link to |
-| Play next<!-- link: play-next.md --> | Real film, game and anime music in licensed arrangements, and the lesson after which each piece is within reach |
+| [Play next](play-next.md) | Real film, game and anime music in licensed arrangements, and the lesson after which each piece is within reach |

@@ -47,7 +47,7 @@ Step 8: transposed to G major, the melody is G G G A | B A | G B A A | G, and th
 
 You can use any music you like for private study, including film, game and anime music. Pick a short piece you know well, such as a theme, and work out its melody and chords with the steps above. Write your notes as numbers and chord symbols for yourself, and keep them to yourself. This book does not print the melodies of those pieces, and your notes are for your own practice, not for sharing.
 
-Start with easy ones. A good first target is a tune with a slow melody and two or three chords. Use the lessons on hearing chord progressions<!-- link: ../09-harmony/11-hearing-progressions-2.md --> and [hearing film progressions](../11-film-game-and-anime-harmony/11-hearing-film-progressions.md) to tune your ear for the chord moves they use.
+Start with easy ones. A good first target is a tune with a slow melody and two or three chords. Use the lessons on [hearing chord progressions](../09-harmony/11-hearing-progressions-2.md) and [hearing film progressions](../11-film-game-and-anime-harmony/11-hearing-film-progressions.md) to tune your ear for the chord moves they use.
 
 ## Try it
 

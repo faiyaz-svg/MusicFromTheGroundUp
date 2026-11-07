@@ -78,7 +78,7 @@ The study is in binary form, A B, and each half is repeated. In the first half, 
 | Bars | What happens |
 |---|---|
 | 1 to 8 | First half, repeated. The bass note is held for three beats and struck again on beat 4 in most bars. Bar 4 returns to A, and bar 8 ends on E |
-| 9 to 12 | The bass stays on E for four bars (a pedal point<!-- link: ../11-film-game-and-anime-harmony/07-pedal-points-and-ostinatos.md -->) |
+| 9 to 12 | The bass stays on E for four bars (a [pedal point](../11-film-game-and-anime-harmony/07-pedal-points-and-ostinatos.md)) |
 | 13 to 16 | The triplets move to the top voice and the bass changes bar by bar. The melody climbs step by step |
 | 17 to 20 | The bass stays on A for four bars |
 | 21 to 24 | The melody climbs to its highest notes, with C# and D in bar 22 up at frets 9 and 10 on string 1. The study ends on A in bar 24 |

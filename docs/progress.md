@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 129 of 157. New lessons appear here as they are added.
+Lessons written so far: 133 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -150,6 +150,10 @@ Lessons written so far: 129 of 157. New lessons appear here as they are added.
 - [ ] [The minor iv and the Picardy third](11-film-game-and-anime-harmony/06-minor-iv-and-the-picardy-third.md) (theory)
 - [ ] [Pedal points and ostinatos](11-film-game-and-anime-harmony/07-pedal-points-and-ostinatos.md) (piano)
 - [ ] [An arpeggio prelude](11-film-game-and-anime-harmony/08-arpeggio-prelude.md) (piano)
+- [ ] [Chromatic mediants](11-film-game-and-anime-harmony/09-chromatic-mediants.md) (theory)
+- [ ] [A hero theme on guitar](11-film-game-and-anime-harmony/10-hero-theme-on-guitar.md) (guitar)
+- [ ] [Hearing film progressions](11-film-game-and-anime-harmony/11-hearing-film-progressions.md) (ear)
+- [ ] [An anime-style piano piece](11-film-game-and-anime-harmony/12-anime-style-piano-piece.md) (piano)
 
 ## Stage 12: Modes and improvising
 

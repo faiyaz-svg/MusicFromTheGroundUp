@@ -1,0 +1,53 @@
+id	front	back	tags
+s11-the-royal-road-01	What is the royal road progression, in numerals?	IV V iii vi. In C major: F, G, Em, Am.	stage11 harmony film game anime
+s11-the-royal-road-02	Why does the royal road sound bittersweet?	V goes to iii instead of I, and it ends on the minor vi, so a major key finishes on a minor chord.	stage11 harmony film game anime
+s11-the-royal-road-03	Spell Fmaj7.	Fmaj7: F, A, C, E.	stage11 harmony film game anime
+s11-the-royal-road-04	What is the royal road in G major?	C, D, Bm, Em.	stage11 harmony film game anime
+s11-the-royal-road-05	Which style of music uses the royal road a lot?	J-pop and anime music.	stage11 harmony film game anime
+s11-royal-road-on-piano-01	Which right-hand notes make Fmaj7 over an F in the left hand?	A, C, E (an Am triad over the F).	stage11 harmony film game anime
+s11-royal-road-on-piano-02	Which right-hand notes make G7 over a G in the left hand?	B, D, F.	stage11 harmony film game anime
+s11-royal-road-on-piano-03	What is the left-hand broken-chord pattern?	Root, fifth, tenth, fifth, twice per bar.	stage11 harmony film game anime
+s11-royal-road-on-piano-04	What moves from G7 to Em7 in the right-hand shape?	Only the F, which moves up to G. B and D stay.	stage11 harmony film game anime
+s11-royal-road-on-guitar-01	What are the frets of open Fmaj7, strings 6 to 1?	x x 3 2 1 0.	stage11 harmony film game anime
+s11-royal-road-on-guitar-02	What are the frets of G7, strings 6 to 1?	3 2 0 0 0 1.	stage11 harmony film game anime
+s11-royal-road-on-guitar-03	What are the frets of Em7, strings 6 to 1?	0 2 0 0 0 0.	stage11 harmony film game anime
+s11-royal-road-on-guitar-04	What are the royal road chords with sevenths in G major?	Cmaj7, D7, Bm7, Em7.	stage11 harmony film game anime
+s11-aeolian-loops-01	What is the four-chord Aeolian loop in numerals?	i VI III VII (also written i bVI bIII bVII).	stage11 harmony film game anime
+s11-aeolian-loops-02	What is the Aeolian loop i VI III VII in A minor?	Am, F, C, G.	stage11 harmony film game anime
+s11-aeolian-loops-03	What is the Aeolian loop in E minor?	Em, C, G, D.	stage11 harmony film game anime
+s11-aeolian-loops-04	Why do Aeolian loops have no strong pull to i?	They have no V chord, and the VII chord has no leading tone.	stage11 harmony film game anime
+s11-aeolian-loops-05	What is Aeolian another name for?	The natural minor scale.	stage11 harmony film game anime
+s11-borrowed-chords-and-the-mario-cadence-01	What is a borrowed chord?	A chord taken from the parallel minor key and used in a major key.	stage11 harmony film game anime
+s11-borrowed-chords-and-the-mario-cadence-02	What are bIII, bVI and bVII in C major?	Eb, Ab and Bb.	stage11 harmony film game anime
+s11-borrowed-chords-and-the-mario-cadence-03	What is the Mario cadence?	bVI bVII I (in C major: Ab, Bb, C). It is a fan name, not a textbook term.	stage11 harmony film game anime
+s11-borrowed-chords-and-the-mario-cadence-04	What does the b in front of a numeral mean?	The chord is built on a note a half step lower than in the major scale.	stage11 harmony film game anime
+s11-minor-iv-and-the-picardy-third-01	What is the minor iv in C major?	Fm: F, Ab, C.	stage11 harmony film game anime
+s11-minor-iv-and-the-picardy-third-02	Which note changes between F and Fm?	A drops to Ab.	stage11 harmony film game anime
+s11-minor-iv-and-the-picardy-third-03	What is the Picardy third?	A major tonic chord at the end of a piece in a minor key.	stage11 harmony film game anime
+s11-minor-iv-and-the-picardy-third-04	What changes in the last chord of a Picardy third in A minor?	Am (A, C, E) becomes A major (A, C#, E).	stage11 harmony film game anime
+s11-pedal-points-and-ostinatos-01	What is a pedal point?	A note, usually in the bass, held or repeated while the chords above it change.	stage11 harmony film game anime
+s11-pedal-points-and-ostinatos-02	What is a dominant pedal?	A pedal point on the dominant (G in C major), which builds tension until the music goes to the tonic.	stage11 harmony film game anime
+s11-pedal-points-and-ostinatos-03	What is an ostinato?	A short pattern that repeats many times while other parts change.	stage11 harmony film game anime
+s11-pedal-points-and-ostinatos-04	What does the slash chord C/G mean?	A C chord with G in the bass.	stage11 harmony film game anime
+s11-arpeggio-prelude-01	What is an arpeggio?	The notes of a chord played one after another.	stage11 harmony film game anime
+s11-arpeggio-prelude-02	What is the rolling arpeggio pattern in Far Tower?	Notes 1, 3, 5, 8, 5, 3, 5, 3 of the chord, eight eighth notes per bar.	stage11 harmony film game anime
+s11-arpeggio-prelude-03	Which chord ends Far Tower, and what is special about it?	A major, a Picardy third in A minor.	stage11 harmony film game anime
+s11-arpeggio-prelude-04	When do you change the damper pedal in an arpeggio texture?	Once per chord, just after the new bass note.	stage11 harmony film game anime
+s11-chromatic-mediants-01	What is a chromatic mediant?	A chord a third above or below the tonic, with the same quality, that is not in the key.	stage11 harmony film game anime
+s11-chromatic-mediants-02	What are the chromatic mediants I to bVI, I to III and I to bIII in C major?	Ab, E and Eb.	stage11 harmony film game anime
+s11-chromatic-mediants-03	Which note do C major and Ab major share?	C.	stage11 harmony film game anime
+s11-chromatic-mediants-04	Which note do C major and E major share?	E.	stage11 harmony film game anime
+s11-chromatic-mediants-05	Which note do C major and Eb major share?	G.	stage11 harmony film game anime
+s11-hero-theme-on-guitar-01	What is the chromatic mediant in The Long Climb?	I to bVI: E major to C major in bars 13 and 14.	stage11 harmony film game anime
+s11-hero-theme-on-guitar-02	Which note do E major and C major share?	E.	stage11 harmony film game anime
+s11-hero-theme-on-guitar-03	What are the frets of A5 on strings 6, 5 and 4?	5 7 7.	stage11 harmony film game anime
+s11-hero-theme-on-guitar-04	What is the E natural minor scale?	E, F#, G, A, B, C, D, E.	stage11 harmony film game anime
+s11-hearing-film-progressions-01	What are the three listening questions for a progression?	How does it end? What does the bass do? Does one chord sound like it comes from outside the key?	stage11 harmony film game anime
+s11-hearing-film-progressions-02	A minor-key example ends on a major chord. What is it called?	A Picardy third.	stage11 harmony film game anime
+s11-hearing-film-progressions-03	Which progression has three bass notes climbing in steps into the tonic?	The Mario cadence, bVI bVII I.	stage11 harmony film game anime
+s11-hearing-film-progressions-04	Which progression ends on a minor chord that is not quite home?	The royal road, IV V iii vi.	stage11 harmony film game anime
+s11-anime-style-piano-piece-01	What is a key change also called?	A modulation.	stage11 harmony film game anime
+s11-anime-style-piano-piece-02	What is a pivot chord?	A chord that belongs to both the old key and the new key.	stage11 harmony film game anime
+s11-anime-style-piano-piece-03	Which chord is the pivot from C major to D major in Platform Four?	G major: V in C major and IV in D major.	stage11 harmony film game anime
+s11-anime-style-piano-piece-04	What is the royal road with sevenths in D major?	Gmaj7, A7, F#m7, Bm.	stage11 harmony film game anime
+s11-anime-style-piano-piece-05	How many sharps does D major have?	Two: F# and C#.	stage11 harmony film game anime

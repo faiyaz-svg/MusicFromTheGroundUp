@@ -115,11 +115,9 @@ Classical guitar studies by Giuliani, Carulli, Sor and Carcassi on your steel-st
 
 <span class="mf-stage__number">Stage 11</span>
 
-### Film, game and anime harmony
+### [Film, game and anime harmony](11-film-game-and-anime-harmony/index.md)
 
 The chord moves behind film, game and anime music: the royal road, Aeolian loops, borrowed chords, the Picardy third, pedal points and chromatic mediants.
-
-<p class="mf-stage__soon">Not written yet</p>
 
 </div>
 

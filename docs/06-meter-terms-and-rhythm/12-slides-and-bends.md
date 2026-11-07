@@ -160,7 +160,8 @@ Record your fretting hand from the front. Watch for these.
 - Fingers 1 and 2 stay on the strings behind the bending finger.
 - The wrist stays relaxed.
 
-<!-- video: a right-handed guitarist playing a slide and a half-step bend on the thin strings, close view of the fretting hand -->
+Watch: [How To Legato Slide on Guitar for Beginners (stop doing this!)](https://www.youtube.com/watch?v=063Eoa1i0Dk) by Gibson App: Learn & Play Guitar (free, on YouTube).
+Watch: [Bending Strings - Technique Series - How To Play IF Stage 4 - Guitar Lesson [IM-144]](https://www.youtube.com/watch?v=xGl0urYSuug) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

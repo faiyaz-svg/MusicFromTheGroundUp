@@ -170,7 +170,7 @@ Squeezing the neck because the strings feel stiff. Press with only enough force 
 
 ## Film yourself
 
-<!-- video: a classical guitar lesson showing the footstool or raised-leg position and the difference between a rest stroke and a free stroke -->
+Watch: [Rest Stroke vs Free Stroke: ULTIMATE GUIDE](https://www.youtube.com/watch?v=wF7idTF2oZk) by GuitarCody (free, on YouTube).
 
 Record 30 seconds from the front and 30 seconds from the side as you play Example 2. Watch it and check:
 

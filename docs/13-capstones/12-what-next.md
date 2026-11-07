@@ -26,7 +26,7 @@ Online lessons are another choice. Pick the teacher by the same questions.
 
 ### What to play next
 
-This book ends here, but the music does not. A list of licensed books of film, game and anime music, with their publishers, is in the Play next list<!-- link: ../reference/play-next.md -->. Buy licensed sheet music from the publisher or a shop: it supports the people who made it, and the arrangement is checked and legal. You can also return to the stretch pieces in this stage, or the pieces in stage 10, with a teacher.
+This book ends here, but the music does not. A list of licensed books of film, game and anime music, with their publishers, is in the [Play next](../reference/play-next.md) list. Buy licensed sheet music from the publisher or a shop: it supports the people who made it, and the arrangement is checked and legal. You can also return to the stretch pieces in this stage, or the pieces in stage 10, with a teacher.
 
 ### Keeping a routine after the book
 

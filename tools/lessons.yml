@@ -191,16 +191,16 @@ folders:
     lessons:
       - [fingerstyle-posture-and-studies, "Fingerstyle posture and studies", [guitar]]
       - [giuliani-right-hand-studies, "Giuliani: right-hand studies", [guitar]]
-      - [carulli-study, "Carulli: a study", [guitar]]
+      - [carulli-study, "Carulli: a waltz", [guitar]]
       - [sor-op-60, "Sor: two lessons from Opus 60", [guitar]]
       - [carcassi-op-60, "Carcassi: a study from Opus 60", [guitar]]
       - [clementi-sonatina-op-36-1, "Clementi: Sonatina in C, first movement", [piano]]
       - [burgmuller-arabesque, "Burgmüller: Arabesque", [piano]]
       - [burgmuller-ballade, "Burgmüller: Ballade", [piano]]
-      - [bach-minuet-for-guitar, "A Bach minuet for guitar", [guitar]]
+      - [bach-minuet-for-guitar, "The Minuet in G on guitar", [guitar]]
       - [sight-reading-classical, "Sight-reading classical pieces", [reading]]
       - [music-eras, "The eras of classical music", [theory]]
-      - [aguado-study, "Aguado: a study", [guitar, optional]]
+      - [aguado-study, "Aguado: a little piece", [guitar, optional]]
 
   - folder: 11-film-game-and-anime-harmony
     title: "Stage 11: Film, game and anime harmony"

@@ -161,7 +161,7 @@ Record 30 seconds from the front, with the fretting hand and the neck in view, w
 - Do the fingers stay low above the strings?
 - Is the new chord ready on beat 1?
 
-Watch: [Want Fast & Perfect Chord Changes on Guitar?](https://www.youtube.com/watch?v=xSFHgeJUuIs) by JustinGuitar (free, on YouTube).
+Watch: [Chord Switching Practice - C to G](https://www.youtube.com/watch?v=DKqbdVSeAEg) by Good Guitarist (free, on YouTube).
 
 ## Key terms
 

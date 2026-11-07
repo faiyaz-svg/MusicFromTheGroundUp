@@ -170,6 +170,7 @@ Squeezing the neck because the strings feel stiff. Press with only enough force 
 
 ## Film yourself
 
+Watch: [Classical Guitar Position Lesson: How to Sit, Hold and Position a Classical Guitar](https://www.youtube.com/watch?v=dYC9awwT_YQ) by This is Classical Guitar (free, on YouTube).
 Watch: [Rest Stroke vs Free Stroke: ULTIMATE GUIDE](https://www.youtube.com/watch?v=wF7idTF2oZk) by GuitarCody (free, on YouTube).
 
 Record 30 seconds from the front and 30 seconds from the side as you play Example 2. Watch it and check:

@@ -153,6 +153,7 @@ Record 30 seconds from the front, with your whole body and the guitar in view, a
 - Is your fretting fingertip close behind the fret wire?
 
 Watch: [How to Tune Your Guitar For Beginners](https://www.youtube.com/watch?v=X2EmpWr9vUc) by JustinGuitar (free, on YouTube).
+Watch: [How to Hold a Guitar Pick & Best Guitar Picks](https://www.youtube.com/watch?v=-04Et5qIoa4) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

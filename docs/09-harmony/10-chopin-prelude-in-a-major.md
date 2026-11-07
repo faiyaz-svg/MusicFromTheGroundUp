@@ -12,7 +12,7 @@ Before this: [Roman numerals](01-roman-numerals.md), [Cadences](03-cadences.md),
 
 A **prelude** is a short piece for piano that does not follow a set form. Frédéric Chopin wrote 24 preludes as his Opus 28, one in each major and minor key. This is No. 7, in A major. It has 16 bars. The score marks it Andantino (a walking tempo, near andante) and dolce e semplice, which means sweetly and plainly.
 
-It is in 3/4 time, so each bar has three quarter-note beats, as in the Minuet in G. A major has three sharps, which are F#, C# and G#, so every F, C and G in the score is sharp unless a sign says otherwise.
+It is in 3/4 time, as in the Minuet in G. A major has three sharps (F#, C# and G#), so every F, C and G is sharp unless a sign says otherwise.
 
 Listen to the opening first: the pickup and bars 1 to 4.
 

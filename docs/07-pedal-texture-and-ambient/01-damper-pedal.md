@@ -138,7 +138,7 @@ Pedalling with the toe in the air and the heel up. The foot has no pivot, and th
 
 Film your right foot and your hands from the side while you play the second example.
 
-<!-- video: a side view of a pianist's right foot on the damper pedal, heel on the floor, pressing after a chord and lifting at a rest -->
+Watch: [How To Use A Sustain Pedal - Piano Lesson (Pianote)](https://www.youtube.com/watch?v=koJVelJdnZE) by Pianote (free, on YouTube).
 
 Check that:
 

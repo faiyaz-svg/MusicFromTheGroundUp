@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 133 of 157. New lessons appear here as they are added.
+Lessons written so far: 137 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -139,6 +139,13 @@ Lessons written so far: 133 of 157. New lessons appear here as they are added.
 - [ ] [Chopin: Prelude in A major](09-harmony/10-chopin-prelude-in-a-major.md) (piano)
 - [ ] [Hearing chord progressions 2](09-harmony/11-hearing-progressions-2.md) (ear)
 - [ ] [Analysing a piece](09-harmony/12-analysing-a-piece.md) (theory)
+
+## Stage 10: Classical repertoire
+
+- [ ] [Fingerstyle posture and studies](10-classical-repertoire/01-fingerstyle-posture-and-studies.md) (guitar)
+- [ ] [Giuliani: right-hand studies](10-classical-repertoire/02-giuliani-right-hand-studies.md) (guitar)
+- [ ] [Carulli: a waltz](10-classical-repertoire/03-carulli-study.md) (guitar)
+- [ ] [Sor: two lessons from Opus 60](10-classical-repertoire/04-sor-op-60.md) (guitar)
 
 ## Stage 11: Film, game and anime harmony
 

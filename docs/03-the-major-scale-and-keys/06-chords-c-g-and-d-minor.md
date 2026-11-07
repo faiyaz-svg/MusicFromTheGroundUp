@@ -161,7 +161,7 @@ Record 30 seconds from the front, with the fretting hand and the neck in view, w
 - Do the fingers stay low above the strings?
 - Is the new chord ready on beat 1?
 
-<!-- video: a front view of a beginner changing between the C and G chords at 60 bpm, one chord per bar, showing the fingers moving together as a shape -->
+Watch: [Want Fast & Perfect Chord Changes on Guitar?](https://www.youtube.com/watch?v=xSFHgeJUuIs) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

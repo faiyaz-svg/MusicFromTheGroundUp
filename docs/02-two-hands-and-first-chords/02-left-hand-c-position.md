@@ -161,7 +161,7 @@ Record 30 seconds from the side and 30 seconds from above while you play the C D
 - Do all five notes sound at the same volume?
 - Does the hand stay still, so that only the fingers move?
 
-<!-- video: a side and top view of a beginner's left hand playing the C D E F G pattern in left-hand C position with curved fingers and a level wrist -->
+Watch: [Proper Hand Posture At The Piano](https://www.youtube.com/watch?v=rZznie6UU_o) by Pianote (free, on YouTube).
 
 ## Key terms
 

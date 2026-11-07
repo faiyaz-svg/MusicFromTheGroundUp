@@ -172,7 +172,7 @@ Record 30 seconds from the front while you change between E and A. Watch it and 
 - Does the thumb stay behind the neck, near the middle?
 - Does the strumming arm stay relaxed through the change?
 
-<!-- video: a front view of a beginner changing between E and A major chords, showing finger shapes and a relaxed strumming arm -->
+Watch: [A, D, and E - Easy Chord Changes Using Anchor Fingers](https://www.youtube.com/watch?v=McSfLPmXcLw) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

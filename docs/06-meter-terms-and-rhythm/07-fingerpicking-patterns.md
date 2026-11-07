@@ -141,7 +141,7 @@ Record your picking hand from above or the side. Watch for these.
 - The thumb moves in a straight line to its string.
 - The wrist is level, not bent.
 
-<!-- video: a right-handed guitarist playing a p i m a i m fingerpicking pattern slowly on an Am chord, close view of the picking hand -->
+Watch: [5 Fingerstyle Patterns You Need to Know](https://www.youtube.com/watch?v=jF0RduFSyHg) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

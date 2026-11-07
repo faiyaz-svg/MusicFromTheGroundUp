@@ -150,7 +150,7 @@ Record 30 seconds of the F chord from the front and 30 seconds from the side of 
 - Are the shoulder, elbow and wrist relaxed between attempts?
 - Can you lift the hand and put it back on the chord in one movement?
 
-<!-- video: a close view of a beginner placing an F major barre chord on a steel-string guitar, showing the edge of finger 1 behind the first fret, the thumb behind the neck and the relaxed elbow -->
+Watch: [Easy Barre Chords For Beginners](https://www.youtube.com/watch?v=ZYbxYoG6Mo0) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

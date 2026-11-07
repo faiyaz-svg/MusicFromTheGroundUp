@@ -175,7 +175,7 @@ Record your strumming arm from the front for 30 seconds while you play Pattern 3
 - Does the fretting hand relax on the chuck without lifting off?
 - Do you count aloud in time with the strums?
 
-<!-- video: a front view of a beginner strumming a sixteenth-note pattern with a chuck on beats 2 and 4, showing a continuous down-up arm motion and the fretting hand relaxing on the chuck -->
+Watch: [Here's How You Get A Percussive Strumming on Guitar](https://www.youtube.com/watch?v=MP292DdVOKs) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

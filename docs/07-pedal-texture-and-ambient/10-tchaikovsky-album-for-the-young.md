@@ -256,7 +256,7 @@ Speeding up the sixteenth-note figure in bar 6. Slow it down until it is even.
 
 Film your left hand in bars 17 to 19, and your right foot in bars 1 to 8.
 
-<!-- video: a pianist's left hand playing short detached broken chords while the right hand plays a smooth legato tune -->
+Watch: [Legato and Staccato in different hands at the same time!](https://www.youtube.com/watch?v=0BibWub6rTs) by Jane Trotter's Accelerando Piano (free, on YouTube).
 
 Check that:
 

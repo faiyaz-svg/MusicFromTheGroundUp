@@ -153,7 +153,7 @@ Record 30 seconds from the front while you strum Em to A, four strums per bar. W
 - Does the pick hit the strings the chord uses?
 - Are the shoulder and neck relaxed?
 
-<!-- video: a front view of a beginner strumming four down strokes per bar while changing between Em and A, showing a relaxed forearm swing -->
+Watch: [Your FIRST Strumming Pattern EVER! | Guitar for Beginners](https://www.youtube.com/watch?v=n45PDizCRLw) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

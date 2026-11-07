@@ -152,7 +152,7 @@ Record 30 seconds from the front, with your whole body and the guitar in view, a
 - Are your back upright and your shoulders low?
 - Is your fretting fingertip close behind the fret wire?
 
-<!-- video: a front view of a beginner sitting with a steel-string acoustic guitar, holding a pick, tuning a string with a clip-on tuner and fretting a note behind a fret -->
+Watch: [How to Tune Your Guitar For Beginners](https://www.youtube.com/watch?v=X2EmpWr9vUc) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

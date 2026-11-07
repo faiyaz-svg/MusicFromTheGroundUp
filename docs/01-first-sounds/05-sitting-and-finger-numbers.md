@@ -143,7 +143,7 @@ Prop your phone on the side of the piano so it sees you from the right, with you
 - Are the fingers curved, with the last joint not flat?
 - Does the thumb play on its side?
 
-<!-- video: a side view of a beginner sitting at a piano and playing a five-finger pattern in C position, showing bench height, forearm angle, curved fingers and a level wrist -->
+Watch: [Proper Posture At The Piano](https://www.youtube.com/watch?v=E8Do4oxTJ1k) by Pianote (free, on YouTube).
 
 ## Key terms
 

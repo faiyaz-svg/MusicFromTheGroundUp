@@ -144,7 +144,7 @@ Lifting for too long. A gap between chords breaks the legato. The lift and press
 
 Film your foot and hands together and look at the timing of each change.
 
-<!-- video: a pianist's hands and right foot from the side, playing C F G C with legato pedal changes right after each chord -->
+Watch: [Piano Lesson on Legato Pedalling](https://www.youtube.com/watch?v=F_d8oask2VU) by Pianist Magazine (free, on YouTube).
 
 Check that:
 

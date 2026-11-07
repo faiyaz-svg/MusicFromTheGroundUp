@@ -257,7 +257,7 @@ Record a view of your hands from the side playing the melody exercise. Watch it 
 - Do the wrists stay level and relaxed?
 - Do the dotted rhythms keep a steady beat with the short note quick?
 
-<!-- video: a side view of a beginner playing a right-hand melody over a quiet left-hand chord, showing relaxed wrists and a clear volume difference between the hands -->
+Watch: [VOICING Strategy - Make Your Melody SING With This Easy Practice Technique](https://www.youtube.com/watch?v=UsxfFs5nf2E) by Josh Wright (free, on YouTube).
 
 ## Key terms
 

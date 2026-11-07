@@ -159,7 +159,7 @@ Record 30 seconds from the front while you play D, then Am, one strum each per b
 - Are the fingers arched in each shape?
 - Does the fretting hand move as a block in the change?
 
-<!-- video: a front view of a beginner playing D and Am chords, showing the starting string for each strum and arched fingers -->
+Watch: [How to Play the Am Chord | Guitar for Beginners](https://www.youtube.com/watch?v=1Y2veGF9s44) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

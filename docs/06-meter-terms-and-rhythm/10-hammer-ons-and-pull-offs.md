@@ -149,7 +149,7 @@ Record your fretting hand from the side. Watch for these.
 - The other fingers stay close to the strings.
 - The thumb stays behind the neck and the wrist is relaxed.
 
-<!-- video: a right-handed guitarist playing a hammer-on and a pull-off on the open G string, close view of the fretting hand -->
+Watch: [Hammer-ons & Pull-offs | Intermediate Guitar Lesson](https://www.youtube.com/watch?v=dYaeIXXyy1Y) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

@@ -146,7 +146,7 @@ Record your strumming hand for one pattern. Watch for these.
 - The wrist is loose.
 - The hand moves from the wrist and the elbow, not the shoulder.
 
-<!-- video: a right-handed guitarist strumming a 6/8 pattern slowly, front view of the strumming arm -->
+Watch: [The 6 : 8 Strumming Pattern You NEED](https://www.youtube.com/watch?v=bKOmcPTHYpA) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

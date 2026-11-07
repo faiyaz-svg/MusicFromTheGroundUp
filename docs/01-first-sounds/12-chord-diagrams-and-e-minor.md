@@ -156,7 +156,7 @@ Record 30 seconds from the front, with your fretting hand, picking arm and the g
 - Is the pick showing about 3 mm?
 - Does the strum hit all six strings every time?
 
-<!-- video: a front view of a beginner playing an Em chord and strumming four down strokes per bar at 60 bpm, showing finger placement and a relaxed strumming arm -->
+Watch: [How to Play the Em Chord | Guitar for Beginners](https://www.youtube.com/watch?v=lqcd3jVysXY) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

@@ -145,7 +145,7 @@ Record 30 seconds from the front, with both of your hands and the keys in view, 
 - Does the thumb start to move before the previous note ends?
 - Are the fingers curved, with the thumb on its side?
 
-<!-- video: a front view of a beginner playing a one-octave C major scale with the right hand, showing a level wrist and the thumb passing under at slow tempo -->
+Watch: [How To Play Any Major Scale On The Piano](https://www.youtube.com/watch?v=vIuzrV1dwPs) by Pianote (free, on YouTube).
 
 ## Key terms
 

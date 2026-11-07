@@ -156,7 +156,7 @@ Record a bar or two of the pattern from the front, with the strumming hand and t
 - [ ] The forearm or wrist swings, not the fingers.
 - [ ] The up strokes are lighter than the down strokes.
 
-<!-- video: a strumming hand playing D D U U D U on an open chord, filmed from the front at a slow tempo -->
+Watch: [Easy Strumming Patterns With Up Strums | Guitar for Beginners](https://www.youtube.com/watch?v=IXL1bG_ao3c) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

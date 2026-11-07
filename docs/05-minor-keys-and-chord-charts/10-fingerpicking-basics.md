@@ -148,7 +148,7 @@ Record your picking hand from the front, close enough to see each finger. Watch 
 - Does the thumb stay on the bass strings?
 - Do the fingers stay close to the strings between notes?
 
-<!-- video: a close view of a beginner's picking hand playing p i m a on an Am chord, showing curved fingers, the thumb on string 5 and a relaxed wrist -->
+Watch: [Finger Style For Beginners. Start Here.](https://www.youtube.com/watch?v=2WB8otOcz78) by JustinGuitar (free, on YouTube).
 
 ## Key terms
 

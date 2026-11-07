@@ -156,7 +156,7 @@ Record 30 seconds of a two-octave scale from the front. Check:
 - Do the thumbs arrive on the click, in both hands?
 - Are the shoulders relaxed?
 
-<!-- video: a front view of a pianist playing a two-octave C major scale hands together at a slow tempo, showing a level wrist and the thumbs passing under -->
+Watch: [How to Practice Two-Octave Scales | Piano Technique for Beginners](https://www.youtube.com/watch?v=FbxGRH3qbBg) by Carnegie Studios (free, on YouTube).
 
 ## Key terms
 

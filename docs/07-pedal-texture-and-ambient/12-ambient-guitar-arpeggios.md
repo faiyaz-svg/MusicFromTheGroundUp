@@ -142,7 +142,7 @@ If a hand, wrist or arm aches, stop and rest. If it keeps happening, see a teach
 
 Film your picking hand and fretting hand.
 
-<!-- video: a guitarist's picking hand playing a rolling fingerstyle arpeggio on an Asus2 chord, thumb and three fingers, close up -->
+Watch: [How to Play Arpeggios Guitar - Beginners Guide - Guitar Lesson [AR-101]](https://www.youtube.com/watch?v=6o3lWAnWCig) by JustinGuitar (free, on YouTube).
 
 Check that:
 

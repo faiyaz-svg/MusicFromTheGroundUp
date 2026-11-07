@@ -161,4 +161,4 @@ Writing numerals without checking the key. In A minor, the chord on F is VI, and
 
 - **Analysis**: taking a piece apart to say its key, phrases, chords, cadences and non-chord tones.
 
-Next: Fingerstyle posture and studies<!-- link: ../10-classical-repertoire/01-fingerstyle-posture-and-studies.md -->
+Next: [Fingerstyle posture and studies](../10-classical-repertoire/01-fingerstyle-posture-and-studies.md)

@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`. On the piano path, skip the lessons marked guitar; on the guitar path, skip the ones marked piano.
 
-Lessons written so far: 149 of 157. New lessons appear here as they are added.
+Lessons written so far: 153 of 157. New lessons appear here as they are added.
 
 ## Stage 1: First sounds
 
@@ -191,3 +191,7 @@ Lessons written so far: 149 of 157. New lessons appear here as they are added.
 - [ ] [Phrases and form](13-capstones/02-phrases-and-form.md) (theory)
 - [ ] [The alto and tenor clefs](13-capstones/03-alto-and-tenor-clefs.md) (theory, optional)
 - [ ] [Chopin: Prelude in E minor](13-capstones/04-chopin-prelude-in-e-minor.md) (piano, stretch)
+- [ ] [Schumann: Träumerei](13-capstones/05-schumann-traumerei.md) (piano, stretch)
+- [ ] [Chopin: Prelude in B minor](13-capstones/06-chopin-prelude-in-b-minor.md) (piano, stretch)
+- [ ] [Satie: Gymnopédie No. 1](13-capstones/07-satie-gymnopedie-1.md) (piano, stretch)
+- [ ] [Playing by ear](13-capstones/08-playing-by-ear.md) (ear)

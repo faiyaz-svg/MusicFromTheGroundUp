@@ -12,7 +12,7 @@ Before this: [The minor pentatonic scale](08-minor-pentatonic.md), [Slides and b
 
 Box 1 uses frets 5 to 8, and it holds two notes on each string. The same five notes of A minor pentatonic (A, C, D, E, G) appear on every string all the way up the neck, so there are other places to play them. The notes fall into five boxes, each a shape of two notes per string. Together the boxes cover the whole neck.
 
-![Fretboard frets 0 to 15 with every note of the A minor pentatonic scale marked, the A notes in salmon](../assets/figures/12-modes-and-improvising/pentatonic-boxes-neck.svg)
+![Fretboard frets 0 to 15 with every note of the A minor pentatonic scale marked, the A notes in salmon](../assets/figures/12-modes-and-improvising/pentatonic-boxes-neck.svg){ .mf-wide }
 
 Each box shares one note on every string with the next box. The higher note of box 1 on a string is the lower note of box 2. That is how you move between boxes: on any string, slide from the top of one box to the top of the next, or pick a note that is in both.
 

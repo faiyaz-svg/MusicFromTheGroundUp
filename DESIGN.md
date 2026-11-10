@@ -150,6 +150,8 @@ Tables have a 2px dark outline, a grey header row and thin row lines. Inline cod
 
 SVG figures sit on white. In dark mode they get a white panel with a little padding, so the drawing keeps its colours.
 
+A figure wider than about 600px with small labels (a whole fretboard) gets `{ .mf-wide }` after the image. On phones it keeps its full size and scrolls sideways instead of shrinking.
+
 ## Dark mode
 
 - Surfaces are dark grey: page `#1e1e1e`, panels `#2a2a2a`, header `#121212`.

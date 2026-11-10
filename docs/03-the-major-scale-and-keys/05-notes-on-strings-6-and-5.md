@@ -26,7 +26,7 @@ On string 5, which starts on A:
 
 The frets that are left out (2, 4, 6, 9, 11 on string 6) are the sharps and flats. The gaps between natural notes are two frets apart, except at E to F and at B to C, where the gap is one fret.
 
-![Frets 0 to 12 on strings 6 and 5 with the natural notes marked: string 6 is E F G A B C D E and string 5 is A B C D E F G A](../assets/figures/03-the-major-scale-and-keys/notes-on-strings-6-and-5-natural-notes.svg)
+![Frets 0 to 12 on strings 6 and 5 with the natural notes marked: string 6 is E F G A B C D E and string 5 is A B C D E F G A](../assets/figures/03-the-major-scale-and-keys/notes-on-strings-6-and-5-natural-notes.svg){ .mf-wide }
 
 ### The octave at fret 12
 

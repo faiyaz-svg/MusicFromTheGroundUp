@@ -30,7 +30,7 @@ Everything to remember from this stage, on one page.
 
 Each fret is one half step. Fret 12 is the open string an octave higher. Strings 6 and 1 are both E, so they match fret for fret.
 
-![Frets 0 to 12 on all six strings with every note name](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-all-notes.svg)
+![Frets 0 to 12 on all six strings with every note name](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-all-notes.svg){ .mf-wide }
 
 | String | Natural notes and their frets |
 |---|---|
@@ -93,7 +93,7 @@ C major in five places (a half-step move from each open shape):
 
 The shapes always follow each other in the order C, A, G, E, D, then C again an octave higher. To find a chord in a shape, count the half steps from the open chord's root up to the target and add them to every fret.
 
-![The five shapes of C major in five colours on one neck](../assets/figures/08-fretboard-barre-chords-and-caged/caged-chords-c-five-places.svg)
+![The five shapes of C major in five colours on one neck](../assets/figures/08-fretboard-barre-chords-and-caged/caged-chords-c-five-places.svg){ .mf-wide }
 
 The C major scale lives in five blocks, one around each chord shape: frets 0 to 4 (C shape), 3 to 7 (A shape), 5 to 9 (G shape), 8 to 12 (E shape), 10 to 14 (D shape). Each block has three notes on every string.
 

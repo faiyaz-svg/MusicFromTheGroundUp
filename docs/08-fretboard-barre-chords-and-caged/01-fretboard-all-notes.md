@@ -12,11 +12,11 @@ Before this: [Notes on strings 6 and 5](../03-the-major-scale-and-keys/05-notes-
 
 You already know that one fret is one half step and that fret 12 is the open note an octave higher. The notes on every string follow the same cycle of twelve: A, A#, B, C, C#, D, D#, E, F, F#, G, G#, and then A again. Each string starts at a different place in the cycle. String 4 starts on D, so its frets give D, D#, E, F and so on. The map below shows all 72 positions from fret 0 to fret 12. Sharps are shown; every sharp also has a flat name (A# is Bb, for example).
 
-![Frets 0 to 12 on all six strings with every note name written on the neck](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-all-notes.svg)
+![Frets 0 to 12 on all six strings with every note name written on the neck](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-all-notes.svg){ .mf-wide }
 
 The natural notes are easier to learn first, because there are only seven letters and the sharps fall in between. The only places where two natural notes sit one fret apart are E to F and B to C.
 
-![The natural notes on all six strings from fret 0 to 12, with every C marked in yellow](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-natural-notes.svg)
+![The natural notes on all six strings from fret 0 to 12, with every C marked in yellow](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-natural-notes.svg){ .mf-wide }
 
 You know strings 6 and 5. Here are the other four, as frets from 0 to 12:
 
@@ -42,7 +42,7 @@ The same note appears on several strings. A pair of notes with the same letter n
 
 Take G at string 6, fret 3. Skip string 5, and the octave above is on string 4, fret 5. Check it in the table above: string 4, fret 5 is G. The same rule works for any fret, so it moves with the note.
 
-![Every G from fret 0 to 12; the root on string 6, fret 3 is salmon](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-octave-g.svg)
+![Every G from fret 0 to 12; the root on string 6, fret 3 is salmon](../assets/figures/08-fretboard-barre-chords-and-caged/fretboard-all-notes-octave-g.svg){ .mf-wide }
 
 Here is the shape written as music: each pair is a note and the octave above it. The tab may show a different place for a note than the one you expect; play the note where the rule puts it.
 

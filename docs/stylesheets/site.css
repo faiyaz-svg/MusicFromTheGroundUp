@@ -497,6 +497,12 @@ input {
 [data-md-color-scheme="slate"] .md-typeset img[src$=".svg"] { padding: 0.75rem; }
 .md-typeset figcaption { color: var(--muted); font-size: 0.8rem; }
 
+/* Wide fretboards keep their full size on phones and scroll sideways, so the note names stay readable. */
+@media screen and (max-width: 47.9375em) {
+  .md-typeset p:has(> img.mf-wide) { overflow-x: auto; }
+  .md-typeset img.mf-wide { max-width: none; }
+}
+
 /* ---------- Music blocks ---------- */
 
 /* The ABC source stays in the page but is hidden on screen. */

@@ -24,7 +24,7 @@ Take C major: C, E, G. Its notes are on every string, in many places. The five s
 
 The "moved up by" number is the number of half steps from the open chord's root to C: A up to C is 3, G up to C is 5, E up to C is 8 and D up to C is 10. Every fret in the open shape goes up by that number, and the open strings become fretted strings (so the A and E shapes need a barre). Past fret 12 the pattern repeats from the C shape.
 
-![The five shapes of C major on one neck, frets 0 to 15, in five colours: C yellow, A salmon, G teal, E sky, D lavender](../assets/figures/08-fretboard-barre-chords-and-caged/caged-chords-c-five-places.svg)
+![The five shapes of C major on one neck, frets 0 to 15, in five colours: C yellow, A salmon, G teal, E sky, D lavender](../assets/figures/08-fretboard-barre-chords-and-caged/caged-chords-c-five-places.svg){ .mf-wide }
 
 Each colour in the picture is one shape. Where two shapes share a dot, the colour of the later one shows. The five shapes always come in the same order, C then A then G then E then D, and then C again an octave higher.
 

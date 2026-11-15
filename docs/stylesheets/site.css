@@ -155,12 +155,15 @@ input {
   color: #fff;
   border-top: 1px solid #333;
 }
+/* A thin visible scrollbar, so mouse users can reach tabs past the edge */
 .md-tabs__list {
   overflow-x: auto;
-  scrollbar-width: none;
+  scrollbar-width: thin;
+  scrollbar-color: #777 transparent;
   contain: none;
 }
-.md-tabs__list::-webkit-scrollbar { display: none; }
+.md-tabs__list::-webkit-scrollbar { display: block; height: 6px; }
+.md-tabs__list::-webkit-scrollbar-thumb { background: #777; }
 .md-tabs__item {
   height: 2.2rem;
   padding: 0;

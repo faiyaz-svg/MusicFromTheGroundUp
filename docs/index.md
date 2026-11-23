@@ -148,4 +148,4 @@ Transposing, phrases and form, four longer piano pieces, playing by ear, guitar 
 - [Progress](progress.md): a checklist of every lesson, with the piano and guitar paths marked.
 - [Reference](reference/index.md): the glossary, notation symbols, chord charts, scales and keys.
 
-The sibling books: [Math From the Ground Up](https://faiyaz-svg.github.io/MathFromTheGroundUp/), [CS From the Ground Up](https://faiyaz-svg.github.io/CSFromTheGroundUp/) and [French From the Ground Up](https://faiyaz-svg.github.io/FrenchFromTheGroundUp/).
+The sibling books: [Math From the Ground Up](https://faiyaz-svg.github.io/MathFromTheGroundUp/), [CS From the Ground Up](https://faiyaz-svg.github.io/CSFromTheGroundUp/), [French From the Ground Up](https://faiyaz-svg.github.io/FrenchFromTheGroundUp/) and [Investing and Trading From the Ground Up](https://faiyaz-svg.github.io/InvestingAndTradingFromTheGroundUp/).
